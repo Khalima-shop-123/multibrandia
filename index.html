@@ -175,8 +175,11 @@
   <div class="sumline"><span>Доставка СДЭК</span><span id="sumDel"></span></div>
   <div class="sumtotal"><span>ИТОГО К ОПЛАТЕ</span><span id="sumTotal"></span></div>
     <div class="payrow">
-    <button class="btn wine" onclick="payNow(false)">ОПЛАТИТЬ ПОЛНОСТЬЮ<br><small id="fullBtn"></small></button>
-    <button class="btn wine" onclick="payNow(true)">ОПЛАТИТЬ 50%<br><small id="halfBtn"></small></button>
+    <div class="btn wine" style="opacity:.55">ОПЛАТИТЬ ПОЛНОСТЬЮ<br><small id="fullBtn"></small></div>
+    <div class="btn wine" style="opacity:.55">ОПЛАТИТЬ 50%<br><small id="halfBtn"></small></div>
+  </div>
+  <div style="padding:0 16px 10px;font-size:13px;color:#8a7563;text-align:center">
+    💳 Реквизиты для оплаты пришлём вам в чат сразу после оформления заказа
   </div>
   <div style="padding:10px 16px 0">
     <button class="btn" onclick="sendReceipt()">📸 ОТПРАВИТЬ ЧЕК ОБ ОПЛАТЕ</button>
@@ -194,7 +197,6 @@ const MT_DELIVERY = 1800; // доставка СДЭК Форвард за 1 ч�
 PRODUCTS.forEach(p => { p.price_rub = Math.ceil(p.price_rub/100)*100; if (p.old_rub) p.old_rub = Math.ceil(p.old_rub/100)*100; });
 const tg = window.Telegram.WebApp; tg.ready(); tg.expand();
 const fmt = n => n.toLocaleString('ru-RU') + ' ₽';
-const PAY_LINK = 'https://qr.nspk.ru/AS1A004446Q653U18ML9ASO87OP4JV5Q?type=01&bank=100000000111&crc=E980';
 const GS_URL = 'https://script.google.com/macros/s/AKfycbzo46iASNTVBe395oDI4Fi6kA8AdvRQ_1w16FmuK6ih44DFjZkTZvitbU9KUJxtpylb/exec';
 let cart = JSON.parse(localStorage.getItem('burker_cart') || '{}');
 // подключаем ручные бренды (mathey.js и др.)
@@ -496,19 +498,11 @@ function sendOrderOnce(){
       headers:{'Content-Type':'text/plain;charset=utf-8'},
       body: JSON.stringify(payload)});
   } catch(e) {}
-  // 2. \u0412 \u0431\u043e\u0442\u0430 \u2014 \u0435\u0441\u043b\u0438 \u0432\u043d\u0443\u0442\u0440\u0438 Telegram
-  if (tg.initData) { tg.sendData(JSON.stringify(payload)); }
+  // 2. Уведомление о заказе шлёт Google Apps Script (GS_URL): пишет в таблицу + отправляет заказ в бот
   cart={}; saveCart();
   return true;
 }
-function payNow(half){
-  payMode = half ? 'half' : 'full';
-  const sub=cartSubtotal(), del=deliveryCalc(), total=sub+del;
-  const amt = half ? Math.ceil(total/2) : total;
-  sendOrderOnce();
-  tg.showAlert('Ожидаем скриншот об оплате в поддержку.');
-  tg.openLink(PAY_LINK);
-}
+
 function sendReceipt(){
   sendOrderOnce();
   tg.openLink('https://t.me/shamsuevah');
