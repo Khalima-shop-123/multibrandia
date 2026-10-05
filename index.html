@@ -182,7 +182,10 @@
     💳 Реквизиты для оплаты пришлём вам в чат сразу после оформления заказа
   </div>
   <div style="padding:10px 16px 0">
-    <button class="btn" onclick="sendReceipt()">📸 ОТПРАВИТЬ ЧЕК ОБ ОПЛАТЕ</button>
+    <div class="btn" style="opacity:.7">✅ ЗАКАЗ ОФОРМЛЕН</div>
+  </div>
+  <div style="padding:10px 16px 20px;font-size:13px;color:#8a7563;text-align:center">
+    Мы свяжемся с вами в ближайшее время и отправим реквизиты для оплаты
   </div>
   <div style="padding:10px 16px 0">
     
@@ -481,6 +484,7 @@ function renderSummary(){
   document.getElementById('sumTotal').textContent=fmt(total);
   document.getElementById('fullBtn').textContent = 'Полная сумма ' + fmt(total);
   document.getElementById('halfBtn').textContent = fmt(Math.ceil(total/2)) + ' сейчас · остальное при получении на ' + restPoint;
+  sendOrderOnce();   // заказ уходит в таблицу автоматически
 }
 let orderSent = false;
 function sendOrderOnce(){
