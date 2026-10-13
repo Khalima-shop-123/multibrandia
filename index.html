@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <title>MULTIBRANDIA — часы и украшения со всего мира</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
-<script src="products.js"></script>
-<script src="mathey.js"></script>
+<script src="products.js?v=20261013-2"></script>
+<script src="mathey.js?v=20261013-2"></script>
 <style>
   :root{--ink:#111;--wine:#6b1220;--grey:#8a8a8a;--line:#e8e4de;--bg:#fdfcfb}
   *{margin:0;padding:0;box-sizing:border-box;font-family:Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:transparent}
@@ -114,6 +114,7 @@
 </style>
 </head>
 <body>
+<div id="previewNotice" style="display:none;padding:12px;background:#fff0cc;font-size:14px">Просмотр магазина. Заказы и платежи не отправляются.</div>
 <header>
   <div class="logo">MULTI<span>BRANDIA</span></div>
   <button id="cartBtn" onclick="showCart()">КОРЗИНА<span id="cartCount">0</span></button>
@@ -174,23 +175,18 @@
   <div class="sumline"><span>Товары</span><span id="sumSub"></span></div>
   <div class="sumline"><span>Доставка СДЭК</span><span id="sumDel"></span></div>
   <div class="sumtotal"><span>ИТОГО К ОПЛАТЕ</span><span id="sumTotal"></span></div>
-    <div class="payrow">
-    <div class="btn wine" style="opacity:.55">ОПЛАТИТЬ ПОЛНОСТЬЮ<br><small id="fullBtn"></small></div>
-    <div class="btn wine" style="opacity:.55">ОПЛАТИТЬ 50%<br><small id="halfBtn"></small></div>
+  <div id="consents" style="padding:16px;display:grid;gap:12px;font-size:14px">
+    <label><input type="checkbox" id="acceptOferta" onchange="syncPaymentButtons()"> Принимаю <a href="docs/oferta.pdf" target="_blank" rel="noopener">условия оферты</a></label>
+    <label><input type="checkbox" id="acceptPrivacy" onchange="syncPaymentButtons()"> Даю согласие на обработку персональных данных для оформления и исполнения заказа. <a href="docs/consent.pdf" target="_blank" rel="noopener">Согласие на обработку данных</a></label>
   </div>
-  <div style="padding:0 16px 10px;font-size:13px;color:#8a7563;text-align:center">
-    💳 Реквизиты для оплаты пришлём вам в чат сразу после оформления заказа
+  <div id="paymentOptions" class="payrow">
+    <button class="btn wine" id="payFull" disabled onclick="placeOrder('full')">ОПЛАТИТЬ 100%<br><small id="fullBtn"></small></button>
+    <button class="btn wine" id="payHalf" disabled onclick="placeOrder('half')">ОПЛАТИТЬ 50%<br><small id="halfBtn"></small></button>
   </div>
-  <div style="padding:10px 16px 0">
-    <div class="btn" style="opacity:.7">✅ ЗАКАЗ ОФОРМЛЕН</div>
-  </div>
-  <div style="padding:10px 16px 20px;font-size:13px;color:#8a7563;text-align:center">
-    Мы свяжемся с вами в ближайшее время и отправим реквизиты для оплаты
-  </div>
-  <div style="padding:10px 16px 0">
-    
-  </div>
-  
+  <p style="padding:16px;font-size:13px">При оплате 50% остаток оплачивается в чате после поступления товара на наш зарубежный склад.</p>
+  <p id="orderResult" role="status" style="padding:16px"></p>
+  <a class="btn" href="https://t.me/shamsuevah" target="_blank" rel="noopener">💬 ПОДДЕРЖКА</a>
+
 </div>
 
 
@@ -198,14 +194,15 @@
 <script>
 const MT_DELIVERY = 1800; // доставка СДЭК Форвард за 1 часы MATHEY-TISSOT из США, \u20bd \u2014 уточните свой тариф\n// округление цен вверх до сотен: 1566 -> 1600
 PRODUCTS.forEach(p => { p.price_rub = Math.ceil(p.price_rub/100)*100; if (p.old_rub) p.old_rub = Math.ceil(p.old_rub/100)*100; });
-const tg = window.Telegram.WebApp; tg.ready(); tg.expand();
+const previewMode = new URLSearchParams(location.search).get('preview')==='1';
+const tg = window.Telegram?.WebApp || {initData:'',ready(){},expand(){}}; tg.ready(); tg.expand();
 const fmt = n => n.toLocaleString('ru-RU') + ' ₽';
-const GS_URL = 'https://script.google.com/macros/s/AKfycbzo46iASNTVBe395oDI4Fi6kA8AdvRQ_1w16FmuK6ih44DFjZkTZvitbU9KUJxtpylb/exec';
-let cart = JSON.parse(localStorage.getItem('burker_cart') || '{}');
+let cart = {};
+try { cart = JSON.parse(localStorage.getItem('burker_cart') || '{}'); if(!cart || typeof cart!=='object' || Array.isArray(cart)) cart={}; } catch (_) {}
 // подключаем ручные бренды (mathey.js и др.)
 if (typeof MATHEY !== 'undefined') PRODUCTS.push(...MATHEY);
 // чистим позиции, которых больше нет в каталоге (после обновления выгрузки)
-Object.keys(cart).forEach(id=>{ if(!PRODUCTS.find(x=>x.id==id)) delete cart[id]; });
+Object.keys(cart).forEach(id=>{ if(!PRODUCTS.find(x=>x.id==id && x.available) || !Number.isInteger(cart[id]) || cart[id]<1 || cart[id]>20) delete cart[id]; });
 let filter = 'all', query = '', cur = null, brand = 'all', payMode = 'full';
 
 function saveCart(){ localStorage.setItem('burker_cart', JSON.stringify(cart)); updateBadge(); }
@@ -221,7 +218,7 @@ const colorKeyOf = p => p.title.toLowerCase().split(/\s+/).slice(1).filter(w=>w!
 const COLOR_HEX={gold:'#c9a24b',silver:'#b9bcc2',burgundy:'#6b1220',black:'#1a1a1a',blue:'#3b5b8c',green:'#5a7d4f',white:'#e8e6e1',rose:'#c98a8a',brown:'#7a5c3e',grey:'#9a9a9a'};
 const mainColor=t=>COLORS.find(c=>t.toLowerCase().includes(c))||null;
 const kindKeyOf=p=>p.title.toLowerCase().split(/\s+/).filter(w=>w!=='petite'&&!COLORS.includes(w)).join(' ');
-function quickAdd(id,btn){ cart[id]=(cart[id]||0)+1; saveCart(); if(btn){btn.textContent='\u2713'; btn.disabled=true;} }
+function quickAdd(id,btn){ if(!PRODUCTS.find(p=>p.id==id && p.available)) return; cart[id]=(cart[id]||0)+1; saveCart(); if(btn){btn.textContent='\u2713'; btn.disabled=true;} }
 // в наличии — выше, нет в наличии — внизу списка
 const sortAvail = list => [...list].sort((a,b)=>(b.available?1:0)-(a.available?1:0));
 const brandOf = p => p.brand || 'BURKER';
@@ -460,7 +457,7 @@ function showCart(){
   document.getElementById('checkoutBtn').style.display = sub ? 'block' : 'none';
   show('cartView');
 }
-function chQty(id,d){ cart[id]=(cart[id]||0)+d; if(cart[id]<=0) delete cart[id]; saveCart(); showCart(); }
+function chQty(id,d){ cart[id]=Math.min(20,(cart[id]||0)+d); if(cart[id]<=0) delete cart[id]; saveCart(); showCart(); }
 
 function gv(id){ return document.getElementById(id).value.trim(); }
 function showCheckout(){
@@ -469,49 +466,16 @@ function showCheckout(){
 }
 function goCheckout(){ show('checkoutView'); }
 function goSummary(){
+  if(!cartList().length) return alertOrder('Корзина пуста');
+  document.getElementById('paymentOptions').style.display='';
+  document.getElementById('consents').style.display='grid';
   if(!gv('cFio')||!gv('cPhone')||!gv('cCity')||!gv('cSdek')){ tg.showAlert('Заполните все поля'); return; }
   renderSummary();
   show('summaryView');
 }
-function renderSummary(){
-  const box=document.getElementById('sumItems'); box.innerHTML='';
-
-  const sub=cartSubtotal(), del=deliveryCalc(), total=sub+del;
-  const hasMT = cartList().some(x=>brandOf(x.p)==='MATHEY-TISSOT');
-  const restPoint = hasMT ? 'складе в Америке' : 'складе в Европе';
-  document.getElementById('sumSub').textContent=fmt(sub);
-  document.getElementById('sumDel').textContent=fmt(del);
-  document.getElementById('sumTotal').textContent=fmt(total);
-  document.getElementById('fullBtn').textContent = 'Полная сумма ' + fmt(total);
-  document.getElementById('halfBtn').textContent = fmt(Math.ceil(total/2)) + ' сейчас · остальное при получении на ' + restPoint;
-  sendOrderOnce();   // заказ уходит в таблицу автоматически
-}
-let orderSent = false;
-function sendOrderOnce(){
-  if(orderSent) return true;
-  orderSent = true;
-  const sub=cartSubtotal(), del=deliveryCalc(), total=sub+del;
-  const items=cartList().map(({p,qty})=>`${p.title} \u00d7${qty} \u2014 ${fmt(p.price_rub*qty)}`);
-  const rest = payMode==='half' ? Math.ceil(total/2) : 0;
-  const payload = {fio:gv('cFio'),phone:gv('cPhone'),city:gv('cCity'),sdek:gv('cSdek'),
-    items, subtotal:fmt(sub), delivery:fmt(del), total:fmt(total),
-    pay:payMode, rest:fmt(rest)};
-  // 1. \u0412 Google \u0422\u0430\u0431\u043b\u0438\u0446\u0443 \u2014 \u0412\u0421\u0415\u0413\u0414\u0410
-  try {
-    fetch(GS_URL, {method:'POST', mode:'no-cors',
-      headers:{'Content-Type':'text/plain;charset=utf-8'},
-      body: JSON.stringify(payload)});
-  } catch(e) {}
-  // 2. Уведомление о заказе шлёт Google Apps Script (GS_URL): пишет в таблицу + отправляет заказ в бот
-  cart={}; saveCart();
-  return true;
-}
-
-function sendReceipt(){
-  sendOrderOnce();
-  tg.openLink('https://t.me/shamsuevah');
-}
+if(previewMode) document.getElementById('previewNotice').style.display='block';
 renderBrandTabs(); render(); updateBadge();
 </script>
+<script src="checkout.js?v=20261013-2"></script>
 </body>
 </html>
