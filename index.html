@@ -2,11 +2,12 @@
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MULTIBRANDIA — часы и украшения со всего мира</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
-<script src="products.js?v=20261013-2"></script>
-<script src="mathey.js?v=20261013-2"></script>
+<script src="products.js?v=20261015-1"></script>
+<script src="mathey.js?v=20261015-1"></script>
+<script src="advents.js?v=20261015-1"></script>
 <style>
   :root{--ink:#111;--wine:#6b1220;--grey:#8a8a8a;--line:#e8e4de;--bg:#fdfcfb}
   *{margin:0;padding:0;box-sizing:border-box;font-family:Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:transparent}
@@ -48,11 +49,20 @@
   .card .info{padding:10px 12px 14px}
   .card h3{font-size:13px;font-weight:600;margin-bottom:6px;min-height:32px}
   .price{font-size:15px;font-weight:700}
+  .contents-value{display:block;font-size:12px;line-height:1.5;font-weight:400;color:#796e67;margin-top:6px}
+  .contents-value[hidden]{display:none}
+  .contents-name{display:block;font-weight:600}
+  .contents-description{display:block;margin-top:3px;color:#665a51;font-size:13px;line-height:1.5}
+  .advent-delivery-notice{margin:16px;padding:16px;border:2px solid var(--wine);border-radius:12px;background:#f7eee9;font-size:15px;line-height:1.55}
+  .advent-delivery-notice h3{font-size:17px;color:var(--wine);margin:0 0 10px}
+  .advent-delivery-notice p+p{margin-top:10px}
+  .advent-delivery-notice a{color:var(--wine);font-weight:700}
+  .advent-delivery-notice[hidden],#sumDelRow[hidden]{display:none}
   .old{font-size:12px;color:var(--grey);text-decoration:line-through;margin-left:6px}
   .badge{display:inline-block;font-size:10px;letter-spacing:1px;color:#fff;background:var(--wine);
     padding:3px 7px;border-radius:2px;margin-bottom:6px}
   .badge.out{background:var(--grey)}
-  #productView,#cartView{display:none}
+  #productView,#cartView,#checkoutView,#summaryView{display:none}
   .back{padding:14px 16px;font-size:13px;color:var(--grey);cursor:pointer;letter-spacing:1px}
   .carousel{position:relative;width:100%;aspect-ratio:1;background:#fff;overflow:hidden}
   .carousel img{width:100%;height:100%;object-fit:cover;position:absolute;inset:0;opacity:0;transition:opacity .25s}
@@ -111,9 +121,42 @@
   .sizebtn.active{background:var(--ink);color:#fff}
   .vplus{display:block;width:100%;border:none;border-top:1px solid var(--line);background:var(--bg);padding:8px;font-size:17px;cursor:pointer;color:var(--ink)}
   .vplus:disabled{color:var(--grey)}
+
+.gate{position:fixed;inset:0;background:#f7f5f2;z-index:1000;overflow:auto;padding:20px;box-sizing:border-box;display:flex;align-items:flex-start;justify-content:center}
+.gate-box{max-width:500px;width:100%;margin:auto;text-align:center;padding:12px 0}.gate-hero{width:100%;height:180px;object-fit:cover;border-radius:22px;border:1px solid var(--line)}
+.gate h1{font-family:Arial,sans-serif;font-size:29px;margin:26px 0 12px}.gate-intro{color:#777;line-height:1.6;margin-bottom:22px}
+.consent-card{display:flex;align-items:center;gap:10px;text-align:left;background:#eae7e4;border-radius:22px;padding:20px 16px;margin-bottom:12px}
+.consent-card label{display:flex;align-items:center;gap:15px;flex:1;cursor:pointer;font-size:17px;line-height:1.4}
+.consent-card input{appearance:none;flex:0 0 30px;width:30px;height:30px;background:white;border:1px solid #ddd;border-radius:50%;margin:0;cursor:pointer}
+.consent-card input:checked{background:var(--wine);border-color:var(--wine)}.consent-card input:checked:after{content:'✓';display:block;color:white;text-align:center;font-size:22px}
+.consent-card a{color:#777;text-decoration:none;font-size:26px}.gate .btn{border-radius:40px;text-transform:none;letter-spacing:0;margin-top:14px}.gate-help{font-size:13px;color:#888;line-height:1.4}#gateStatus{font-size:14px;color:var(--wine)}
+.notice-box{width:min(420px,100%);margin:auto;padding:24px;background:white;border-radius:24px;box-shadow:0 10px 40px #0001;line-height:1.6}
+.summary-item{display:flex;gap:15px;margin:0 16px;padding:18px 0;border-bottom:1px solid var(--line)}.summary-item img{width:76px;height:90px;object-fit:contain;background:white;border:1px solid var(--line);border-radius:10px}.summary-item div{flex:1;min-width:0}.summary-item h3{font-size:15px;margin:2px 0 8px;line-height:1.4}.summary-item p{font-size:13px;color:#777;margin:6px 0}.summary-item strong{font-size:15px}
+#productDetails{line-height:1.6;font-size:14px;margin:20px 0}#productDetails li{margin-bottom:7px}#productDetails summary{cursor:pointer;color:var(--wine);padding:12px 0;font-weight:bold}#productDetails a{color:var(--wine)}
+.photo-pending{height:220px;display:flex;align-items:center;justify-content:center;background:#faf9f7;color:#999;font-family:Georgia,serif;letter-spacing:2px}
+.bcard img{object-fit:contain;background:white}.bcard.advent-cover img{object-fit:cover}.payrow .btn{border-radius:12px;letter-spacing:.4px}.field{border-radius:12px}button:disabled{opacity:.5;cursor:not-allowed}
 </style>
 </head>
 <body>
+<div id="consentGate" class="gate" role="dialog" aria-modal="true" aria-labelledby="gateTitle">
+  <div class="gate-box">
+    <img class="gate-hero" src="consent-hero.png" alt="MULTIBRANDIA">
+    <h1 id="gateTitle">Чтобы продолжить</h1>
+    <p class="gate-intro">Ознакомьтесь с условиями и подтвердите свой выбор.</p>
+    <div class="consent-card"><label><input type="checkbox" id="gatePrivacy">Обработка персональных данных</label><a href="docs/consent.pdf" target="_blank" rel="noopener" aria-label="Открыть согласие на обработку персональных данных">ⓘ</a></div>
+    <div class="consent-card"><label><input type="checkbox" id="gateOferta">Соглашение и оферта</label><a href="docs/oferta.pdf" target="_blank" rel="noopener" aria-label="Открыть оферту">ⓘ</a></div>
+    <div class="consent-card"><label><input type="checkbox" id="gateAdvertising">Рекламная рассылка</label><a href="docs/mailing.pdf" target="_blank" rel="noopener" aria-label="Открыть условия рекламной рассылки">ⓘ</a></div>
+    <button class="btn wine" id="gateContinue" disabled>Продолжить</button>
+    <p class="gate-help">Чтобы продолжить, отметьте галочками пункты выше.</p>
+    <p class="gate-help">Отписаться от рекламы можно в меню бота: /stop.</p>
+    <p class="gate-help"><a href="docs/privacy.pdf" target="_blank" rel="noopener">Политика обработки персональных данных</a></p>
+    <p id="gateStatus" role="status">Проверяем сохранённые согласия…</p>
+    <button class="btn" id="gateRetry" style="display:none">Повторить проверку</button>
+  </div>
+</div>
+<div id="receiptNotice" class="gate" style="display:none" role="dialog" aria-modal="true" aria-labelledby="receiptTitle">
+ <div class="notice-box"><h2 id="receiptTitle">После оплаты отправьте чек</h2><p>Пожалуйста, обязательно отправьте чек в поддержку. Он нужен, чтобы мы подтвердили оплату и начали выкуп вашего заказа.</p><button class="btn wine" id="receiptOk">ОК</button></div>
+</div>
 <div id="previewNotice" style="display:none;padding:12px;background:#fff0cc;font-size:14px">Просмотр магазина. Заказы и платежи не отправляются.</div>
 <header>
   <div class="logo">MULTI<span>BRANDIA</span></div>
@@ -124,12 +167,13 @@
   <input id="searchInput" type="search" placeholder="Поиск: Diana, Sophie, Ava…">
 </div>
 
-<div class="tabs" id="brandTabs"></div>
+<div class="back" id="categoryBack" onclick="homeCatalog()" style="display:none">← ВСЕ РАЗДЕЛЫ</div>
+<div class="tabs" id="brandTabs" style="display:none"></div>
 <div class="tabs" id="tabs">
   <button class="tab active" data-f="all">Все</button>
   <button class="tab" data-f="Watch">Часы</button>
   <button class="tab" data-f="Jewelry">Украшения</button>
-  <button class="tab" data-f="sale">Sale</button>
+
 </div>
 
 <div id="catalogView"><div class="showcase" id="showcase"></div><div class="grid" id="grid"></div></div>
@@ -141,7 +185,9 @@
     <span class="badge" id="pvBadge"></span>
     <h2 id="pvTitle"></h2>
     <div><span class="price" id="pvPrice"></span><span class="old" id="pvOld"></span></div>
+    <small class="contents-value" id="pvContentsValue" hidden></small>
     <div id="sizeRow"></div>
+    <div id="productDetails"></div>
     <div class="colorrow" id="colorRow"></div>
     <div class="variants" id="variants"></div>
     <button class="btn" id="pvBtn"></button>
@@ -173,11 +219,16 @@
   <div class="back" onclick="goCheckout()">← НАЗАД</div>
   <div id="sumItems"></div>
   <div class="sumline"><span>Товары</span><span id="sumSub"></span></div>
-  <div class="sumline"><span>Доставка СДЭК</span><span id="sumDel"></span></div>
+  <div class="sumline" id="sumDelRow"><span id="sumDelLabel">Доставка СДЭК</span><span id="sumDel"></span></div>
+  <aside class="advent-delivery-notice" id="adventDeliveryNotice" role="note" hidden>
+    <h3>Доставка адвент-календарей оплачивается отдельно</h3>
+    <p><strong>От 5 000 до 8 000 ₽ за каждый календарь</strong> — в зависимости от его размера и стоимости.</p>
+    <p>Оплачивается непосредственно перед отправкой и не входит в сумму к оплате ниже. Точную сумму уточните, написав нам в <a href="https://t.me/shamsuevah" target="_blank" rel="noopener">поддержку</a>.</p>
+  </aside>
   <div class="sumtotal"><span>ИТОГО К ОПЛАТЕ</span><span id="sumTotal"></span></div>
   <div id="consents" style="padding:16px;display:grid;gap:12px;font-size:14px">
     <label><input type="checkbox" id="acceptOferta" onchange="syncPaymentButtons()"> Принимаю <a href="docs/oferta.pdf" target="_blank" rel="noopener">условия оферты</a></label>
-    <label><input type="checkbox" id="acceptPrivacy" onchange="syncPaymentButtons()"> Даю согласие на обработку персональных данных для оформления и исполнения заказа. <a href="docs/consent.pdf" target="_blank" rel="noopener">Согласие на обработку данных</a></label>
+    <label><input type="checkbox" id="acceptPrivacy" onchange="syncPaymentButtons()"> Даю согласие на обработку персональных данных для оформления и исполнения заказа. <a href="docs/consent.pdf" target="_blank" rel="noopener">Согласие на обработку данных</a> и <a href="docs/privacy.pdf" target="_blank" rel="noopener">политика обработки данных</a></label>
   </div>
   <div id="paymentOptions" class="payrow">
     <button class="btn wine" id="payFull" disabled onclick="placeOrder('full')">ОПЛАТИТЬ 100%<br><small id="fullBtn"></small></button>
@@ -201,6 +252,8 @@ let cart = {};
 try { cart = JSON.parse(localStorage.getItem('burker_cart') || '{}'); if(!cart || typeof cart!=='object' || Array.isArray(cart)) cart={}; } catch (_) {}
 // подключаем ручные бренды (mathey.js и др.)
 if (typeof MATHEY !== 'undefined') PRODUCTS.push(...MATHEY);
+if (typeof ADVENTS !== 'undefined') PRODUCTS.push(...ADVENTS);
+PRODUCTS.forEach(p=>{if(/^BURKER(?: WATCHES)?$/i.test(p.brand||'BURKER'))p.brand='BURKER';});
 // чистим позиции, которых больше нет в каталоге (после обновления выгрузки)
 Object.keys(cart).forEach(id=>{ if(!PRODUCTS.find(x=>x.id==id && x.available) || !Number.isInteger(cart[id]) || cart[id]<1 || cart[id]>20) delete cart[id]; });
 let filter = 'all', query = '', cur = null, brand = 'all', payMode = 'full';
@@ -222,63 +275,49 @@ function quickAdd(id,btn){ if(!PRODUCTS.find(p=>p.id==id && p.available)) return
 // в наличии — выше, нет в наличии — внизу списка
 const sortAvail = list => [...list].sort((a,b)=>(b.available?1:0)-(a.available?1:0));
 const brandOf = p => p.brand || 'BURKER';
-const filtered = () => PRODUCTS.filter(p =>
-  (brand==='all' || brandOf(p)===brand) &&
+const filtered = () => PRODUCTS.filter(p => (p.available || p.type==='Advent') &&
+  (brand==='all' || (brand==='Advent'?p.type==='Advent':brandOf(p)===brand && p.type!=='Advent')) &&
   (filter==='all' ? true : filter==='sale' ? p.sale : p.type===filter));
-function renderBrandTabs(){
-  const brands=[...new Set(PRODUCTS.map(brandOf))].sort();
-  const bt=document.getElementById('brandTabs');
-  bt.innerHTML=`<button class="tab active" data-b="all">Все бренды</button>`
-    + brands.map(b=>`<button class="tab" data-b="${b}">${b.toUpperCase()}</button>`).join('');
-}
-document.getElementById('brandTabs').onclick=e=>{
-  if(!e.target.dataset.b) return;
-  brand=e.target.dataset.b;
-  document.querySelectorAll('#brandTabs .tab').forEach(t=>t.classList.toggle('active',t===e.target));
-  render();
-};
+function renderBrandTabs(){} // Category covers replace redundant brand chips.
+function homeCatalog(){brand='all';filter='all';query='';document.getElementById('searchInput').value='';show('catalogView');render();}
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const contentsValueText=p=>p.contents_value_rub>0?'Наполнение '+(p.contents_value_comparison==='gt'?'более чем на ':p.contents_value_comparison==='gte'?'на сумму от ':'на ')+fmt(p.contents_value_rub):'';
+const contentsHTML=p=>(p.contents_details||(p.contents||[]).map(name=>({name}))).map(x=>`<li><span class="contents-name">${esc(x.name)}</span>${x.description?`<span class="contents-description">${esc(x.description)}</span>`:''}</li>`).join('');
 
 function cardHTML(p){
   const d = document.createElement('div');
   d.className = 'card' + (p.available ? '' : ' na');
   d.onclick = ()=>openProduct(p.id);
-  d.innerHTML = `<img loading="lazy" src="${p.images[0]}" alt="">
+  d.innerHTML = `${p.images.length?`<img loading="lazy" src="${esc(p.images[0])}" alt="${esc(p.title)}">`:`<div class="photo-pending">${esc(p.brand)}</div>`}
     <div class="info">
-      ${p.sale?'<span class="badge">SALE</span>':''}${!p.available?'<span class="badge out">НЕТ В НАЛИЧИИ</span>':''}
-      <h3>${p.title}</h3>
+      ${p.sale?'<span class="badge">SALE</span>':''}${!p.available?`<span class="badge out">${esc(p.availability_label||'НЕТ В НАЛИЧИИ')}</span>`:''}${p.preorder?'<span class="badge">ПРЕДЗАКАЗ</span>':''}
+      <h3>${esc(p.title)}</h3>
       <span class="price">${fmt(p.price_rub)}</span>
       ${p.old_rub?`<span class="old">${fmt(p.old_rub)}</span>`:''}
+      ${p.type==='Advent'&&p.contents_value_rub>0?`<small class="contents-value">${esc(contentsValueText(p))}</small>`:''}
     </div>`;
   return d;
 }
 
 function renderShowcase(){
-  const sc=document.getElementById('showcase');
-  if(brand!=='all' || query.trim()){ sc.style.display='none'; return; }
-  sc.style.display='block';
-  const brands=[...new Set(PRODUCTS.map(brandOf))].sort();
-  sc.innerHTML=brands.map(b=>{
-    const items=PRODUCTS.filter(p=>brandOf(p)===b);
-    let src='';
-    if(b==='BURKER'){ src='banner-burker.jpg'; }
-    else {
-      const hero=items.find(p=>p.available&&p.images.length)||items[0]||{};
-      src=(hero.images&&hero.images.length)?hero.images[0]:'';
-    }
-    let maxd=0;
-    items.forEach(p=>{ if(p.old_rub){ const d=Math.round((1-p.price_rub/p.old_rub)*100); if(d>maxd)maxd=d; } });
-    const avail=items.filter(p=>p.available).length;
-    return `<div class="bcard" onclick="pickBrand('${b}')">
-      <img src="${src}" loading="lazy">
-      <div class="bover"></div>
-      <div class="bname">${b}</div>
-      <div class="bcount">${avail} товаров в наличии</div>
-      ${maxd>0?`<div class="bsale">SALE до &minus;${maxd}%</div>`:''}
-    </div>`;
-  }).join('');
+ const sc=document.getElementById('showcase');
+ const home=brand==='all'&&!query.trim();sc.style.display=home?'block':'none';
+ document.getElementById('categoryBack').style.display=home?'none':'block';
+ document.getElementById('tabs').style.display=brand==='BURKER'?'flex':'none';
+ if(!home)return;
+ const items=PRODUCTS.filter(p=>p.available&&p.type!=='Advent'&&brandOf(p)==='BURKER');
+ const hero=items.find(p=>p.type==='Watch'&&p.images.length);
+ sc.replaceChildren();
+ const covers=[{key:'BURKER',title:'BURKER',src:hero?.images[0]||'banner-burker.jpg',count:items.length},
+ {key:'Advent',title:'Адвент календари',src:'banner-advents.png',count:PRODUCTS.filter(p=>p.type==='Advent'&&p.available).length}];
+ for(const cover of covers){const d=document.createElement('div');d.className='bcard'+(cover.key==='Advent'?' advent-cover':'');d.tabIndex=0;d.setAttribute('role','button');d.setAttribute('aria-label',cover.title);d.onclick=()=>pickBrand(cover.key);d.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();pickBrand(cover.key);}};
+ d.innerHTML=`<img src="${esc(cover.src)}" alt="${esc(cover.title)}">`+(cover.key==='Advent'?'':`<div class="bover"></div><div class="bname">BURKER</div><div class="bcount">${cover.count} товаров в наличии</div>`);
+ sc.appendChild(d);}
 }
+
 function pickBrand(b){
-  brand=b;
+  brand=b; filter='all';
+  document.querySelectorAll('#tabs .tab').forEach(t=>t.classList.toggle('active',t.dataset.f==='all'));
   document.querySelectorAll('#brandTabs .tab').forEach(t=>t.classList.toggle('active', t.dataset.b===b));
   render(); window.scrollTo(0,0);
 }
@@ -286,9 +325,11 @@ function render(){
   renderShowcase();
   const g = document.getElementById('grid'); g.innerHTML='';
   const q = query.trim().toLowerCase();
+  if(brand==='all'&&!q){g.style.display='none';return;}
+  g.style.display='grid';
   let list = filtered().filter(p => !q || p.title.toLowerCase().includes(q));
 
-  if(q){
+  if(q || brand==='Advent'){
     // режим поиска: плоский список, в наличии выше
     sortAvail(list).forEach(p => g.appendChild(cardHTML(p)));
   } else {
@@ -297,7 +338,7 @@ function render(){
     sortAvail(list).forEach(p => { const m = modelOf(p); (groups[m]=groups[m]||[]).push(p); });
     Object.keys(groups).sort().forEach(m => {
       const h = document.createElement('div'); h.className = 'group-h';
-      h.innerHTML = `${m}<small>${groups[m].length}</small>`;
+      h.innerHTML = `${esc(m)}<small>${groups[m].length}</small>`;
       g.appendChild(h);
       groups[m].forEach(p => g.appendChild(cardHTML(p)));
     });
@@ -311,21 +352,33 @@ document.getElementById('searchInput').addEventListener('input', e => {
 document.getElementById('tabs').onclick = e=>{
   if(!e.target.dataset.f) return;
   filter = e.target.dataset.f;
-  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active', t===e.target));
+  document.querySelectorAll('#tabs .tab').forEach(t=>t.classList.toggle('active', t===e.target));
   render();
 };
 function show(view){
   ['catalogView','productView','cartView','checkoutView','summaryView'].forEach(id=>document.getElementById(id).style.display='none');
-  document.getElementById(view).style.display='block'; window.scrollTo(0,0);
+  document.getElementById(view).style.display='block';
+  document.querySelector('.search').style.display=view==='catalogView'?'block':'none';
+  document.getElementById('tabs').style.display=view==='catalogView'&&brand==='BURKER'?'flex':'none';
+  document.getElementById('categoryBack').style.display=view==='catalogView'&&brand!=='all'?'block':'none';
+  window.scrollTo(0,0);
 }
 const showCatalog = ()=>show('catalogView');
 
 function openProduct(id){
   cur = PRODUCTS.find(p=>p.id===id);
+  if(!cur)return;
+  const details=document.getElementById('productDetails'); details.replaceChildren();
+  if(cur.type==='Advent'){details.innerHTML=`<p>${esc(cur.description.replace('Цена для доставки в Польшу, валюта PLN.','').trim())}</p><details><summary>Наполнение календаря</summary><ul>${contentsHTML(cur)}</ul></details>`;}
+  const valueNote=document.getElementById('pvContentsValue');
+  valueNote.textContent=cur.type==='Advent'?contentsValueText(cur):'';
+  valueNote.hidden=!valueNote.textContent;
   const car = document.getElementById('car');
-  car.innerHTML = cur.images.map((s,i)=>`<img src="${s}" class="${i?'':'on'}">`).join('')
+  car.innerHTML = cur.images.map((s,i)=>`<img src="${esc(s)}" class="${i?'':'on'}">`).join('')
     + `<div class="dots">${cur.images.map((_,j)=>`<i class="${j?'':'on'}"></i>`).join('')}</div>`;
+  if(!cur.images.length)car.innerHTML=`<div class="photo-pending">${esc(cur.brand)}</div>`;
   car.onclick = ()=>{
+    if(!cur.images.length)return;
     const imgs=[...car.querySelectorAll('img')], dots=[...car.querySelectorAll('.dots i')];
     let i = imgs.findIndex(x=>x.classList.contains('on'));
     i = (i+1) % imgs.length;
@@ -337,7 +390,7 @@ function openProduct(id){
   document.getElementById('pvOld').textContent = cur.old_rub ? fmt(cur.old_rub) : '';
   document.getElementById('pvBadge').textContent = cur.sale ? 'SALE' : '';
   const btn = document.getElementById('pvBtn');
-  if(!cur.available){ btn.textContent='НЕТ В НАЛИЧИИ'; btn.disabled=true; btn.onclick=null; }
+  if(!cur.available){ btn.textContent=cur.availability_label||'НЕТ В НАЛИЧИИ'; btn.disabled=true; btn.onclick=null; }
   else if(cart[cur.id]){ btn.textContent='В КОРЗИНЕ ✓'; btn.disabled=false; btn.onclick=showCart; }
   else { btn.textContent='ДОБАВИТЬ В КОРЗИНУ'; btn.disabled=false;
     btn.onclick=()=>{ cart[cur.id]=1; saveCart(); openProduct(cur.id); }; }
@@ -381,8 +434,8 @@ function openProduct(id){
     if(sugg.length){
       cbox.innerHTML = `<h4>\u0417\u0410\u0412\u0415\u0420\u0428\u0418\u0422\u0415 \u041e\u0411\u0420\u0410\u0417</h4><div class="vrow">`
         + sugg.map(p=>`<div class="vcard${p.available?'':' na'}">
-             <img src="${p.images[0]}" loading="lazy" onclick="openProduct(${p.id})">
-             <p>${p.title}<span class="price">${fmt(p.price_rub)}</span></p>
+             <img src="${esc(p.images[0])}" loading="lazy" onclick="openProduct(${p.id})">
+             <p>${esc(p.title)}<span class="price">${fmt(p.price_rub)}</span></p>
              ${p.available?`<button class="vplus" onclick="quickAdd(${p.id},this)">+</button>`:''}
            </div>`).join('') + `</div>`;
     }
@@ -398,7 +451,7 @@ function openProduct(id){
   if(vs.length){
     vbox.innerHTML = `<h4>ДРУГИЕ ВАРИАНТЫ: ${m}</h4><div class="vrow">` + vs.map(p=>
       `<div class="vcard${p.available?'':' na'}" onclick="openProduct(${p.id})">
-         <img src="${p.images[0]}" loading="lazy">
+         <img src="${esc(p.images[0])}" loading="lazy">
          <p>${p.title.replace(new RegExp('^'+m+'\\s*'),'')||p.title}<span class="price">${fmt(p.price_rub)}</span></p>
        </div>`).join('') + `</div>`;
   } else { vbox.innerHTML=''; }
@@ -410,21 +463,16 @@ function cartList(){
 }
 function cartSubtotal(){ return cartList().reduce((s,x)=>s+x.p.price_rub*x.qty,0); }
 function deliveryCalc(){
-  let w=0, j=0, mt=0;
-  cartList().forEach(({p,qty})=>{
-    if(brandOf(p)==='MATHEY-TISSOT') mt+=qty;
-    else if(p.type==='Watch') w+=qty; else j+=qty;
-  });
-  const mtCost = mt*MT_DELIVERY;
-  if(w===0 && mt===0){
-    // только украшения: первые 6 входят в базовую доставку
-    return 1300 + 400*Math.max(0, j-6);
-  }
-  // есть часы: каждая следующая пара +800, каждое украшение +400
-  return 1300 + 800*Math.max(0, w-1) + 400*j + mtCost;
+ let w=0,j=0,mt=0;
+ cartList().forEach(({p,qty})=>{if(p.type==='Advent')return;else if(brandOf(p)==='MATHEY-TISSOT')mt+=qty;else if(p.type==='Watch')w+=qty;else j+=qty;});
+ if(!w&&!j&&!mt)return 0;
+ if(!w&&!mt)return 1300+400*Math.max(0,j-6);
+ return 1300+800*Math.max(0,w-1)+400*j+mt*MT_DELIVERY;
 }
+
 function cartSuggest(){
   if(!cartQty()) return null;
+  if(cartList().every(({p})=>p.type==='Advent'))return null;
   const inCart=Object.keys(cart).map(Number);
   const toks=[];
   cartList().forEach(({p})=>colorTokens(p.title).forEach(c=>{if(!toks.includes(c))toks.push(c);}));
@@ -437,7 +485,7 @@ function showCart(){
   const box=document.getElementById('cartItems'); box.innerHTML='';
   cartList().forEach(({p,qty})=>{
     const d=document.createElement('div'); d.className='citem';
-    d.innerHTML=`<img src="${p.images[0]}"><div class="nm">${p.title}
+    d.innerHTML=`<img src="${esc(p.images[0])}"><div class="nm">${esc(p.title)}
       <div class="price" style="font-size:14px">${fmt(p.price_rub*qty)}</div>
       <div class="qty"><button onclick="chQty(${p.id},-1)">−</button><span>${qty}</span>
       <button onclick="chQty(${p.id},1)">+</button></div></div>`;
@@ -469,13 +517,14 @@ function goSummary(){
   if(!cartList().length) return alertOrder('Корзина пуста');
   document.getElementById('paymentOptions').style.display='';
   document.getElementById('consents').style.display='grid';
-  if(!gv('cFio')||!gv('cPhone')||!gv('cCity')||!gv('cSdek')){ tg.showAlert('Заполните все поля'); return; }
-  renderSummary();
-  show('summaryView');
+  if(!gv('cFio')||!gv('cPhone')||!gv('cCity')||!gv('cSdek')){ alertOrder('Заполните все поля'); return; }
+  if(!/^\+?[\d\s()\-]{10,40}$/.test(gv('cPhone'))){alertOrder('Проверьте телефон');return;}
+  const notice=document.getElementById('receiptNotice');notice.style.display='flex';
+  document.getElementById('receiptOk').onclick=()=>{notice.style.display='none';renderSummary();show('summaryView');};
 }
 if(previewMode) document.getElementById('previewNotice').style.display='block';
 renderBrandTabs(); render(); updateBadge();
 </script>
-<script src="checkout.js?v=20261013-2"></script>
+<script src="checkout.js?v=20261015-1"></script>
 </body>
 </html>
