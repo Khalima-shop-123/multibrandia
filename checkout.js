@@ -75,7 +75,7 @@ async function placeOrder(mode) {
     }
     const order=data.order;
     cart={}; saveCart(); pendingRequest=null; localStorage.removeItem('multibrandia_pending');
-    result.textContent=`Заказ №${order.id} принят. После оплаты отправьте чек и номер заказа в поддержку. Сообщение о заказе придёт в бот.`;
+    result.textContent=`Заказ №${order.id} принят. Перейдите в банковское приложение для оплаты. Подтверждение заказа и кнопка поддержки придут в чат бота.`;
     document.getElementById('paymentOptions').style.display='none';
     document.getElementById('consents').style.display='none';
     if(order.manual_amount) {

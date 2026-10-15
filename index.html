@@ -5,9 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MULTIBRANDIA — часы и украшения со всего мира</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
-<script src="products.js?v=20261015-1"></script>
-<script src="mathey.js?v=20261015-1"></script>
-<script src="advents.js?v=20261015-1"></script>
+<script src="products.js?v=20261015-17"></script>
+<script src="mathey.js?v=20261015-17"></script>
+<script src="advents.js?v=20261015-17"></script>
 <style>
   :root{--ink:#111;--wine:#6b1220;--grey:#8a8a8a;--line:#e8e4de;--bg:#fdfcfb}
   *{margin:0;padding:0;box-sizing:border-box;font-family:Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:transparent}
@@ -51,8 +51,14 @@
   .price{font-size:15px;font-weight:700}
   .contents-value{display:block;font-size:12px;line-height:1.5;font-weight:400;color:#796e67;margin-top:6px}
   .contents-value[hidden]{display:none}
-  .contents-name{display:block;font-weight:600}
-  .contents-description{display:block;margin-top:3px;color:#665a51;font-size:13px;line-height:1.5}
+.contents-list{list-style:none;padding:0;margin:12px 0 20px}
+.contents-row{display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-bottom:1px solid #e8e4de}
+.contents-row:last-child{border-bottom:0}
+.contents-copy{flex:1;min-width:0;overflow-wrap:anywhere}
+.contents-name{display:block;font-size:14px;font-weight:600;line-height:1.5}
+.contents-description{display:block;margin-top:4px;color:#665a51;font-size:13px;line-height:1.5}
+@media(max-width:360px){header{gap:8px}.logo{font-size:17px;letter-spacing:3px}#cartBtn{padding:8px 10px;font-size:12px}}
+
   .advent-delivery-notice{margin:16px;padding:16px;border:2px solid var(--wine);border-radius:12px;background:#f7eee9;font-size:15px;line-height:1.55}
   .advent-delivery-notice h3{font-size:17px;color:var(--wine);margin:0 0 10px}
   .advent-delivery-notice p+p{margin-top:10px}
@@ -135,6 +141,32 @@
 #productDetails{line-height:1.6;font-size:14px;margin:20px 0}#productDetails li{margin-bottom:7px}#productDetails summary{cursor:pointer;color:var(--wine);padding:12px 0;font-weight:bold}#productDetails a{color:var(--wine)}
 .photo-pending{height:220px;display:flex;align-items:center;justify-content:center;background:#faf9f7;color:#999;font-family:Georgia,serif;letter-spacing:2px}
 .bcard img{object-fit:contain;background:white}.bcard.advent-cover img{object-fit:cover}.payrow .btn{border-radius:12px;letter-spacing:.4px}.field{border-radius:12px}button:disabled{opacity:.5;cursor:not-allowed}
+.contents-missing{cursor:default;flex-direction:column;gap:3px;color:#90877f}
+.contents-missing svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.4}
+.contents-missing small{font-size:9px;line-height:1.2;white-space:nowrap}
+.contents-note{font-size:12px;color:#796e67}
+.calendar-photo-strip[hidden]{display:none}.calendar-photo-strip{display:flex;gap:8px;overflow-x:auto;padding:10px 12px;max-width:100%;background:#fff;scrollbar-width:thin}
+.calendar-photo-choice{flex:0 0 58px;width:58px;height:65px;padding:3px;border:1px solid #ddd3cc;border-radius:6px;background:#fff;overflow:hidden;cursor:pointer}
+.calendar-photo-choice.selected{border:2px solid #742536}
+.calendar-photo-choice img,.calendar-photo-choice svg{display:block;width:100%;height:100%;object-fit:contain}
+.calendar-carousel .calendar-main-photo{display:block;width:100%;height:100%;padding:15px 15px 52px;background:#fff;border:0;border-radius:0;cursor:zoom-in}
+.calendar-carousel .calendar-main-photo img{position:static;opacity:1;object-fit:contain;transition:none}
+.calendar-main-photo>.contents-photo{width:100%;height:100%}
+.calendar-main-tools{position:absolute;bottom:10px;left:12px;right:12px;display:flex;align-items:center;justify-content:space-between;gap:10px;pointer-events:none}
+.calendar-main-tools button,.calendar-main-counter{pointer-events:auto;background:#fff;border:1px solid #e4d9d2;border-radius:20px;padding:6px 12px;font:inherit}
+.calendar-dialog{width:min(760px,calc(100vw - 24px));max-height:calc(100dvh - 24px);max-width:none;overflow:auto;padding:14px;border:0;border-radius:16px;background:white;color:#25211f}
+.calendar-dialog::backdrop{background:#000b}
+.calendar-gallery-tools{display:flex;align-items:center;gap:8px;justify-content:space-between}
+.calendar-gallery-tools button{font:inherit;border:1px solid #d8cbc1;background:#fff;color:#25211f;border-radius:12px;cursor:pointer;padding:8px 12px;min-height:40px}
+.calendar-gallery-counter{white-space:nowrap;font-size:14px}
+.calendar-gallery-media{height:min(57dvh,560px);width:100%;display:flex;align-items:center;justify-content:center;margin-top:10px;overflow:hidden;background:white}
+.calendar-gallery-media>img,.calendar-gallery-media>svg{display:block;width:100%;height:100%;max-height:none;object-fit:contain}
+.calendar-gallery-name{font-size:14px;font-weight:600;line-height:1.4;margin:12px 0 4px}
+.calendar-gallery-caption{font-size:12px;line-height:1.4;color:#796e67;margin:0 0 6px}
+.calendar-dialog .calendar-photo-strip{padding:8px 0}
+button:focus-visible{outline:2px solid #742536;outline-offset:3px}
+@media(max-width:360px){.calendar-dialog{padding:10px}.calendar-gallery-tools{gap:5px}.calendar-gallery-tools button{padding:7px 9px}}
+
 </style>
 </head>
 <body>
@@ -155,7 +187,7 @@
   </div>
 </div>
 <div id="receiptNotice" class="gate" style="display:none" role="dialog" aria-modal="true" aria-labelledby="receiptTitle">
- <div class="notice-box"><h2 id="receiptTitle">После оплаты отправьте чек</h2><p>Пожалуйста, обязательно отправьте чек в поддержку. Он нужен, чтобы мы подтвердили оплату и начали выкуп вашего заказа.</p><button class="btn wine" id="receiptOk">ОК</button></div>
+ <div class="notice-box"><h2 id="receiptTitle">После оплаты отправьте, пожалуйста, чек в поддержку</h2><p>Нажмите «ОК», чтобы перейти к составу заказа и оплате. После оплаты пришлите чек в поддержку.</p><button class="btn wine" id="receiptOk">ОК</button></div>
 </div>
 <div id="previewNotice" style="display:none;padding:12px;background:#fff0cc;font-size:14px">Просмотр магазина. Заказы и платежи не отправляются.</div>
 <header>
@@ -282,8 +314,66 @@ function renderBrandTabs(){} // Category covers replace redundant brand chips.
 function homeCatalog(){brand='all';filter='all';query='';document.getElementById('searchInput').value='';show('catalogView');render();}
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const contentsValueText=p=>p.contents_value_rub>0?'Наполнение '+(p.contents_value_comparison==='gt'?'более чем на ':p.contents_value_comparison==='gte'?'на сумму от ':'на ')+fmt(p.contents_value_rub):'';
-const contentsHTML=p=>(p.contents_details||(p.contents||[]).map(name=>({name}))).map(x=>`<li><span class="contents-name">${esc(x.name)}</span>${x.description?`<span class="contents-description">${esc(x.description)}</span>`:''}</li>`).join('');
-
+// One renderer for the shop and the standalone catalog. Crops display the original image.
+function contentsHTML(p){
+ return (p.contents_details||(p.contents||[]).map(name=>({name}))).map(x=>`<li class="contents-row${x.is_note?' contents-note':''}"><span class="contents-copy"><span class="contents-name">${esc(x.name)}</span>${x.description?`<span class="contents-description">${esc(x.description)}</span>`:''}</span></li>`).join('');
+}
+function calendarGalleryItems(p){
+ return (p.preview_images||p.images||[]).map((src,i)=>({src,name:p.title,caption:`${p.gallery_caption_prefix||'Фото календаря'} · ${i+1} / ${(p.preview_images||p.images||[]).length}`}));
+}
+function calendarMediaHTML(item){
+ return `<img src="${esc(item.src)}" alt="${esc(item.name)}">`;
+}
+let calendarDialogState=null;
+function openCalendarGallery(p,index=0){
+ let dialog=document.getElementById('calendarGallery');
+ if(!dialog){
+  dialog=document.createElement('dialog');dialog.id='calendarGallery';dialog.className='calendar-dialog';
+  dialog.setAttribute('aria-label','Фотографии календаря');
+  dialog.innerHTML='<div class="calendar-gallery-tools"><button type="button" data-gallery-prev aria-label="Предыдущее фото">←</button><span class="calendar-gallery-counter" aria-live="polite"></span><button type="button" data-gallery-next aria-label="Следующее фото">→</button><button type="button" data-gallery-close>Закрыть</button></div><div class="calendar-gallery-media"></div><p class="calendar-gallery-name"></p><p class="calendar-gallery-caption"></p><div class="calendar-photo-strip"></div>';
+  document.body.append(dialog);
+  dialog.querySelector('[data-gallery-close]').onclick=()=>dialog.close();
+  dialog.querySelector('[data-gallery-prev]').onclick=()=>showCalendarDialogPhoto(calendarDialogState.index-1);
+  dialog.querySelector('[data-gallery-next]').onclick=()=>showCalendarDialogPhoto(calendarDialogState.index+1);
+  dialog.addEventListener('keydown',e=>{if(e.key==='ArrowLeft'||e.key==='ArrowRight'){e.preventDefault();showCalendarDialogPhoto(calendarDialogState.index+(e.key==='ArrowRight'?1:-1));}});
+  dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}});
+  calendarSwipe(dialog.querySelector('.calendar-gallery-media'),delta=>showCalendarDialogPhoto(calendarDialogState.index+delta));
+ }
+ const items=calendarGalleryItems(p);
+ if(!items.length)return;
+ calendarDialogState={p,items,index};
+ const strip=dialog.querySelector('.calendar-photo-strip');
+ strip.innerHTML=items.map((x,i)=>`<button type="button" class="calendar-photo-choice" data-photo="${i}" aria-label="${esc(x.name)}">${calendarMediaHTML(x)}</button>`).join('');
+ strip.onclick=e=>{const btn=e.target.closest('[data-photo]');if(btn)showCalendarDialogPhoto(Number(btn.dataset.photo));};
+ showCalendarDialogPhoto(index);
+ if(!dialog.open)dialog.showModal();
+}
+function showCalendarDialogPhoto(index){
+ const s=calendarDialogState,dialog=document.getElementById('calendarGallery');if(!s)return;
+ s.index=(index+s.items.length)%s.items.length;const item=s.items[s.index];
+ dialog.querySelector('.calendar-gallery-media').innerHTML=calendarMediaHTML(item);
+ dialog.querySelector('.calendar-gallery-counter').textContent=`${s.index+1} / ${s.items.length}`;
+ dialog.querySelector('.calendar-gallery-name').textContent=item.name;
+ dialog.querySelector('.calendar-gallery-caption').textContent=item.caption;
+ dialog.querySelectorAll('[data-photo]').forEach((el,i)=>{el.classList.toggle('selected',i===s.index);el.setAttribute('aria-pressed',String(i===s.index));});
+}
+function calendarSwipe(el,fn){
+ let x=0,y=0;
+ el.addEventListener('touchstart',e=>{x=e.changedTouches[0].clientX;y=e.changedTouches[0].clientY;},{passive:true});
+ el.addEventListener('touchend',e=>{const dx=e.changedTouches[0].clientX-x,dy=e.changedTouches[0].clientY-y;if(Math.abs(dx)>45&&Math.abs(dx)>Math.abs(dy))fn(dx<0?1:-1);},{passive:true});
+}
+function mountCalendarMedia(p){
+ const car=document.getElementById('car');const items=calendarGalleryItems(p);let index=0;
+ car.classList.add('calendar-carousel');car.onclick=null;
+ car.innerHTML='<button type="button" class="calendar-main-photo" aria-label="Увеличить фотографию"></button><div class="calendar-main-tools"><button type="button" data-main-prev aria-label="Предыдущее фото">←</button><span class="calendar-main-counter" aria-live="polite"></span><button type="button" data-main-next aria-label="Следующее фото">→</button></div>';
+ let strip=document.getElementById('calendarProductStrip');if(!strip){strip=document.createElement('div');strip.id='calendarProductStrip';car.after(strip);}strip.className='calendar-photo-strip';strip.hidden=false;
+ strip.innerHTML=items.map((x,i)=>`<button type="button" class="calendar-photo-choice" data-photo="${i}" aria-label="${esc(x.name)}">${calendarMediaHTML(x)}</button>`).join('');
+ function show(i){index=(i+items.length)%items.length;car.querySelector('.calendar-main-photo').innerHTML=calendarMediaHTML(items[index]);car.querySelector('.calendar-main-counter').textContent=`${index+1} / ${items.length}`;strip.querySelectorAll('[data-photo]').forEach((el,j)=>{el.classList.toggle('selected',j===index);el.setAttribute('aria-pressed',String(j===index));});}
+ car.querySelector('.calendar-main-photo').onclick=()=>openCalendarGallery(p,index);
+ car.querySelector('[data-main-prev]').onclick=()=>show(index-1);car.querySelector('[data-main-next]').onclick=()=>show(index+1);
+ strip.onclick=e=>{const btn=e.target.closest('[data-photo]');if(btn)show(Number(btn.dataset.photo));};
+ calendarSwipe(car.querySelector('.calendar-main-photo'),delta=>show(index+delta));show(0);
+}
 function cardHTML(p){
   const d = document.createElement('div');
   d.className = 'card' + (p.available ? '' : ' na');
@@ -369,11 +459,13 @@ function openProduct(id){
   cur = PRODUCTS.find(p=>p.id===id);
   if(!cur)return;
   const details=document.getElementById('productDetails'); details.replaceChildren();
-  if(cur.type==='Advent'){details.innerHTML=`<p>${esc(cur.description.replace('Цена для доставки в Польшу, валюта PLN.','').trim())}</p><details><summary>Наполнение календаря</summary><ul>${contentsHTML(cur)}</ul></details>`;}
+  if(cur.type==='Advent'){details.innerHTML=`<p>${esc(cur.description.replace('Цена для доставки в Польшу, валюта PLN.','').trim())}</p><details><summary>Состав календаря · посмотреть содержимое</summary><ul class="contents-list">${contentsHTML(cur)}</ul></details>`;}
   const valueNote=document.getElementById('pvContentsValue');
   valueNote.textContent=cur.type==='Advent'?contentsValueText(cur):'';
   valueNote.hidden=!valueNote.textContent;
   const car = document.getElementById('car');
+  car.classList.remove('calendar-carousel');
+  const mediaStrip=document.getElementById('calendarProductStrip');if(mediaStrip)mediaStrip.hidden=true;
   car.innerHTML = cur.images.map((s,i)=>`<img src="${esc(s)}" class="${i?'':'on'}">`).join('')
     + `<div class="dots">${cur.images.map((_,j)=>`<i class="${j?'':'on'}"></i>`).join('')}</div>`;
   if(!cur.images.length)car.innerHTML=`<div class="photo-pending">${esc(cur.brand)}</div>`;
@@ -385,6 +477,7 @@ function openProduct(id){
     imgs.forEach((x,k)=>x.classList.toggle('on',k===i));
     dots.forEach((x,k)=>x.classList.toggle('on',k===i));
   };
+  if(cur.type==='Advent')mountCalendarMedia(cur);
   document.getElementById('pvTitle').textContent = cur.title;
   document.getElementById('pvPrice').textContent = fmt(cur.price_rub);
   document.getElementById('pvOld').textContent = cur.old_rub ? fmt(cur.old_rub) : '';
@@ -518,13 +611,14 @@ function goSummary(){
   document.getElementById('paymentOptions').style.display='';
   document.getElementById('consents').style.display='grid';
   if(!gv('cFio')||!gv('cPhone')||!gv('cCity')||!gv('cSdek')){ alertOrder('Заполните все поля'); return; }
-  if(!/^\+?[\d\s()\-]{10,40}$/.test(gv('cPhone'))){alertOrder('Проверьте телефон');return;}
+  const phone=gv('cPhone'), digits=phone.replace(/\D/g,'');
+  if(!/^[+\d\s()\-]+$/.test(phone)||digits.length<7||digits.length>15){alertOrder('Введите корректный номер телефона: от 7 до 15 цифр, можно с кодом страны.');document.getElementById('cPhone').focus();return;}
   const notice=document.getElementById('receiptNotice');notice.style.display='flex';
   document.getElementById('receiptOk').onclick=()=>{notice.style.display='none';renderSummary();show('summaryView');};
 }
 if(previewMode) document.getElementById('previewNotice').style.display='block';
 renderBrandTabs(); render(); updateBadge();
 </script>
-<script src="checkout.js?v=20261015-1"></script>
+<script src="checkout.js?v=20261015-17"></script>
 </body>
 </html>
