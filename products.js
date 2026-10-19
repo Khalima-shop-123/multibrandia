@@ -9877,4 +9877,141 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_silver_ad44d676-ce07-45dd-a6d5-3f59db88a13a.png?v=1785272519"
   ]
  }
+ ,
+ {
+  "id": 99000000000001,
+  "product_id": 99000000001001,
+  "title": "Kate Black Gold Silver",
+  "type": "Watch",
+  "brand": "BURKER WATCHES",
+  "price_rub": 16700,
+  "old_rub": null,
+  "sale": true,
+  "available": true,
+  "gender": "women",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_black_gold_silver_1.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_black_gold_silver_2.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_black_gold_silver_3.png"
+  ]
+ },
+ {
+  "id": 99000000000002,
+  "product_id": 99000000001002,
+  "title": "Kate Gold Silver",
+  "type": "Watch",
+  "brand": "BURKER WATCHES",
+  "price_rub": 16700,
+  "old_rub": null,
+  "sale": true,
+  "available": true,
+  "gender": "women",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_silver_1.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_silver_2.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_silver_3.png"
+  ]
+ },
+ {
+  "id": 99000000000003,
+  "product_id": 99000000001003,
+  "title": "Kate Gold Burgundy",
+  "type": "Watch",
+  "brand": "BURKER WATCHES",
+  "price_rub": 15300,
+  "old_rub": null,
+  "sale": true,
+  "available": true,
+  "gender": "women",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_burgundy_1.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_burgundy_2.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_burgundy_3.png"
+  ]
+ },
+ {
+  "id": 99000000000004,
+  "product_id": 99000000001004,
+  "title": "Kate Gold Brown",
+  "type": "Watch",
+  "brand": "BURKER WATCHES",
+  "price_rub": 15300,
+  "old_rub": null,
+  "sale": true,
+  "available": true,
+  "gender": "women",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_brown_1.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_brown_2.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_brown_3.png"
+  ]
+ },
+ {
+  "id": 99000000000005,
+  "product_id": 99000000001005,
+  "title": "Kate Gold Black",
+  "type": "Watch",
+  "brand": "BURKER WATCHES",
+  "price_rub": 15300,
+  "old_rub": null,
+  "sale": true,
+  "available": true,
+  "gender": "women",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_black_1.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_black_2.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_black_3.png"
+  ]
+ },
+ {
+  "id": 99000000000006,
+  "product_id": 99000000001006,
+  "title": "Kate Gold White",
+  "type": "Watch",
+  "brand": "BURKER WATCHES",
+  "price_rub": 15300,
+  "old_rub": null,
+  "sale": true,
+  "available": true,
+  "gender": "women",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_white_1.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_white_2.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_gold_white_3.png"
+  ]
+ },
+ {
+  "id": 99000000000007,
+  "product_id": 99000000001007,
+  "title": "Kate Silver Black",
+  "type": "Watch",
+  "brand": "BURKER WATCHES",
+  "price_rub": 13900,
+  "old_rub": null,
+  "sale": true,
+  "available": true,
+  "gender": "women",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_silver_black_1.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_silver_black_2.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_silver_black_3.png"
+  ]
+ },
+ {
+  "id": 99000000000008,
+  "product_id": 99000000001008,
+  "title": "Kate Silver White",
+  "type": "Watch",
+  "brand": "BURKER WATCHES",
+  "price_rub": 13900,
+  "old_rub": null,
+  "sale": true,
+  "available": true,
+  "gender": "women",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_silver_white_1.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_silver_white_2.png",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_silver_white_3.png"
+  ]
+ }
 ];
