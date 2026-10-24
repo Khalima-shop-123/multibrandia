@@ -5,9 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MULTIBRANDIA — часы и украшения со всего мира</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
-<script src="products.js?v=20261019-kate8"></script>
-<script src="mathey.js?v=20261019-selected27"></script>
-<script src="advents.js?v=20261015-18"></script>
+<script src="products.js?v=20261024-laphont-1"></script>
+<script src="mathey.js?v=20261015-17"></script>
+<script src="advents.js?v=20261015-17"></script>
 <style>
   :root{--ink:#111;--wine:#6b1220;--grey:#8a8a8a;--line:#e8e4de;--bg:#fdfcfb}
   *{margin:0;padding:0;box-sizing:border-box;font-family:Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:transparent}
@@ -37,9 +37,6 @@
   .tab{border:1px solid var(--line);background:#fff;border-radius:20px;padding:8px 16px;font-size:13px;
     white-space:nowrap;cursor:pointer}
   .tab.active{background:var(--ink);color:#fff;border-color:var(--ink)}
-  .watch-filters{display:flex;gap:8px;padding:0 16px 12px}
-  .watch-filters[hidden]{display:none}
-  .watch-filters select{min-width:0;flex:1;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:#fff;font-size:13px}
   .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;padding:0 16px}
   @media(min-width:640px){.grid{grid-template-columns:repeat(3,1fr)}}
   .group-h{grid-column:1/-1;font-family:Georgia,serif;font-size:17px;letter-spacing:4px;
@@ -208,11 +205,8 @@ button:focus-visible{outline:2px solid #742536;outline-offset:3px}
   <button class="tab active" data-f="all">Все</button>
   <button class="tab" data-f="Watch">Часы</button>
   <button class="tab" data-f="Jewelry">Украшения</button>
+  <button class="tab" data-f="sale">SALE</button>
 
-</div>
-<div class="watch-filters" id="watchFilters" hidden>
-  <select id="genderFilter" aria-label="Пол"><option value="all">Все часы</option><option value="women">Женские</option><option value="men">Мужские</option></select>
-  <select id="priceSort" aria-label="Сортировка по цене"><option value="default">Сначала доступные</option><option value="asc">Сначала дешевле</option><option value="desc">Сначала дороже</option></select>
 </div>
 
 <div id="catalogView"><div class="showcase" id="showcase"></div><div class="grid" id="grid"></div></div>
@@ -282,7 +276,7 @@ button:focus-visible{outline:2px solid #742536;outline-offset:3px}
 
 
 <script>
-// Валютные цены каталога уже пересчитаны в рубли по курсу 115 ₽/$; доставка часов: 1 300 ₽ за первые и +800 ₽ за каждую следующую пару часов.
+const MT_DELIVERY = 1800; // доставка СДЭК Форвард за 1 часы MATHEY-TISSOT из США, \u20bd \u2014 уточните свой тариф\n// округление цен вверх до сотен: 1566 -> 1600
 PRODUCTS.forEach(p => { p.price_rub = Math.ceil(p.price_rub/100)*100; if (p.old_rub) p.old_rub = Math.ceil(p.old_rub/100)*100; });
 const previewMode = new URLSearchParams(location.search).get('preview')==='1';
 const tg = window.Telegram?.WebApp || {initData:'',ready(){},expand(){}}; tg.ready(); tg.expand();
@@ -295,7 +289,7 @@ if (typeof ADVENTS !== 'undefined') PRODUCTS.push(...ADVENTS);
 PRODUCTS.forEach(p=>{if(/^BURKER(?: WATCHES)?$/i.test(p.brand||'BURKER'))p.brand='BURKER';});
 // чистим позиции, которых больше нет в каталоге (после обновления выгрузки)
 Object.keys(cart).forEach(id=>{ if(!PRODUCTS.find(x=>x.id==id && x.available) || !Number.isInteger(cart[id]) || cart[id]<1 || cart[id]>20) delete cart[id]; });
-let filter = 'all', query = '', cur = null, brand = 'all', payMode = 'full', genderFilter='all', priceSort='default';
+let filter = 'all', query = '', cur = null, brand = 'all', payMode = 'full';
 
 function saveCart(){ localStorage.setItem('burker_cart', JSON.stringify(cart)); updateBadge(); }
 function cartQty(){ return Object.values(cart).reduce((a,b)=>a+b, 0); }
@@ -303,7 +297,7 @@ function updateBadge(){
   const c = document.getElementById('cartCount');
   c.style.display = cartQty() ? 'flex' : 'none'; c.textContent = cartQty();
 }
-const modelOf = p => p.title.split(' ')[0].toUpperCase();
+const modelOf = p => (p.brand==='LAPHONT'?p.model_name:p.title.split(' ')[0]).toUpperCase();
 const COLORS = ['burgundy','gold','silver','black','blue','green','white','rose','brown','grey'];
 const colorTokens = t => COLORS.filter(c => t.toLowerCase().includes(c));
 const colorKeyOf = p => p.title.toLowerCase().split(/\s+/).slice(1).filter(w=>w!=='petite').join(' ');
@@ -314,9 +308,8 @@ function quickAdd(id,btn){ if(!PRODUCTS.find(p=>p.id==id && p.available)) return
 // в наличии — выше, нет в наличии — внизу списка
 const sortAvail = list => [...list].sort((a,b)=>(b.available?1:0)-(a.available?1:0));
 const brandOf = p => p.brand || 'BURKER';
-const filtered = () => PRODUCTS.filter(p => (p.available || p.type==='Advent' || brandOf(p)==='BURKER' || brandOf(p)==='MATHEY-TISSOT') &&
+const filtered = () => PRODUCTS.filter(p => (p.available || p.type==='Advent' || brand==='LAPHONT'&&brandOf(p)==='LAPHONT') &&
   (brand==='all' || (brand==='Advent'?p.type==='Advent':brandOf(p)===brand && p.type!=='Advent')) &&
-  (brand!=='MATHEY-TISSOT' || genderFilter==='all' || p.gender===genderFilter) &&
   (filter==='all' ? true : filter==='sale' ? p.sale : p.type===filter));
 function renderBrandTabs(){} // Category covers replace redundant brand chips.
 function homeCatalog(){brand='all';filter='all';query='';document.getElementById('searchInput').value='';show('catalogView');render();}
@@ -401,17 +394,16 @@ function renderShowcase(){
  const sc=document.getElementById('showcase');
  const home=brand==='all'&&!query.trim();sc.style.display=home?'block':'none';
  document.getElementById('categoryBack').style.display=home?'none':'block';
- document.getElementById('tabs').style.display=brand==='BURKER'?'flex':'none';
- document.getElementById('watchFilters').hidden=brand!=='MATHEY-TISSOT';
+ document.getElementById('tabs').style.display=['BURKER','LAPHONT'].includes(brand)?'flex':'none';
  if(!home)return;
  const items=PRODUCTS.filter(p=>p.available&&p.type!=='Advent'&&brandOf(p)==='BURKER');
  const hero=items.find(p=>p.type==='Watch'&&p.images.length);
  sc.replaceChildren();
- const covers=[{key:'Advent',title:'Адвент календари',src:'banner-advents.png',count:PRODUCTS.filter(p=>p.type==='Advent'&&p.available).length},
- {key:'BURKER',title:'BURKER',src:hero?.images[0]||'banner-burker.jpg',count:items.length},
- ...(PRODUCTS.some(p=>brandOf(p)==='MATHEY-TISSOT')?[{key:'MATHEY-TISSOT',title:'MATHEY-TISSOT',src:PRODUCTS.find(p=>brandOf(p)==='MATHEY-TISSOT')?.images?.[0]||'banner-burker.jpg',count:PRODUCTS.filter(p=>brandOf(p)==='MATHEY-TISSOT').length}]:[])];
+ const laphont=PRODUCTS.filter(p=>brandOf(p)==='LAPHONT');
+ const covers=[{key:'LAPHONT',title:'LAPHONT',src:laphont.find(p=>p.type==='Watch'&&p.available)?.images[0]||laphont[0]?.images[0],count:laphont.filter(p=>p.available).length},{key:'BURKER',title:'BURKER',src:hero?.images[0]||'banner-burker.jpg',count:items.length},
+ {key:'Advent',title:'Адвент календари',src:'banner-advents.png',count:PRODUCTS.filter(p=>p.type==='Advent'&&p.available).length}];
  for(const cover of covers){const d=document.createElement('div');d.className='bcard'+(cover.key==='Advent'?' advent-cover':'');d.tabIndex=0;d.setAttribute('role','button');d.setAttribute('aria-label',cover.title);d.onclick=()=>pickBrand(cover.key);d.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();pickBrand(cover.key);}};
- d.innerHTML=`<img src="${esc(cover.src)}" alt="${esc(cover.title)}">`+(cover.key==='Advent'?'':`<div class="bover"></div><div class="bname">${esc(cover.title)}</div><div class="bcount">${cover.count} товаров</div>`);
+ d.innerHTML=`<img src="${esc(cover.src)}" alt="${esc(cover.title)}">`+(cover.key==='Advent'?'':`<div class="bover"></div><div class="bname">${esc(cover.title)}</div><div class="bcount">${cover.count} товаров в наличии</div>`);
  sc.appendChild(d);}
 }
 
@@ -428,9 +420,8 @@ function render(){
   if(brand==='all'&&!q){g.style.display='none';return;}
   g.style.display='grid';
   let list = filtered().filter(p => !q || p.title.toLowerCase().includes(q));
-  if(brand==='MATHEY-TISSOT' && priceSort!=='default') list.sort((a,b)=>priceSort==='asc'?a.price_rub-b.price_rub:b.price_rub-a.price_rub);
 
-  if(q || brand==='Advent' || brand==='MATHEY-TISSOT'){
+  if(q || brand==='Advent'){
     // режим поиска: плоский список, в наличии выше
     sortAvail(list).forEach(p => g.appendChild(cardHTML(p)));
   } else {
@@ -450,8 +441,6 @@ function render(){
 document.getElementById('searchInput').addEventListener('input', e => {
   query = e.target.value; render();
 });
-document.getElementById('genderFilter').addEventListener('change',e=>{genderFilter=e.target.value;render();});
-document.getElementById('priceSort').addEventListener('change',e=>{priceSort=e.target.value;render();});
 document.getElementById('tabs').onclick = e=>{
   if(!e.target.dataset.f) return;
   filter = e.target.dataset.f;
@@ -463,7 +452,6 @@ function show(view){
   document.getElementById(view).style.display='block';
   document.querySelector('.search').style.display=view==='catalogView'?'block':'none';
   document.getElementById('tabs').style.display=view==='catalogView'&&brand==='BURKER'?'flex':'none';
-  document.getElementById('watchFilters').hidden=!(view==='catalogView'&&brand==='MATHEY-TISSOT');
   document.getElementById('categoryBack').style.display=view==='catalogView'&&brand!=='all'?'block':'none';
   window.scrollTo(0,0);
 }
@@ -505,7 +493,7 @@ function openProduct(id){
   const crow=document.getElementById('colorRow'); crow.innerHTML='';
   if(cur.type==='Jewelry'){
     const isP=cur.title.toLowerCase().includes('petite');
-    const sibs=PRODUCTS.filter(p=>p.id!==cur.id && p.type==='Jewelry'
+    const sibs=PRODUCTS.filter(p=>p.id!==cur.id && brandOf(p)===brandOf(cur) && p.type==='Jewelry'
         && kindKeyOf(p)===kindKeyOf(cur)
         && p.title.toLowerCase().includes('petite')===isP
         && colorKeyOf(p)!==colorKeyOf(cur));
@@ -519,7 +507,7 @@ function openProduct(id){
   }
   // РАЗМЕР: NORMAL / PETITE (если у этой расцветки есть версия другого размера)
   const srow = document.getElementById('sizeRow'); srow.innerHTML='';
-  if(cur.type==='Watch'){
+  if(cur.type==='Watch' && brandOf(cur)!=='LAPHONT'){
     const ck = colorKeyOf(cur);
     const sib = PRODUCTS.find(p => p.type==='Watch' && p.id!==cur.id
                                  && modelOf(p)===modelOf(cur) && colorKeyOf(p)===ck);
@@ -529,6 +517,14 @@ function openProduct(id){
         + `<button class="sizebtn${isP?'':' active'}" onclick="openProduct(${isP?sib.id:cur.id})">NORMAL</button>`
         + `<button class="sizebtn${isP?' active':''}" onclick="openProduct(${isP?cur.id:sib.id})">PETITE</button></div>`;
     }
+  }
+  if(brandOf(cur)==='LAPHONT'){
+    const siblings=PRODUCTS.filter(p=>brandOf(p)==='LAPHONT'&&p.product_id===cur.product_id);
+    crow.innerHTML='';
+    srow.innerHTML='<label for="laphontVariant">ВАРИАНТ МОДЕЛИ</label><select id="laphontVariant" style="display:block;width:100%;padding:12px;margin-top:10px"></select>';
+    const select=document.getElementById('laphontVariant');
+    siblings.forEach(p=>{const o=document.createElement('option');o.value=p.id;o.textContent=(p.variant==='Default Title'?'Основной вариант':p.variant)+(p.available?'':' — нет в наличии');o.selected=p.id===cur.id;select.append(o);});
+    select.onchange=()=>openProduct(Number(select.value));
   }
   // ЗАВЕРШИТЕ ОБРАЗ: браслеты в тон (бордовый циферблат -> бордовый браслет)
   const cbox = document.getElementById('complete'); cbox.innerHTML='';
@@ -551,7 +547,7 @@ function openProduct(id){
   const m = modelOf(cur);
   const isPetite = cur.title.toLowerCase().includes('petite');
   const vs = cur.type==='Watch'
-    ? sortAvail(PRODUCTS.filter(p => modelOf(p)===m && p.id!==cur.id
+    ? sortAvail(PRODUCTS.filter(p => brandOf(p)===brandOf(cur) && modelOf(p)===m && p.id!==cur.id
         && p.title.toLowerCase().includes('petite')===isPetite))
     : [];
   const vbox = document.getElementById('variants');
@@ -574,7 +570,7 @@ function deliveryCalc(){
  cartList().forEach(({p,qty})=>{if(p.type==='Advent')return;else if(brandOf(p)==='MATHEY-TISSOT')mt+=qty;else if(p.type==='Watch')w+=qty;else j+=qty;});
  if(!w&&!j&&!mt)return 0;
  if(!w&&!mt)return 1300+400*Math.max(0,j-6);
- return 1300+800*Math.max(0,w+mt-1)+400*j;
+ return 1300+800*Math.max(0,w-1)+400*j+mt*MT_DELIVERY;
 }
 
 function cartSuggest(){
@@ -633,6 +629,6 @@ function goSummary(){
 if(previewMode) document.getElementById('previewNotice').style.display='block';
 renderBrandTabs(); render(); updateBadge();
 </script>
-<script src="checkout.js?v=20261015-18"></script>
+<script src="checkout.js?v=20261015-17"></script>
 </body>
 </html>
