@@ -9,7 +9,9 @@ function mountPromoField() {
   const box=document.createElement('section');box.style.cssText='margin:20px 16px;padding:16px;border:1px solid #e8e4de;border-radius:8px';
   box.innerHTML='<label for="promoCode">Промокод</label><div style="display:flex;gap:8px;margin-top:8px"><input id="promoCode" placeholder="Введите промокод" autocomplete="off" maxlength="40" style="min-width:0;flex:1;padding:12px;border:1px solid #ddd;border-radius:4px"><button id="applyPromo" type="button">Применить</button></div><p id="promoStatus" role="status" style="font-size:13px"></p><p style="font-size:12px;color:#777">Скидка применяется к товарам Burker, включая SALE. Доставка оплачивается отдельно.</p>';
   const anchor=document.getElementById('sumTotal').closest('.sumtotal');anchor.before(box);
-  const discount=document.createElement('p');discount.id='promoDiscountRow';discount.hidden=true;box.append(discount);
+  const discount=document.createElement('div');discount.id='promoDiscountRow';discount.className='sumline';discount.hidden=true;
+  discount.innerHTML='<span>Промокод</span><span id="promoDiscountAmount"></span>';
+  document.getElementById('sumSub').closest('.sumline').after(discount);
   document.getElementById('applyPromo').onclick=()=>{
     const value=document.getElementById('promoCode').value.trim().toUpperCase();
     if(!value){appliedPromo='';renderSummary();document.getElementById('promoStatus').textContent='Промокод удалён.';return;}
@@ -59,14 +61,25 @@ function renderSummary() {
   });
   const sub=cartSubtotal(), del=deliveryCalc(), discount=promoDiscount(), total=sub-discount+del;
   document.getElementById('promoDiscountRow').hidden=!discount;
-  document.getElementById('promoDiscountRow').textContent='Скидка Save5: −'+fmt(discount);
+  document.getElementById('promoDiscountRow').style.display=discount?'flex':'none';
+  document.getElementById('promoDiscountAmount').textContent='−'+fmt(discount);
   const hasAdvents=cartList().some(({p})=>p.type==='Advent');
   document.getElementById('sumSub').textContent=fmt(sub);
   document.getElementById('sumDel').textContent=fmt(del);
   document.getElementById('sumDelRow').hidden=del===0;
   document.getElementById('sumDelLabel').textContent=hasAdvents?'Доставка часов и украшений':'Доставка СДЭК';
   document.getElementById('adventDeliveryNotice').hidden=!hasAdvents;
-  document.getElementById('sumTotal').textContent=fmt(total);
+  const totalBox=document.getElementById('sumTotal');totalBox.replaceChildren();
+  if(discount){
+    const original=document.createElement('del');original.textContent=fmt(sub+del);
+    original.style.cssText='color:#888;font-size:14px;font-weight:400;margin-right:10px;white-space:nowrap';
+    const discounted=document.createElement('strong');discounted.textContent=fmt(total);
+    discounted.style.cssText='color:#b32032;white-space:nowrap';
+    totalBox.style.cssText='display:flex;flex-wrap:wrap;justify-content:flex-end;align-items:center;gap:4px';
+    totalBox.append(original,discounted);
+  }else{
+    totalBox.style.cssText='';totalBox.textContent=fmt(total);
+  }
   document.getElementById('fullBtn').textContent=fmt(total);
   document.getElementById('halfBtn').textContent=fmt(Math.ceil(total/2))+' сейчас · остаток '+fmt(total-Math.ceil(total/2));
   document.getElementById('orderResult').textContent='';
