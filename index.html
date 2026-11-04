@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MULTIBRANDIA — часы и украшения со всего мира</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
-<script src="products.js?v=20261104-burker-1"></script>
+<script src="products.js?v=20261104-burker-2"></script>
 <script src="mathey.js?v=20261015-17"></script>
 <script src="advents.js?v=20261015-17"></script>
 <style>
@@ -295,8 +295,8 @@ const kindKeyOf=p=>p.title.toLowerCase().split(/\s+/).filter(w=>w!=='petite'&&!C
 function quickAdd(id,btn){ if(!PRODUCTS.find(p=>p.id==id && p.available)) return; cart[id]=(cart[id]||0)+1; saveCart(); if(btn){btn.textContent='\u2713'; btn.disabled=true;} }
 // в наличии — выше, нет в наличии — внизу списка
 const sortAvail = list => [...list].sort((a,b)=>(b.available?1:0)-(a.available?1:0));
-const brandOf = p => p.brand || 'BURKER';
-const filtered = () => PRODUCTS.filter(p => (p.available || p.type==='Advent' || brand==='LAPHONT'&&brandOf(p)==='LAPHONT') &&
+const brandOf = p => !p.brand || p.brand==='BURKER WATCHES' ? 'BURKER' : p.brand;
+const filtered = () => PRODUCTS.filter(p =>
   (brand==='all' || (brand==='Advent'?p.type==='Advent':brandOf(p)===brand && p.type!=='Advent')) &&
   (filter==='all' ? true : filter==='sale' ? p.sale : p.type===filter));
 function renderBrandTabs(){} // Category covers replace redundant brand chips.
@@ -384,7 +384,7 @@ function renderShowcase(){
  document.getElementById('categoryBack').style.display=home?'none':'block';
  document.getElementById('tabs').style.display=['BURKER','LAPHONT'].includes(brand)?'flex':'none';
  if(!home)return;
- const items=PRODUCTS.filter(p=>p.available&&p.type!=='Advent'&&brandOf(p)==='BURKER');
+ const items=PRODUCTS.filter(p=>p.type!=='Advent'&&brandOf(p)==='BURKER');
  const hero=items.find(p=>p.type==='Watch'&&p.images.length);
  sc.replaceChildren();
  const laphont=PRODUCTS.filter(p=>brandOf(p)==='LAPHONT');
