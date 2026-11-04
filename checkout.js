@@ -1,8 +1,9 @@
 let appliedPromo = '';
 function promoDiscount() {
-  if(appliedPromo !== 'SAVE5') return 0;
+  const percent={SAVE5:5,SAVE10:10}[appliedPromo]||0;
+  if(!percent) return 0;
   const eligible=cartList().reduce((sum,{p,qty})=>sum+(/^BURKER(?: WATCHES)?$/i.test(p.brand||'BURKER')?p.price_rub*qty:0),0);
-  return Math.floor((eligible*5+50)/100);
+  return Math.floor((eligible*percent+50)/100);
 }
 function mountPromoField() {
   if(document.getElementById('promoCode')) return;
@@ -15,9 +16,9 @@ function mountPromoField() {
   document.getElementById('applyPromo').onclick=()=>{
     const value=document.getElementById('promoCode').value.trim().toUpperCase();
     if(!value){appliedPromo='';renderSummary();document.getElementById('promoStatus').textContent='Промокод удалён.';return;}
-    if(value!=='SAVE5'){document.getElementById('promoStatus').textContent='Промокод не найден.';return;}
-    if(!cartList().some(({p})=>/^BURKER(?: WATCHES)?$/i.test(p.brand||'BURKER'))){document.getElementById('promoStatus').textContent='Save5 действует только на товары Burker.';return;}
-    appliedPromo='SAVE5';renderSummary();document.getElementById('promoStatus').textContent='Save5 применён: −5% на товары Burker.';
+    if(!['SAVE5','SAVE10'].includes(value)){document.getElementById('promoStatus').textContent='Промокод не найден.';return;}
+    if(!cartList().some(({p})=>/^BURKER(?: WATCHES)?$/i.test(p.brand||'BURKER'))){document.getElementById('promoStatus').textContent='Промокод действует только на товары Burker.';return;}
+    appliedPromo=value;renderSummary();document.getElementById('promoStatus').textContent=value+' применён: −'+({SAVE5:5,SAVE10:10}[value])+'% на товары Burker.';
   };
   document.getElementById('promoCode').oninput=()=>{if(appliedPromo){appliedPromo='';renderSummary();document.getElementById('promoStatus').textContent='Нажмите «Применить», чтобы использовать промокод.';}};
 }
@@ -31,7 +32,7 @@ function alertOrder(text) {
   if (tg.showAlert && tg.initData) tg.showAlert(text); else window.alert(text);
 }
 function checkoutPayload(mode) {
-  return {pay:mode, fio:gv('cFio'),phone:gv('cPhone'),city:gv('cCity'),sdek:gv('cSdek'),
+  return {pay:mode,
     items:cartList().map(({p,qty})=>({id:p.id,qty})),
     expected_total:cartSubtotal()-promoDiscount()+deliveryCalc(),
     promo_code:appliedPromo,
@@ -113,7 +114,7 @@ async function placeOrder(mode) {
     }
     const order=data.order;
     cart={}; saveCart(); pendingRequest=null; localStorage.removeItem('multibrandia_pending');
-    result.textContent=`Заказ №${order.id} принят. Перейдите в банковское приложение для оплаты. Подтверждение заказа и кнопка поддержки придут в чат бота.`;
+    result.textContent=`Заказ №${order.id} принят. Перейдите в банковское приложение для оплаты. В чат бота придёт состав заказа. После оплаты отправьте в поддержку чек и данные для доставки СДЭК: ФИО получателя, телефон, город и адрес пункта выдачи.`;
     document.getElementById('paymentOptions').style.display='none';
     document.getElementById('consents').style.display='none';
     if(order.manual_amount) {

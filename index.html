@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MULTIBRANDIA — часы и украшения со всего мира</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
-<script src="products.js?v=20261024-laphont-1"></script>
+<script src="products.js?v=20261104-burker-1"></script>
 <script src="mathey.js?v=20261015-17"></script>
 <script src="advents.js?v=20261015-17"></script>
 <style>
@@ -236,21 +236,9 @@ button:focus-visible{outline:2px solid #742536;outline-offset:3px}
   <div style="padding:0 16px"><button class="btn wine" id="checkoutBtn" onclick="showCheckout()">ОФОРМИТЬ ЗАКАЗ</button></div>
 </div>
 
-<div id="checkoutView">
-  <div class="back" onclick="showCart()">← КОРЗИНА</div>
-  <div class="pinfo">
-    <h2>Данные доставки</h2>
-    <input class="field" id="cFio" placeholder="Фамилия Имя Отчество">
-    <input class="field" id="cPhone" placeholder="Телефон">
-    <input class="field" id="cCity" placeholder="Город">
-    <input class="field" id="cSdek" placeholder="Адрес пункта выдачи СДЭК">
-    <button class="btn" onclick="goSummary()">ДАЛЕЕ →</button>
-  </div>
-</div>
-
 <div id="summaryView">
   <div class="back" onclick="goCheckout()">← НАЗАД</div>
-  <div id="sumItems"></div>
+  <p style="padding:0 16px;color:#777;font-size:13px;line-height:1.5">После оформления заказа отправьте чек и данные для доставки в поддержку. Бот пришлёт подробную инструкцию.</p><div id="sumItems"></div>
   <div class="sumline"><span>Товары</span><span id="sumSub"></span></div>
   <div class="sumline" id="sumDelRow"><span id="sumDelLabel">Доставка СДЭК</span><span id="sumDel"></span></div>
   <aside class="advent-delivery-notice" id="adventDeliveryNotice" role="note" hidden>
@@ -448,7 +436,7 @@ document.getElementById('tabs').onclick = e=>{
   render();
 };
 function show(view){
-  ['catalogView','productView','cartView','checkoutView','summaryView'].forEach(id=>document.getElementById(id).style.display='none');
+  ['catalogView','productView','cartView','summaryView'].forEach(id=>document.getElementById(id).style.display='none');
   document.getElementById(view).style.display='block';
   document.querySelector('.search').style.display=view==='catalogView'?'block':'none';
   document.getElementById('tabs').style.display=view==='catalogView'&&brand==='BURKER'?'flex':'none';
@@ -570,7 +558,7 @@ function deliveryCalc(){
  cartList().forEach(({p,qty})=>{if(p.type==='Advent')return;else if(brandOf(p)==='MATHEY-TISSOT')mt+=qty;else if(p.type==='Watch')w+=qty;else j+=qty;});
  if(!w&&!j&&!mt)return 0;
  if(!w&&!mt)return 1300+400*Math.max(0,j-6);
- return 1300+800*Math.max(0,w-1)+400*j+mt*MT_DELIVERY;
+ return 1000+800*Math.max(0,w-1)+400*j+mt*MT_DELIVERY;
 }
 
 function cartSuggest(){
@@ -610,25 +598,20 @@ function showCart(){
 }
 function chQty(id,d){ cart[id]=Math.min(20,(cart[id]||0)+d); if(cart[id]<=0) delete cart[id]; saveCart(); showCart(); }
 
-function gv(id){ return document.getElementById(id).value.trim(); }
 function showCheckout(){
   if(!cartQty()) return;
-  show('checkoutView');
+  goSummary();
 }
-function goCheckout(){ show('checkoutView'); }
+function goCheckout(){ showCart(); }
 function goSummary(){
   if(!cartList().length) return alertOrder('Корзина пуста');
   document.getElementById('paymentOptions').style.display='';
   document.getElementById('consents').style.display='grid';
-  if(!gv('cFio')||!gv('cPhone')||!gv('cCity')||!gv('cSdek')){ alertOrder('Заполните все поля'); return; }
-  const phone=gv('cPhone'), digits=phone.replace(/\D/g,'');
-  if(!/^[+\d\s()\-]+$/.test(phone)||digits.length<7||digits.length>15){alertOrder('Введите корректный номер телефона: от 7 до 15 цифр, можно с кодом страны.');document.getElementById('cPhone').focus();return;}
-  const notice=document.getElementById('receiptNotice');notice.style.display='flex';
-  document.getElementById('receiptOk').onclick=()=>{notice.style.display='none';renderSummary();show('summaryView');};
+  renderSummary();show('summaryView');
 }
 if(previewMode) document.getElementById('previewNotice').style.display='block';
 renderBrandTabs(); render(); updateBadge();
 </script>
-<script src="checkout.js?v=20261029-save5-3"></script>
+<script src="checkout.js?v=20261104-save10-support-1"></script>
 </body>
 </html>
