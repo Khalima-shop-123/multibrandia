@@ -12,7 +12,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_bracelet_gold_1_3f9fb57f-a8e9-47b7-b623-9778402daec1.png?v=1792266595",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_bracelet_silver_1_fefc4808-b436-47d0-a92d-00ef4f989509.png?v=1792266598"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_bracelet_silver_1_fefc4808-b436-47d0-a92d-00ef4f989509.png?v=1792266598",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Bracelet.jpg?v=1793868541",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Bracelet1.jpg?v=1793868541"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/gia-bangle",
   "source_price_eur": "19.50",
@@ -32,7 +34,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_bracelet_silver_1_fefc4808-b436-47d0-a92d-00ef4f989509.png?v=1792266598",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_bracelet_gold_1_3f9fb57f-a8e9-47b7-b623-9778402daec1.png?v=1792266595"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_bracelet_gold_1_3f9fb57f-a8e9-47b7-b623-9778402daec1.png?v=1792266595",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Bracelet.jpg?v=1793868541",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Bracelet1.jpg?v=1793868541"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/gia-bangle",
   "source_price_eur": "19.50",
@@ -92,7 +96,8 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_necklace_gold_1.png?v=1792267923",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_necklace_silver_1.png?v=1792267930"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_necklace_silver_1.png?v=1792267930",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Necklace.jpg?v=1793868617"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/gia-necklace",
   "source_price_eur": "19.50",
@@ -112,7 +117,8 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_necklace_silver_1.png?v=1792267930",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_necklace_gold_1.png?v=1792267923"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_necklace_gold_1.png?v=1792267923",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Necklace.jpg?v=1793868617"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/gia-necklace",
   "source_price_eur": "19.50",
@@ -132,7 +138,8 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_necklace_gold_1.png?v=1791475137",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_necklace_silver_1.png?v=1791475140"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_necklace_silver_1.png?v=1791475140",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Necklace.jpg?v=1793868654"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/nella-necklace",
   "source_price_eur": "11.70",
@@ -152,7 +159,8 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_necklace_silver_1.png?v=1791475140",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_necklace_gold_1.png?v=1791475137"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_necklace_gold_1.png?v=1791475137",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Necklace.jpg?v=1793868654"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/nella-necklace",
   "source_price_eur": "11.70",
@@ -172,7 +180,8 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_necklace_gold_1.png?v=1791473662",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_necklace_silver_1.png?v=1791473672"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_necklace_silver_1.png?v=1791473672",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_Necklace.jpg?v=1793868682"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/alma-necklace",
   "source_price_eur": "15.60",
@@ -192,7 +201,8 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_necklace_silver_1.png?v=1791473672",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_necklace_gold_1.png?v=1791473662"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_necklace_gold_1.png?v=1791473662",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_Necklace.jpg?v=1793868682"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/alma-necklace",
   "source_price_eur": "15.60",
@@ -212,7 +222,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_necklace_gold_1_1a9c35fd-2f67-4296-bf65-aff5091ba3ca.png?v=1791474265",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_necklace_silver_1_14dc8a76-b78c-488e-aa82-653ea1f67eff.png?v=1791474268"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_necklace_silver_1_14dc8a76-b78c-488e-aa82-653ea1f67eff.png?v=1791474268",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_Necklace1.jpg?v=1793868723",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_Necklace.jpg?v=1793868723"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/eira-necklace",
   "source_price_eur": "19.50",
@@ -232,7 +244,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_necklace_silver_1_14dc8a76-b78c-488e-aa82-653ea1f67eff.png?v=1791474268",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_necklace_gold_1_1a9c35fd-2f67-4296-bf65-aff5091ba3ca.png?v=1791474265"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_necklace_gold_1_1a9c35fd-2f67-4296-bf65-aff5091ba3ca.png?v=1791474265",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_Necklace1.jpg?v=1793868723",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_Necklace.jpg?v=1793868723"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/eira-necklace",
   "source_price_eur": "19.50",
@@ -252,7 +266,8 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_necklace_gold_1.png?v=1791473302",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_necklace_silver_1.png?v=1791473309"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_necklace_silver_1.png?v=1791473309",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_Necklace.jpg?v=1793868750"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/ada-necklace",
   "source_price_eur": "19.50",
@@ -272,7 +287,8 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_necklace_silver_1.png?v=1791473309",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_necklace_gold_1.png?v=1791473302"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_necklace_gold_1.png?v=1791473302",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_Necklace.jpg?v=1793868750"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/ada-necklace",
   "source_price_eur": "19.50",
@@ -292,7 +308,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_earrings_gold_1.png?v=1792267112",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_earrings_silver_1.png?v=1792267113"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_earrings_silver_1.png?v=1792267113",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Earrings.jpg?v=1793868784",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Earrings1.jpg?v=1793868783"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/gia-earrings",
   "source_price_eur": "14.50",
@@ -312,7 +330,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_earrings_silver_1.png?v=1792267113",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_earrings_gold_1.png?v=1792267112"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_earrings_gold_1.png?v=1792267112",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Earrings.jpg?v=1793868784",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Earrings1.jpg?v=1793868783"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/gia-earrings",
   "source_price_eur": "14.50",
@@ -332,7 +352,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_earrings_gold_1_c9524dc1-e2dc-4253-8a60-02ab4a9f26b2.png?v=1791472987",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_earrings_silver_1.png?v=1791472974"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_earrings_silver_1.png?v=1791472974",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_Earrings.jpg?v=1793868821",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_Earrings1.jpg?v=1793868820"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/ada-earrings",
   "source_price_eur": "14.50",
@@ -352,7 +374,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_earrings_silver_1.png?v=1791472974",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_earrings_gold_1_c9524dc1-e2dc-4253-8a60-02ab4a9f26b2.png?v=1791472987"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_earrings_gold_1_c9524dc1-e2dc-4253-8a60-02ab4a9f26b2.png?v=1791472987",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_Earrings.jpg?v=1793868821",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_Earrings1.jpg?v=1793868820"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/ada-earrings",
   "source_price_eur": "14.50",
@@ -412,7 +436,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_ring_gold_1.png?v=1791472462",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_ring_silver_1.png?v=1791472464"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_ring_silver_1.png?v=1791472464",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Ring.jpg?v=1793868889",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Ring1.jpg?v=1793868889"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/elya-ring",
   "source_price_eur": "14.50",
@@ -432,7 +458,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_ring_silver_1.png?v=1791472464",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_ring_gold_1.png?v=1791472462"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_ring_gold_1.png?v=1791472462",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Ring.jpg?v=1793868889",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Ring1.jpg?v=1793868889"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/elya-ring",
   "source_price_eur": "14.50",
@@ -452,7 +480,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_bracelet_gold_1.png?v=1792269496",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_bracelet_silver_1.png?v=1792269504"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_bracelet_silver_1.png?v=1792269504",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_Bracelet1.jpg?v=1793868937",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_Bracelet.jpg?v=1793868937"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/ines-bracelet",
   "source_price_eur": "11.60",
@@ -472,7 +502,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_bracelet_silver_1.png?v=1792269504",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_bracelet_gold_1.png?v=1792269496"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_bracelet_gold_1.png?v=1792269496",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_Bracelet1.jpg?v=1793868937",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_Bracelet.jpg?v=1793868937"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/ines-bracelet",
   "source_price_eur": "11.60",
@@ -492,7 +524,10 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_bracelet_gold_1.png?v=1791472259",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_bracelet_silver_1.png?v=1791472263"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Bracelet.jpg?v=1793868986",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_bracelet_silver_1.png?v=1791472263",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Bracelet1.jpg?v=1793868986",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Bracelet2.jpg?v=1793868986"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/nella-bracelet",
   "source_price_eur": "11.60",
@@ -512,7 +547,10 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_bracelet_silver_1.png?v=1791472263",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_bracelet_gold_1.png?v=1791472259"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_bracelet_gold_1.png?v=1791472259",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Bracelet.jpg?v=1793868986",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Bracelet1.jpg?v=1793868986",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Bracelet2.jpg?v=1793868986"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/nella-bracelet",
   "source_price_eur": "11.60",
@@ -532,7 +570,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_bracelet_gold_1.png?v=1791472776",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_bracelet_silver_1.png?v=1791472778"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_bracelet_silver_1.png?v=1791472778",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_Bracelet.jpg?v=1793869049",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_Bracelet1.jpg?v=1793869049"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/alma-bracelet",
   "source_price_eur": "11.60",
@@ -552,7 +592,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_bracelet_silver_1.png?v=1791472778",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_bracelet_gold_1.png?v=1791472776"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_bracelet_gold_1.png?v=1791472776",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_Bracelet.jpg?v=1793869049",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_Bracelet1.jpg?v=1793869049"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/alma-bracelet",
   "source_price_eur": "11.60",
@@ -572,7 +614,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_bracelet_gold_1.png?v=1791471817",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_bracelet_silver_1.png?v=1791471826"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_bracelet_silver_1.png?v=1791471826",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Bracelet.jpg?v=1793869085",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Bracelet1.jpg?v=1793869085"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/elya-braceket",
   "source_price_eur": "15.60",
@@ -592,7 +636,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_bracelet_silver_1.png?v=1791471826",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_bracelet_gold_1.png?v=1791471817"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_bracelet_gold_1.png?v=1791471817",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Bracelet.jpg?v=1793869085",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Bracelet1.jpg?v=1793869085"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/elya-braceket",
   "source_price_eur": "15.60",
@@ -612,7 +658,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_earrings_gold_1_94d11400-adec-4732-9d23-26e99eade515.png?v=1792344104",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_earrings_silver_1_bf2b874d-35c3-44a6-878b-cd1748562e3e.png?v=1792344106"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_earrings_silver_1_bf2b874d-35c3-44a6-878b-cd1748562e3e.png?v=1792344106",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_Earrings.jpg?v=1793869275",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_Earrings1.jpg?v=1793869274"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/selena-earrings",
   "source_price_eur": "11.60",
@@ -632,7 +680,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_earrings_silver_1_bf2b874d-35c3-44a6-878b-cd1748562e3e.png?v=1792344106",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_earrings_gold_1_94d11400-adec-4732-9d23-26e99eade515.png?v=1792344104"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_earrings_gold_1_94d11400-adec-4732-9d23-26e99eade515.png?v=1792344104",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_Earrings.jpg?v=1793869275",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_Earrings1.jpg?v=1793869274"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/selena-earrings",
   "source_price_eur": "11.60",
@@ -652,7 +702,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_earrings_gold_1.png?v=1789725281",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_earrings_silver_1.png?v=1789725285"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_earrings_silver_1.png?v=1789725285",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_Earrings.jpg?v=1793869229",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_Earrings1.jpg?v=1793869229"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/nomy-earrings",
   "source_price_eur": "14.50",
@@ -672,7 +724,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_earrings_silver_1.png?v=1789725285",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_earrings_gold_1.png?v=1789725281"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_earrings_gold_1.png?v=1789725281",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_Earrings.jpg?v=1793869229",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_Earrings1.jpg?v=1793869229"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/nomy-earrings",
   "source_price_eur": "14.50",
@@ -692,7 +746,8 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_ring_gold_1.png?v=1789724923",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_ring_silver_1.png?v=1789724930"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_ring_silver_1.png?v=1789724930",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_Ring.jpg?v=1793869353"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/nomy-ring",
   "source_price_eur": "14.50",
@@ -712,7 +767,8 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_ring_silver_1.png?v=1789724930",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_ring_gold_1.png?v=1789724923"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_ring_gold_1.png?v=1789724923",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_Ring.jpg?v=1793869353"
   ],
   "source_url": "https://www.burkerwatches.com/ru/products/nomy-ring",
   "source_price_eur": "14.50",
@@ -1829,7 +1885,7 @@ const PRODUCTS = [
   "price_rub": 3400,
   "old_rub": 16700,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_silver_burgundy_1.png?v=1785144833",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_silver_burgundy_2_6c0c8236-4eff-430f-9865-10ba615f3a29.png?v=1785144912",
@@ -1851,7 +1907,7 @@ const PRODUCTS = [
   "price_rub": 2700,
   "old_rub": 13900,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_silver_burgundy_1.png?v=1784736632",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_silver_burgundy_2.png?v=1784736632",
@@ -1926,7 +1982,7 @@ const PRODUCTS = [
   "price_rub": 8400,
   "old_rub": 16700,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_silver_burgundy_1.png?v=1785145206",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_silver_burgundy_2.png?v=1785145206",
@@ -3031,7 +3087,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zoey_anklet_silver_1.png?v=1781537023",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zoey_anklet_gold_1.png?v=1781537013",
@@ -3120,7 +3176,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cindy_anklet_silver_1.png?v=1781537107",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cindy_anklet_gold_1.png?v=1781537096",
@@ -4927,7 +4983,7 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Vila_ring_silver_2.png?v=1780915542",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Vila_ring_silver_1.png?v=1780915553",
@@ -6256,7 +6312,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selin_bracelet_gold_1.png?v=1771249444",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selin_bracelet_silver_1.png?v=1771249443",
@@ -11074,7 +11130,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Marly_earrings_silver_1.png?v=1792343316",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Marly_earrings_gold_1.png?v=1792343314",
@@ -11631,7 +11687,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_ccc57610-d74b-4ff5-8346-0e4f84e87a3a.png?v=1732712328",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-fw24-249.jpg?v=1732875435",
@@ -11674,7 +11730,7 @@ const PRODUCTS = [
   "price_rub": 1100,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_f6c3565e-5e94-4ba9-93e4-b797cc88e3e3.png?v=1732713086",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_7e9e0f4f-747d-4c17-8da0-0e012b04b8a4.png?v=1732713085",
@@ -12016,10 +12072,11 @@ const PRODUCTS = [
   "sale": true,
   "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_42e86013-cdfa-4988-98b3-3cf4f3465f09.png?v=1732714498",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_7481ae36-9600-4a5c-95a4-fcffd9b9973c.png?v=1732714493",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_3e53a2ea-2a65-4480-b01b-b160215546f5.png?v=1732714493",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_ace0d4f3-431b-4ef5-a257-55781b31f7c3.png?v=1732714505"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_ace0d4f3-431b-4ef5-a257-55781b31f7c3.png?v=1732714505",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lily_Necklace.jpg?v=1793869542",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lily_Necklace1.jpg?v=1793869542"
   ],
   "sku": "JNLG",
   "source_url": "https://www.burkerwatches.com/ru/products/lily-necklace",
@@ -12041,7 +12098,8 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_ace0d4f3-431b-4ef5-a257-55781b31f7c3.png?v=1732714505",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_7481ae36-9600-4a5c-95a4-fcffd9b9973c.png?v=1732714493",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_3e53a2ea-2a65-4480-b01b-b160215546f5.png?v=1732714493",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_42e86013-cdfa-4988-98b3-3cf4f3465f09.png?v=1732714498"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lily_Necklace.jpg?v=1793869542",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lily_Necklace1.jpg?v=1793869542"
   ],
   "sku": "JNLS",
   "source_url": "https://www.burkerwatches.com/ru/products/lily-necklace",
@@ -12128,7 +12186,7 @@ const PRODUCTS = [
   "price_rub": 1100,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lily_gold_silver_bracelet_1.png?v=1792271956",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lily_gold_silver_bracelet_2.png?v=1792271958",
@@ -12495,7 +12553,7 @@ const PRODUCTS = [
   "price_rub": 2700,
   "old_rub": 13900,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_silver_black_1_8ae6db54-5a51-49c4-9f87-ef9d83d0bea2.png?v=1713876596",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-13.jpg?v=1714137416",
@@ -12519,7 +12577,7 @@ const PRODUCTS = [
   "price_rub": 2700,
   "old_rub": 13900,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_silver_white_1_4ec8c39b-c155-4f22-b7f3-c631a51ead33.png?v=1713876604",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-47.jpg?v=1714137421",
@@ -12543,7 +12601,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_cf9b8ec1-8a13-4cfb-9810-589cc07ee6ff.png?v=1728955963",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_c25cd87a-43c8-4d2b-929b-85138b338927.png?v=1728955964",
@@ -12982,7 +13040,7 @@ const PRODUCTS = [
   "price_rub": 6900,
   "old_rub": 13900,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/products/IsabellSilver.png?v=1636975543",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/products/IsabellSilver2.png?v=1699544483",
@@ -13054,7 +13112,7 @@ const PRODUCTS = [
   "price_rub": 8400,
   "old_rub": 16700,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/products/Isabell_gold_silver_1.png?v=1651566164",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/products/Isabell_gold_silver_2.png?v=1682777659",
