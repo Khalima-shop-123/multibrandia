@@ -167,6 +167,11 @@
 button:focus-visible{outline:2px solid #742536;outline-offset:3px}
 @media(max-width:360px){.calendar-dialog{padding:10px}.calendar-gallery-tools{gap:5px}.calendar-gallery-tools button{padding:7px 9px}}
 
+.price-pair{display:inline-flex;flex-wrap:wrap;align-items:baseline;justify-content:flex-end;gap:5px 10px}
+.price-pair del{color:#888;font-size:.78em;font-weight:400;white-space:nowrap}
+.price-pair strong{color:#b32032;white-space:nowrap}
+.summary-item .price-pair{justify-content:flex-start}
+#promoDiscountRow[hidden]{display:none!important}
 </style>
 </head>
 <body>
@@ -552,6 +557,16 @@ function openProduct(id){
 function cartList(){
   return Object.entries(cart).map(([id,qty])=>({p:PRODUCTS.find(x=>x.id==id), qty})).filter(x=>x.p);
 }
+function regularPrice(p){
+  const current=Number(p.price_rub), old=Number(p.old_rub);
+  return Number.isFinite(old)&&old>current?old:current;
+}
+function cartRegularSubtotal(){return cartList().reduce((s,{p,qty})=>s+regularPrice(p)*qty,0);}
+function pricePair(current,regular){
+  return regular>current
+    ? `<span class="price-pair"><del>${fmt(regular)}</del><strong>${fmt(current)}</strong></span>`
+    : `<span>${fmt(current)}</span>`;
+}
 function cartSubtotal(){ return cartList().reduce((s,x)=>s+x.p.price_rub*x.qty,0); }
 function deliveryCalc(){
  let w=0,j=0,mt=0;
@@ -577,7 +592,7 @@ function showCart(){
   cartList().forEach(({p,qty})=>{
     const d=document.createElement('div'); d.className='citem';
     d.innerHTML=`<img src="${esc(p.images[0])}"><div class="nm">${esc(p.title)}
-      <div class="price" style="font-size:14px">${fmt(p.price_rub*qty)}</div>
+      <div class="price" style="font-size:14px">${pricePair(p.price_rub*qty,regularPrice(p)*qty)}</div>
       <div class="qty"><button onclick="chQty(${p.id},-1)">−</button><span>${qty}</span>
       <button onclick="chQty(${p.id},1)">+</button></div></div>`;
     box.appendChild(d);
@@ -587,12 +602,12 @@ function showCart(){
   if(sug){
     sg.innerHTML=`<h4>ДОБАВЬТЕ К ЗАКАЗУ</h4><div class="srow2">
       <img src="${sug.images[0]}" onclick="openProduct(${sug.id})">
-      <div class="nm">${sug.title}<div class="price" style="font-size:13px">${fmt(sug.price_rub)}</div></div>
+      <div class="nm">${sug.title}<div class="price" style="font-size:13px">${pricePair(sug.price_rub,regularPrice(sug))}</div></div>
       <button class="splus" onclick="quickAdd(${sug.id});showCart()">+</button></div>`;
   }
   const sub=cartSubtotal();
   document.getElementById('cartTotal').innerHTML = sub
-    ? `<span>ТОВАРЫ</span><span>${fmt(sub)}</span>` : '';
+    ? `<span>ТОВАРЫ</span><span>${pricePair(sub,cartRegularSubtotal())}</span>` : '';
   document.getElementById('checkoutBtn').style.display = sub ? 'block' : 'none';
   show('cartView');
 }
@@ -612,6 +627,6 @@ function goSummary(){
 if(previewMode) document.getElementById('previewNotice').style.display='block';
 renderBrandTabs(); render(); updateBadge();
 </script>
-<script src="checkout.js?v=20261104-save10-support-1"></script>
+<script src="checkout.js?v=20261106-price-display-1"></script>
 </body>
 </html>

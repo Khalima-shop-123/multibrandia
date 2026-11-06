@@ -57,7 +57,7 @@ function renderSummary() {
     const info=document.createElement('div'), title=document.createElement('h3'), variant=document.createElement('p'), price=document.createElement('strong');
     title.textContent=p.title;
     variant.textContent=(p.variant || (p.type==='Watch'?(p.title.toLowerCase().includes('petite')?'Размер: Petite':'Размер: стандартный'):'') )+(p.variant||p.type==='Watch'?' · ':'')+'Количество: '+qty;
-    price.textContent=fmt(p.price_rub)+' × '+qty+' = '+fmt(p.price_rub*qty);
+    price.innerHTML=pricePair(p.price_rub*qty,regularPrice(p)*qty);
     info.append(title,variant,price);row.append(img,info);box.appendChild(row);
   });
   const sub=cartSubtotal(), del=deliveryCalc(), discount=promoDiscount(), total=sub-discount+del;
@@ -65,23 +65,14 @@ function renderSummary() {
   document.getElementById('promoDiscountRow').style.display=discount?'flex':'none';
   document.getElementById('promoDiscountAmount').textContent='−'+fmt(discount);
   const hasAdvents=cartList().some(({p})=>p.type==='Advent');
-  document.getElementById('sumSub').textContent=fmt(sub);
+  document.getElementById('sumSub').innerHTML=pricePair(sub,cartRegularSubtotal());
   document.getElementById('sumDel').textContent=fmt(del);
   document.getElementById('sumDelRow').hidden=del===0;
   document.getElementById('sumDelLabel').textContent=hasAdvents?'Доставка часов и украшений':'Доставка СДЭК';
   document.getElementById('adventDeliveryNotice').hidden=!hasAdvents;
-  const totalBox=document.getElementById('sumTotal');totalBox.replaceChildren();
-  if(discount){
-    const original=document.createElement('del');original.textContent=fmt(sub+del);
-    original.style.cssText='color:#888;font-size:14px;font-weight:400;margin-right:10px;white-space:nowrap';
-    const discounted=document.createElement('strong');discounted.textContent=fmt(total);
-    discounted.style.cssText='color:#b32032;white-space:nowrap';
-    totalBox.style.cssText='display:flex;flex-wrap:wrap;justify-content:flex-end;align-items:center;gap:4px';
-    totalBox.append(original,discounted);
-  }else{
-    totalBox.style.cssText='';totalBox.textContent=fmt(total);
-  }
-  document.getElementById('fullBtn').textContent=fmt(total);
+  const totalBox=document.getElementById('sumTotal');
+  totalBox.innerHTML=pricePair(total,cartRegularSubtotal()+del);
+  document.getElementById('fullBtn').innerHTML=pricePair(total,cartRegularSubtotal()+del);
   document.getElementById('halfBtn').textContent=fmt(Math.ceil(total/2))+' сейчас · остаток '+fmt(total-Math.ceil(total/2));
   document.getElementById('orderResult').textContent='';
   syncPaymentButtons();
