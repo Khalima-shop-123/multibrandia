@@ -871,7 +871,7 @@ const PRODUCTS = [
   "price_rub": 16700,
   "old_rub": null,
   "sale": false,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_black_gold_silver_1.png?v=1791822830",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Black_Gold_Silver.jpg?v=1792521491",
@@ -1668,7 +1668,7 @@ const PRODUCTS = [
   "price_rub": 10000,
   "old_rub": 16700,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_silver_burgundy_1_8b684e31-7f5b-4836-8f6d-d22c2b8c4c69.png?v=1785485611",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_silver_burgundy_2_4413b0c2-3f72-4deb-a41d-b3337018036f.png?v=1785485612",
@@ -2007,7 +2007,7 @@ const PRODUCTS = [
   "price_rub": 6900,
   "old_rub": 13900,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_silver_burgundy_1.png?v=1784576610",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_silver_burgundy_2.png?v=1784576610",
@@ -2349,7 +2349,7 @@ const PRODUCTS = [
   "price_rub": 8300,
   "old_rub": 13900,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_silver_olive_green_1_93aeb9f8-94ab-4c32-a9a5-badfc3284377.png?v=1785186063",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_silver_olive_green_2_7f66b00c-b0b9-493a-a21e-0639ba34f892.png?v=1785186065",
@@ -3002,7 +3002,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lily_anklet_silver_1.png?v=1781536929",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lily_anklet_gold_1.png?v=1781536895",
@@ -3451,7 +3451,7 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alexis_ring_silver_1_41daf17e-a01d-44a4-92db-1f9a1b5090bc.png?v=1783938445",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alexis_ring_gold_1.png?v=1783938424"
@@ -3733,7 +3733,7 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Velia_ring_silver_1.png?v=1783936486",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Velia_ring_gold_1.png?v=1783936478",
@@ -3929,7 +3929,7 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nolia_bracelet_gold_1.png?v=1783936001",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nolia_bracelet_silver_1.png?v=1783936011",
@@ -3973,7 +3973,7 @@ const PRODUCTS = [
   "price_rub": 2800,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Linda_necklace_gold_1.png?v=1783936203",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Linda_necklace_silver_1.png?v=1783936210"
@@ -4264,7 +4264,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Flora_silver_pink_1.png?v=1781538037",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Flora_silver_pink_2.png?v=1781538063",
@@ -4789,7 +4789,7 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kaso_earrings_silver_1.png?v=1780914834",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kaso_earrings_gold_1.png?v=1780914830",
@@ -4812,7 +4812,7 @@ const PRODUCTS = [
   "price_rub": 2200,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_petite_silver_pink_1.png?v=1780999994",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Victoria_Silver_Pink2.jpg?v=1780942847",
@@ -4836,11 +4836,10 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mothers_day_gift.png?v=1775635493",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mother_s_Day_Gift_4.jpg?v=1776795904",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mother_s_Day_Gift.jpg?v=1776795904",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mother_s_Day_Gift_2.jpg?v=1776795904",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mother_s_Day_Gift_3.jpg?v=1776795904",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mother_s_Day_Gift_6.jpg?v=1776795904"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophia_Chic_Gold_Bracelet.jpg?v=1793968859",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophia_Chic_Gold_Bracelet2.jpg?v=1793968858",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mother_s_Day_Gift_3.jpg?v=1776795904"
   ],
   "sku": "JBSOPCG",
   "source_url": "https://www.burkerwatches.com/ru/products/sophia-chic-gold-bracelet",
@@ -5895,10 +5894,10 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_petite_gold_1.png?v=1773738766",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC04590.jpg?v=1773740791",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBAVAPGW2.jpg?v=1773742553",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC04574.jpg?v=1773742553",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_Petite_Bracelet.jpg?v=1793969004",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_silver_1_65e2e9f9-2f38-45d0-a40b-0b13dad986bd.png?v=1773742553",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_Petite_Bracelet1.jpg?v=1793969004",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_Petite_Bracelet2.jpg?v=1793969003",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_gold_ce3a1eb6-fb1d-4faf-afdf-c895afa991fd.png?v=1785272540",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_silver_c30b84e9-f8fe-4ac9-9ba4-679f04ea918c.png?v=1785272540"
   ],
@@ -5921,9 +5920,9 @@ const PRODUCTS = [
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_silver_1_65e2e9f9-2f38-45d0-a40b-0b13dad986bd.png?v=1773742553",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_petite_gold_1.png?v=1773738766",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC04590.jpg?v=1773740791",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBAVAPGW2.jpg?v=1773742553",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC04574.jpg?v=1773742553",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_Petite_Bracelet.jpg?v=1793969004",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_Petite_Bracelet1.jpg?v=1793969004",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_Petite_Bracelet2.jpg?v=1793969003",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_gold_ce3a1eb6-fb1d-4faf-afdf-c895afa991fd.png?v=1785272540",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_silver_c30b84e9-f8fe-4ac9-9ba4-679f04ea918c.png?v=1785272540"
   ],
@@ -5945,8 +5944,10 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_petite_gold_burgundy_1.png?v=1773738902",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBAVAPGBUR1.jpg?v=1773740462",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_burgundy_13179301-2bcb-447b-9c89-6fa890ab3ca7.png?v=1785272256"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_Petite_Gold_Burgundy_Bracelet.jpg?v=1793973877",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_burgundy_13179301-2bcb-447b-9c89-6fa890ab3ca7.png?v=1785272256",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_Petite_Gold_Burgundy_Bracelet2.jpg?v=1793973877",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_Petite_Gold_Burgundy_Bracelet1.jpg?v=1793973877"
   ],
   "sku": "JBAPGBUR",
   "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-gold-burgundy-bracelet",
@@ -6009,9 +6010,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_petite_gold_white_1.png?v=1773739029",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBAVAPGW1.jpg?v=1773740577",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBAVAPGW2_2a7c3309-2b2e-4856-997b-222ca2aabc4e.jpg?v=1773740577",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_white_bcfbf14a-cf3b-4a26-ac76-96929b1242c2.png?v=1785272324"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_Petite_Gold_White_Bracelet1.jpg?v=1793969733",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_white_bcfbf14a-cf3b-4a26-ac76-96929b1242c2.png?v=1785272324",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_Petite_Gold_White_Bracelet.jpg?v=1793969733"
   ],
   "sku": "JBAPGW",
   "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-gold-white-bracelet",
@@ -6493,10 +6494,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_bracelet_gold_1.png?v=1771249592",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_Brac_1.jpg?v=1772230195",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_bracelet_silver_1.png?v=1772230195",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_Brac_2.jpg?v=1772230169",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_Brac_3.jpg?v=1772230187"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_Bracelet.jpg?v=1793973184",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_Bracelet1.jpg?v=1793973183"
   ],
   "sku": "JBNARG",
   "source_url": "https://www.burkerwatches.com/ru/products/nara-bracelet",
@@ -6517,9 +6517,8 @@ const PRODUCTS = [
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_bracelet_silver_1.png?v=1772230195",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_bracelet_gold_1.png?v=1771249592",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_Brac_1.jpg?v=1772230195",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_Brac_2.jpg?v=1772230169",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_Brac_3.jpg?v=1772230187"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_Bracelet.jpg?v=1793973184",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_Bracelet1.jpg?v=1793973183"
   ],
   "sku": "JBNARS",
   "source_url": "https://www.burkerwatches.com/ru/products/nara-bracelet",
@@ -6601,7 +6600,7 @@ const PRODUCTS = [
   "price_rub": 2200,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Aiala_necklace_silver_1_a6329541-1282-4f47-bf22-d16039bca773.png?v=1769132534",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Aiala_necklace_gold_1_f17d0007-4c45-494f-82a3-02576b15871b.png?v=1769132534",
@@ -7510,8 +7509,11 @@ const PRODUCTS = [
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_bracelet_gold_1.png?v=1764582291",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_bracelet_gold_2_02f4d913-cab0-4cf9-8f00-4150a9ecc659.png?v=1764582977",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_Bracelet1.jpg?v=1793969346",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_bracelet_silver_1.png?v=1764582977",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_bracelet_silver_2.png?v=1764582977"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_bracelet_silver_2.png?v=1764582977",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_Bracelet.jpg?v=1793969347",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_Bracelet2.jpg?v=1793969358"
   ],
   "sku": "JBMAGG",
   "source_url": "https://www.burkerwatches.com/ru/products/maggy-bracelet",
@@ -7528,12 +7530,15 @@ const PRODUCTS = [
   "price_rub": 1300,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_bracelet_silver_1.png?v=1764582977",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_bracelet_gold_1.png?v=1764582291",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_bracelet_gold_2_02f4d913-cab0-4cf9-8f00-4150a9ecc659.png?v=1764582977",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_bracelet_silver_2.png?v=1764582977"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_Bracelet1.jpg?v=1793969346",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_bracelet_silver_2.png?v=1764582977",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_Bracelet.jpg?v=1793969347",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_Bracelet2.jpg?v=1793969358"
   ],
   "sku": "JBMAGS",
   "source_url": "https://www.burkerwatches.com/ru/products/maggy-bracelet",
@@ -7553,10 +7558,10 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/anniversarygift.png?v=1759133396",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/AGIFT_4.jpg?v=1759147030",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eternity_Gold_Bracelet.jpg?v=1793969432",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eternity_Gold_Bracelet2.jpg?v=1793969432",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/AGIFT_2.jpg?v=1759147030",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/AGIFT_1.jpg?v=1759147022",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/AGIFT_3.jpg?v=1759147022"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eternity_Gold_Bracelet1.jpg?v=1793969432"
   ],
   "sku": "JBETEG",
   "source_url": "https://www.burkerwatches.com/ru/products/eternity-gold-bracelet",
@@ -7998,9 +8003,10 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_bracelet_gold_6cffb4ad-04c8-4b3a-8aa5-ef5c6f4a3d14.png?v=1784284397",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_bracelet_gold_1.jpg?v=1761946625",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_bracelet_gold_2.jpg?v=1761946625",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_bracelet_silver_f5070ab4-49c2-4fcf-a574-58d32b7932a8.png?v=1784284386"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_bracelet_silver_f5070ab4-49c2-4fcf-a574-58d32b7932a8.png?v=1784284386",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_Bracelet.jpg?v=1793970273",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_Bracelet2.jpg?v=1793970273",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_Bracelet1.jpg?v=1793970272"
   ],
   "sku": "JBELISG",
   "source_url": "https://www.burkerwatches.com/ru/products/elise-bracelet",
@@ -8021,8 +8027,9 @@ const PRODUCTS = [
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_bracelet_silver_f5070ab4-49c2-4fcf-a574-58d32b7932a8.png?v=1784284386",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_bracelet_gold_6cffb4ad-04c8-4b3a-8aa5-ef5c6f4a3d14.png?v=1784284397",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_bracelet_gold_1.jpg?v=1761946625",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_bracelet_gold_2.jpg?v=1761946625"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_Bracelet.jpg?v=1793970273",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_Bracelet2.jpg?v=1793970273",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_Bracelet1.jpg?v=1793970272"
   ],
   "sku": "JBELISS",
   "source_url": "https://www.burkerwatches.com/ru/products/elise-bracelet",
@@ -8646,13 +8653,14 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_white_1.png?v=1760699181",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_Gold_White.2.jpg?v=1793973985",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_white_2.png?v=1760699182",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_white_3.png?v=1760699181",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_white_ff24f803-4b5c-4c01-84bb-3dc961d8e5ed.png?v=1785270549",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_white_6.jpg?v=1773485611",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_white_4.jpg?v=1773485611",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_Gold_White1.jpg?v=1793973985",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_white_5.jpg?v=1773485611",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_white_7.jpg?v=1773485611"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eternity_Gold_Bracelet_891a7ca0-0b3f-4dc5-bd18-ad54da80c556.jpg?v=1793973985"
   ],
   "sku": "DIAGW",
   "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-white",
@@ -9170,10 +9178,11 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_brown_1.png?v=1757664627",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_Petite_Gold_Brown1.jpg?v=1793970217",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_brown_2.png?v=1758042273",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_brown_3.png?v=1758042273",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_brown_1.jpg?v=1758042273",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_brown_2.jpg?v=1758042242",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_Petite_Gold_Brown.jpg?v=1793970217",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_gold_brown_cdc187f1-0699-4653-aff9-c8793717a66e.png?v=1785270971"
   ],
   "sku": "MCPGBR",
@@ -10220,8 +10229,8 @@ const PRODUCTS = [
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_fc9558cd-b601-464d-8b05-52c42caf64c7.png?v=1745517326",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_612556c7-0c12-436d-bb51-b8469a8d5e9c.png?v=1745517326",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/245f0eca-0107-4ac3-aac5-69c23327f8ca.jpg?v=1745517562",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/93ab5ead-798f-4749-a7f2-ec42c5838e87.jpg?v=1745517563"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophia_Bracelets1.jpg?v=1793973229",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophia_Bracelets.jpg?v=1793973229"
   ],
   "sku": "JBSOFG",
   "source_url": "https://www.burkerwatches.com/ru/products/sophia-bracelets",
@@ -10331,10 +10340,10 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_chic_bracelet_gold.png?v=1749711322",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_Chic_Bracelet.jpg?v=1793969596",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONACG_1.jpg?v=1750908755",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONACG_2.jpg?v=1750908755",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONACG.jpg?v=1750908756",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONACG_3.jpg?v=1750908756"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONACG_3.jpg?v=1750908756",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_Chic_Bracelet1.jpg?v=1793969596"
   ],
   "sku": "JBFIOCG",
   "source_url": "https://www.burkerwatches.com/ru/products/fiona-chic-bracelet",
@@ -10354,10 +10363,10 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_chic_bracelet_gold.png?v=1749711322",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_Chic_Bracelet.jpg?v=1793969596",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONACG_1.jpg?v=1750908755",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONACG_2.jpg?v=1750908755",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONACG.jpg?v=1750908756",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONACG_3.jpg?v=1750908756"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONACG_3.jpg?v=1750908756",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_Chic_Bracelet1.jpg?v=1793969596"
   ],
   "sku": "JBFIOCS",
   "source_url": "https://www.burkerwatches.com/ru/products/fiona-chic-bracelet",
@@ -11022,7 +11031,7 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Clio_bracelet_gold_1_7af3c39f-3508-4f01-b189-22237daac031.png?v=1792270477",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBCLEOG2.jpg?v=1743423269",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBCLEOG2_fa785798-aca2-4ec6-a329-d9e21ca17c53.jpg?v=1793970524",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBCLEOG.jpg?v=1743423269",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Clio_bracelet_silver_1.png?v=1792270467"
   ],
@@ -11045,7 +11054,7 @@ const PRODUCTS = [
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Clio_bracelet_silver_1.png?v=1792270467",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Clio_bracelet_gold_1_7af3c39f-3508-4f01-b189-22237daac031.png?v=1792270477",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBCLEOG2.jpg?v=1743423269",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBCLEOG2_fa785798-aca2-4ec6-a329-d9e21ca17c53.jpg?v=1793970524",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBCLEOG.jpg?v=1743423269"
   ],
   "sku": "JBCLEOS",
@@ -11241,7 +11250,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Tess_earrings_gold_1.png?v=1792343639",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JETESSG.jpg?v=1739786859",
@@ -11371,7 +11380,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kate_earrings_gold_1.png?v=1792342827",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEKATES.jpg?v=1739786929",
@@ -11640,12 +11649,12 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_f66bc39f-a6e9-49a7-a54e-ce2e18f1fbd4.png?v=1737877308",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_Bracelet.jpg?v=1793969091",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONAG1.jpg?v=1739802204",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_81101cc1-4473-41e8-b0a6-fa1bc6639231.png?v=1739802204",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_4889cb4c-a5a1-45d1-9049-20b941a2621f.png?v=1739802204",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONAG2.jpg?v=1739802204",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONAG._2.jpg?v=1761673177",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONAG.jpg?v=1761673176"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_Bracelet1.jpg?v=1793969091"
   ],
   "sku": "JBFIOG",
   "source_url": "https://www.burkerwatches.com/ru/products/fiona-bracelet",
@@ -11666,11 +11675,11 @@ const PRODUCTS = [
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_4889cb4c-a5a1-45d1-9049-20b941a2621f.png?v=1739802204",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_f66bc39f-a6e9-49a7-a54e-ce2e18f1fbd4.png?v=1737877308",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_Bracelet.jpg?v=1793969091",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONAG1.jpg?v=1739802204",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_81101cc1-4473-41e8-b0a6-fa1bc6639231.png?v=1739802204",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONAG2.jpg?v=1739802204",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONAG._2.jpg?v=1761673177",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFIONAG.jpg?v=1761673176"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_Bracelet1.jpg?v=1793969091"
   ],
   "sku": "JBFIOS",
   "source_url": "https://www.burkerwatches.com/ru/products/fiona-bracelet",
@@ -11818,7 +11827,7 @@ const PRODUCTS = [
   "price_rub": 1100,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_e8b1906d-74a8-4fd8-aafa-9a0398fc6d8f.png?v=1732713931",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_a6ff0faa-47b4-4733-acff-88ed70e1944d.png?v=1732713932",
@@ -12119,9 +12128,9 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_9d0e24a6-20f0-4447-b53e-05004d9c4ae7.png?v=1731928916",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Flora_Gold_Bracelet.jpg?v=1793973351",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_b309d010-2606-4914-b316-172e58c250aa.png?v=1731928917",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-69.jpg?v=1731926832",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-65.jpg?v=1734164826"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Flora_Gold_Bracelet1.jpg?v=1793973350"
   ],
   "sku": "JBFG",
   "source_url": "https://www.burkerwatches.com/ru/products/flora-gold-bracelet",
@@ -12141,10 +12150,10 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_fad79584-1b00-4ce8-8338-fa337d9d2a1e.png?v=1728958279",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBZOEYG.jpg?v=1739802953",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zoey_Bracelet.jpg?v=1793969905",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zoey_Bracelet2.jpg?v=1793969904",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_d1d2ae9b-9b2d-4f07-ad36-35b98bbfa54f.png?v=1739802953",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_0732f6a6-9c75-4823-8833-45b0aa474e33.png?v=1739802953",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBZOEYG1.jpg?v=1739802940",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBZOEYS.jpg?v=1739802939"
   ],
   "sku": "JBZG",
@@ -12166,9 +12175,9 @@ const PRODUCTS = [
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_0732f6a6-9c75-4823-8833-45b0aa474e33.png?v=1739802953",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_fad79584-1b00-4ce8-8338-fa337d9d2a1e.png?v=1728958279",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBZOEYG.jpg?v=1739802953",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zoey_Bracelet.jpg?v=1793969905",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zoey_Bracelet2.jpg?v=1793969904",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_d1d2ae9b-9b2d-4f07-ad36-35b98bbfa54f.png?v=1739802953",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBZOEYG1.jpg?v=1739802940",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBZOEYS.jpg?v=1739802939"
   ],
   "sku": "JBZS",
@@ -12652,10 +12661,10 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_e838c32b-ef18-44e8-8eb7-00671dd6d83b.png?v=1728957379",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mae_Bracelet1.jpg?v=1793969502",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_d862fcc7-8c62-4363-b135-55b8535af5de.png?v=1728957380",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-56.jpg?v=1710254263",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-92.jpg?v=1710254263",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_5571f56a-8767-49d9-8a2c-b6c314619976.png?v=1730287117"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_5571f56a-8767-49d9-8a2c-b6c314619976.png?v=1730287117",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mae_Bracelet.jpg?v=1793969503"
   ],
   "sku": "JBMG",
   "source_url": "https://www.burkerwatches.com/ru/products/mae-gold",
@@ -12676,9 +12685,9 @@ const PRODUCTS = [
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_5571f56a-8767-49d9-8a2c-b6c314619976.png?v=1730287117",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_e838c32b-ef18-44e8-8eb7-00671dd6d83b.png?v=1728957379",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mae_Bracelet1.jpg?v=1793969502",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_d862fcc7-8c62-4363-b135-55b8535af5de.png?v=1728957380",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-56.jpg?v=1710254263",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-92.jpg?v=1710254263"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mae_Bracelet.jpg?v=1793969503"
   ],
   "sku": "JBMS",
   "source_url": "https://www.burkerwatches.com/ru/products/mae-gold",
@@ -12746,10 +12755,11 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_brown_1.png?v=1773743412",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_Gold_Brown_Bracelet1.jpg?v=1793969286",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_brown_2_d0fc6344-3b0c-4c23-90d4-94f12350d976.png?v=1784530773",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell-GoldBrown-AvaGoldBrown-5-2.jpg?v=1773743412",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/AvaBrownpolsfoto1-2.jpg?v=1773743412",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_brown_5c74bfbb-8997-4eb4-b1ef-3eab37500667.png?v=1785272221"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_brown_5c74bfbb-8997-4eb4-b1ef-3eab37500667.png?v=1785272221",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_Gold_Brown_Bracelet.jpg?v=1793969286",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBAVAGBR.jpg?v=1793969287"
   ],
   "sku": "JBAGBR",
   "source_url": "https://www.burkerwatches.com/ru/products/ava-gold-brown",
