@@ -4698,7 +4698,7 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Loxe_earrings_silver_1.png?v=1780915015",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Loxe_earrings_gold_1.png?v=1780915005",
@@ -6285,7 +6285,7 @@ const PRODUCTS = [
   "price_rub": 10500,
   "old_rub": 20900,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_dalmatian_gold_1.png?v=1770990855",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_Dolmatian_Gold_5_e71c8b1c-4caa-49e5-90f3-b7101113956a.jpg?v=1771249285",
@@ -8875,7 +8875,7 @@ const PRODUCTS = [
   "price_rub": 3100,
   "old_rub": 15300,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_burgundy_1.png?v=1757665057",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_burgundy_1.jpg?v=1758042818",
@@ -9301,7 +9301,7 @@ const PRODUCTS = [
   "price_rub": 4600,
   "old_rub": 15300,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_burgundy_1.png?v=1758004879",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_Burgundy_2.jpg?v=1758040271",
@@ -11761,7 +11761,7 @@ const PRODUCTS = [
   "price_rub": 1100,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_26bf932e-8b53-4b96-9103-9d3054a88beb.png?v=1732714048",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_39e22a88-5eb2-4d37-b0e2-4353093b0b76.png?v=1732714047",
@@ -12876,7 +12876,7 @@ const PRODUCTS = [
   "price_rub": 2200,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_silver_white_1.png?v=1773743549",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_silver_white_c8e463b3-fcdb-43e5-b31a-9489da47a223.png?v=1785272386",
