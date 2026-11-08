@@ -1,27 +1,3 @@
-let appliedPromo = '';
-function promoDiscount() {
-  const percent={SAVE5:5,SAVE10:10}[appliedPromo]||0;
-  if(!percent) return 0;
-  const eligible=cartList().reduce((sum,{p,qty})=>sum+(/^BURKER(?: WATCHES)?$/i.test(p.brand||'BURKER')?p.price_rub*qty:0),0);
-  return Math.floor((eligible*percent+50)/100);
-}
-function mountPromoField() {
-  if(document.getElementById('promoCode')) return;
-  const box=document.createElement('section');box.style.cssText='margin:20px 16px;padding:16px;border:1px solid #e8e4de;border-radius:8px';
-  box.innerHTML='<label for="promoCode">Промокод</label><div style="display:flex;gap:8px;margin-top:8px"><input id="promoCode" placeholder="Введите промокод" autocomplete="off" maxlength="40" style="min-width:0;flex:1;padding:12px;border:1px solid #ddd;border-radius:4px"><button id="applyPromo" type="button">Применить</button></div><p id="promoStatus" role="status" style="font-size:13px"></p><p style="font-size:12px;color:#777">Скидка применяется к товарам Burker, включая SALE. Доставка оплачивается отдельно.</p>';
-  const anchor=document.getElementById('sumTotal').closest('.sumtotal');anchor.before(box);
-  const discount=document.createElement('div');discount.id='promoDiscountRow';discount.className='sumline';discount.hidden=true;
-  discount.innerHTML='<span>Промокод</span><span id="promoDiscountAmount"></span>';
-  document.getElementById('sumSub').closest('.sumline').after(discount);
-  document.getElementById('applyPromo').onclick=()=>{
-    const value=document.getElementById('promoCode').value.trim().toUpperCase();
-    if(!value){appliedPromo='';renderSummary();document.getElementById('promoStatus').textContent='Промокод удалён.';return;}
-    if(!['SAVE5','SAVE10'].includes(value)){document.getElementById('promoStatus').textContent='Промокод не найден.';return;}
-    if(!cartList().some(({p})=>/^BURKER(?: WATCHES)?$/i.test(p.brand||'BURKER'))){document.getElementById('promoStatus').textContent='Промокод действует только на товары Burker.';return;}
-    appliedPromo=value;renderSummary();document.getElementById('promoStatus').textContent=value+' применён: −'+({SAVE5:5,SAVE10:10}[value])+'% на товары Burker.';
-  };
-  document.getElementById('promoCode').oninput=()=>{if(appliedPromo){appliedPromo='';renderSummary();document.getElementById('promoStatus').textContent='Нажмите «Применить», чтобы использовать промокод.';}};
-}
 // Set this to the HTTPS address of the Timeweb API before publishing.
 const ORDER_API_BASE = 'https://81-31-245-8.sslip.io';
 const DOCUMENTS_BASE = 'docs/';
@@ -34,8 +10,7 @@ function alertOrder(text) {
 function checkoutPayload(mode) {
   return {pay:mode,
     items:cartList().map(({p,qty})=>({id:p.id,qty})),
-    expected_total:cartSubtotal()-promoDiscount()+deliveryCalc(),
-    promo_code:appliedPromo,
+    expected_total:cartSubtotal()+deliveryCalc(),
     oferta:document.getElementById('acceptOferta').checked,
     privacy:document.getElementById('acceptPrivacy').checked};
 }
@@ -49,7 +24,6 @@ function syncPaymentButtons() {
   document.getElementById('payHalf').disabled=!enabled;
 }
 function renderSummary() {
-  mountPromoField();
   const box=document.getElementById('sumItems'); box.replaceChildren();
   cartList().forEach(({p,qty})=>{
     const row=document.createElement('article'); row.className='summary-item';
@@ -60,10 +34,7 @@ function renderSummary() {
     price.innerHTML=pricePair(p.price_rub*qty,regularPrice(p)*qty);
     info.append(title,variant,price);row.append(img,info);box.appendChild(row);
   });
-  const sub=cartSubtotal(), del=deliveryCalc(), discount=promoDiscount(), total=sub-discount+del;
-  document.getElementById('promoDiscountRow').hidden=!discount;
-  document.getElementById('promoDiscountRow').style.display=discount?'flex':'none';
-  document.getElementById('promoDiscountAmount').textContent='−'+fmt(discount);
+  const sub=cartSubtotal(), del=deliveryCalc(), total=sub+del;
   const hasAdvents=cartList().some(({p})=>p.type==='Advent');
   document.getElementById('sumSub').innerHTML=pricePair(sub,cartRegularSubtotal());
   document.getElementById('sumDel').textContent=fmt(del);

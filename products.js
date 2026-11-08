@@ -10488,7 +10488,7 @@ const PRODUCTS = [
   "price_rub": 1300,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Yara_gold.png?v=1749711640",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07624.jpg?v=1749711640",
