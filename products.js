@@ -16,7 +16,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Bracelet.jpg?v=1793868541",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Bracelet1.jpg?v=1793868541"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/gia-bangle",
+  "source_url": "https://www.burkerwatches.com/ru/products/gia-bangle?variant=55285420196167",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -38,7 +38,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Bracelet.jpg?v=1793868541",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Bracelet1.jpg?v=1793868541"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/gia-bangle",
+  "source_url": "https://www.burkerwatches.com/ru/products/gia-bangle?variant=55285420228935",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -58,7 +58,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_necklace_gold_1.png?v=1792270061",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_necklace_silver_1.png?v=1792270063"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/ines-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/ines-necklace?variant=55285417017671",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -78,7 +78,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_necklace_silver_1.png?v=1792270063",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_necklace_gold_1.png?v=1792270061"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/ines-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/ines-necklace?variant=55285417050439",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -99,7 +99,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_necklace_silver_1.png?v=1792267930",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Necklace.jpg?v=1793868617"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/gia-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/gia-necklace?variant=55285413970247",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -120,7 +120,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_necklace_gold_1.png?v=1792267923",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Necklace.jpg?v=1793868617"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/gia-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/gia-necklace?variant=55285414003015",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -141,7 +141,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_necklace_silver_1.png?v=1791475140",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Necklace.jpg?v=1793868654"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/nella-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/nella-necklace?variant=55285412331847",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -162,7 +162,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_necklace_gold_1.png?v=1791475137",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Necklace.jpg?v=1793868654"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/nella-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/nella-necklace?variant=55285412364615",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -183,7 +183,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_necklace_silver_1.png?v=1791473672",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_Necklace.jpg?v=1793868682"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/alma-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/alma-necklace?variant=55285411316039",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -204,7 +204,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_necklace_gold_1.png?v=1791473662",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_Necklace.jpg?v=1793868682"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/alma-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/alma-necklace?variant=55285411348807",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -226,7 +226,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_Necklace1.jpg?v=1793868723",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_Necklace.jpg?v=1793868723"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/eira-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/eira-necklace?variant=55285409841479",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -248,7 +248,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_Necklace1.jpg?v=1793868723",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eira_Necklace.jpg?v=1793868723"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/eira-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/eira-necklace?variant=55285409874247",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -269,7 +269,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_necklace_silver_1.png?v=1791473309",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_Necklace.jpg?v=1793868750"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/ada-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/ada-necklace?variant=55285408170311",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -290,7 +290,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_necklace_gold_1.png?v=1791473302",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_Necklace.jpg?v=1793868750"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/ada-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/ada-necklace?variant=55285408203079",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -312,7 +312,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Earrings.jpg?v=1793868784",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Earrings1.jpg?v=1793868783"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/gia-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/gia-earrings?variant=55285401289031",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -334,7 +334,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Earrings.jpg?v=1793868784",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_Earrings1.jpg?v=1793868783"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/gia-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/gia-earrings?variant=55285401321799",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -356,7 +356,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_Earrings.jpg?v=1793868821",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_Earrings1.jpg?v=1793868820"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/ada-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/ada-earrings?variant=55285399257415",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -378,7 +378,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_Earrings.jpg?v=1793868821",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ada_Earrings1.jpg?v=1793868820"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/ada-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/ada-earrings?variant=55285399290183",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -398,7 +398,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_ring_gold_1.png?v=1792267878",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_ring_silver_1.png?v=1792267894"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/gia-silver-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/gia-silver-ring?variant=55285376942407",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -418,7 +418,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_ring_silver_1.png?v=1792267894",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Gia_ring_gold_1.png?v=1792267878"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/gia-silver-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/gia-silver-ring?variant=55285376975175",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -440,7 +440,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Ring.jpg?v=1793868889",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Ring1.jpg?v=1793868889"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/elya-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/elya-ring?variant=55285374452039",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -462,7 +462,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Ring.jpg?v=1793868889",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Ring1.jpg?v=1793868889"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/elya-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/elya-ring?variant=55285374484807",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -484,7 +484,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_Bracelet1.jpg?v=1793868937",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_Bracelet.jpg?v=1793868937"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/ines-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ines-bracelet?variant=55285346402631",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -506,7 +506,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_Bracelet1.jpg?v=1793868937",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ines_Bracelet.jpg?v=1793868937"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/ines-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ines-bracelet?variant=55285346435399",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -529,7 +529,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Bracelet1.jpg?v=1793868986",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Bracelet2.jpg?v=1793868986"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/nella-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/nella-bracelet?variant=55285345288519",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -552,7 +552,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Bracelet1.jpg?v=1793868986",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nella_Bracelet2.jpg?v=1793868986"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/nella-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/nella-bracelet?variant=55285345321287",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -574,7 +574,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_Bracelet.jpg?v=1793869049",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_Bracelet1.jpg?v=1793869049"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/alma-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/alma-bracelet?variant=55285343486279",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -596,7 +596,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_Bracelet.jpg?v=1793869049",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alma_Bracelet1.jpg?v=1793869049"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/alma-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/alma-bracelet?variant=55285343519047",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -618,7 +618,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Bracelet.jpg?v=1793869085",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Bracelet1.jpg?v=1793869085"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/elya-braceket",
+  "source_url": "https://www.burkerwatches.com/ru/products/elya-braceket?variant=55285336408391",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -640,7 +640,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Bracelet.jpg?v=1793869085",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elya_Bracelet1.jpg?v=1793869085"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/elya-braceket",
+  "source_url": "https://www.burkerwatches.com/ru/products/elya-braceket?variant=55285336441159",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -662,7 +662,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_Earrings.jpg?v=1793869275",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_Earrings1.jpg?v=1793869274"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/selena-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/selena-earrings?variant=54372077044039",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -684,7 +684,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_Earrings.jpg?v=1793869275",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selena_Earrings1.jpg?v=1793869274"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/selena-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/selena-earrings?variant=54372077076807",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -706,7 +706,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_Earrings.jpg?v=1793869229",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_Earrings1.jpg?v=1793869229"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/nomy-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/nomy-earrings?variant=54372074357063",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -728,7 +728,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_Earrings.jpg?v=1793869229",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_Earrings1.jpg?v=1793869229"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/nomy-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/nomy-earrings?variant=54372074389831",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -749,7 +749,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_ring_silver_1.png?v=1789724930",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_Ring.jpg?v=1793869353"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/nomy-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/nomy-ring?variant=54082475065671",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -770,7 +770,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_ring_gold_1.png?v=1789724923",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nomy_Ring.jpg?v=1793869353"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/nomy-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/nomy-ring?variant=54082475098439",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -791,7 +791,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Davi_earrings_silver_1.png?v=1789736068",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEDAVIG.jpg?v=1791966557"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/davi-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/davi-earrings?variant=53655356375367",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -812,7 +812,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Davi_earrings_gold_1.png?v=1789736061",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEDAVIG.jpg?v=1791966557"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/davi-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/davi-earrings?variant=53655356408135",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -834,7 +834,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEZALAG1.jpg?v=1791966595",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEZALAG.jpg?v=1791966595"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/zela-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/zela-earrings?variant=53655353459015",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -856,7 +856,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEZALAG1.jpg?v=1791966595",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEZALAG.jpg?v=1791966595"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/zela-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/zela-earrings?variant=53655353491783",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -880,7 +880,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Black_Gold_Silver2.jpg?v=1792522838",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Black_Gold_Silver3.jpg?v=1792522838"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/anna-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/anna-black-gold-silver?variant=55285471478087",
   "source_price_eur": "119.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -904,7 +904,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Gold_Silver2.jpg?v=1792522867",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Gold_Silver3.jpg?v=1792522868"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/anna-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/anna-gold-silver?variant=55285470691655",
   "source_price_eur": "119.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -928,7 +928,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Gold_Burgundy2.jpg?v=1792522891",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Gold_Burgundy3.jpg?v=1792522891"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/anna-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/anna-gold-burgundy?variant=55285469937991",
   "source_price_eur": "109.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -943,7 +943,7 @@ const PRODUCTS = [
   "price_rub": 15300,
   "old_rub": null,
   "sale": false,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_gold_brown_1.png?v=1791826572",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_gold_brown_2.png?v=1791826572",
@@ -953,7 +953,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Gold_Brown3.jpg?v=1792522911",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Gold_Brown4.jpg?v=1792522912"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/anna-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/anna-gold-brown?variant=55285469118791",
   "source_price_eur": "109.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -968,7 +968,7 @@ const PRODUCTS = [
   "price_rub": 15300,
   "old_rub": null,
   "sale": false,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_gold_black_1_67b842e2-0472-4c02-8dcf-6d81f6d83d18.png?v=1791823030",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_gold_black_2.png?v=1791822879",
@@ -977,7 +977,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Gold_Black3.jpg?v=1792522947",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Gold_Black2.jpg?v=1792522947"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/anna-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/anna-gold-black?variant=55285467644231",
   "source_price_eur": "109.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1001,7 +1001,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Gold_White2.jpg?v=1792522970",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Gold_White3.jpg?v=1792522969"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/anna-gold-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/anna-gold-white?variant=55285466366279",
   "source_price_eur": "109.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1025,7 +1025,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Silver_Black2.jpg?v=1792522988",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Silver_Black3.jpg?v=1792522988"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/anna-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/anna-silver-black?variant=55285465841991",
   "source_price_eur": "99.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1048,7 +1048,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Silver_White.jpg?v=1792521745",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Anna_Silver_White2.jpg?v=1792523006"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/anna-silver-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/anna-silver-white?variant=55285465481543",
   "source_price_eur": "99.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1073,7 +1073,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_BLACK_DOLG_SILVER1.jpg?v=1792179387",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_BLACK_DOLG_SILVER3.jpg?v=1792179387"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/kate-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/kate-black-gold-silver?variant=55285465186631",
   "source_price_eur": "119.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1098,7 +1098,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_GOLD_SILVER3.jpg?v=1792179466",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_GOLD_SILVER2.jpg?v=1792179466"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/kate-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/kate-gold-silver?variant=55285460861255",
   "source_price_eur": "119.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1122,7 +1122,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_GOLD_BURGUNDY1.jpg?v=1792179523",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_GOLD_BURGUNDY2.jpg?v=1792179523"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/kate-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/kate-gold-burgundy?variant=55285459419463",
   "source_price_eur": "109.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1146,7 +1146,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_GOLD_BROWN.jpg?v=1792179581",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_GOLD_BROWN1.jpg?v=1792179581"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/kate-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/kate-gold-brown?variant=55285458108743",
   "source_price_eur": "109.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1170,7 +1170,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_GOLD_BLACK.jpg?v=1792179667",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_GOLD_BLACK1.jpg?v=1792179667"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/kate-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/kate-gold-black?variant=55285455847751",
   "source_price_eur": "109.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1195,7 +1195,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_GOLD_WHITE2.jpg?v=1792179721",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_GOLD_WHITE3.jpg?v=1792179721"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/kate-gold-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/kate-gold-white?variant=55285455257927",
   "source_price_eur": "109.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1220,7 +1220,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_SILVER_BLACK2.jpg?v=1792179780",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_SILVER_BLACK3.jpg?v=1792179780"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/kate-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/kate-silver-black?variant=55285452472647",
   "source_price_eur": "99.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1244,7 +1244,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_SILVER_WHITE1.jpg?v=1792179851",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/KATE_SILVER_WHITE2.jpg?v=1792179852"
   ],
-  "source_url": "https://www.burkerwatches.com/ru/products/kate-silver-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/kate-silver-white?variant=55285443035463",
   "source_price_eur": "99.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1268,7 +1268,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Rose_black_gold_silver2.jpg?v=1791294562"
   ],
   "sku": "ROBGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/rose-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/rose-black-gold-silver?variant=55285489795399",
   "source_price_eur": "119.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1291,7 +1291,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Rose_gold_silver1.jpg?v=1791295045"
   ],
   "sku": "ROGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/rose-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/rose-gold-silver?variant=55285489467719",
   "source_price_eur": "119.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1315,7 +1315,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Rose_gold_burgundy1.jpg?v=1791294849"
   ],
   "sku": "ROGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/rose-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/rose-gold-burgundy?variant=55285488091463",
   "source_price_eur": "109.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1340,7 +1340,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Rose_gold_brown_7.jpg?v=1791294737"
   ],
   "sku": "ROGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/rose-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/rose-gold-brown?variant=55285487370567",
   "source_price_eur": "109.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1364,7 +1364,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/rose_gold_black2.jpg?v=1791294466"
   ],
   "sku": "ROGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/rose-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/rose-gold-black?variant=55285486813511",
   "source_price_eur": "109.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1388,7 +1388,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Rose_gold_white2.jpg?v=1791295135"
   ],
   "sku": "ROGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/rose-gold-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/rose-gold-white?variant=55285486190919",
   "source_price_eur": "109.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1412,7 +1412,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Rose_silver_black2.jpg?v=1791295220"
   ],
   "sku": "ROSB",
-  "source_url": "https://www.burkerwatches.com/ru/products/rose-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/rose-silver-black?variant=55285483340103",
   "source_price_eur": "99.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1436,7 +1436,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Rose_silver_white1.jpg?v=1791294958"
   ],
   "sku": "ROSW",
-  "source_url": "https://www.burkerwatches.com/ru/products/rose-silver-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/rose-silver-white?variant=55285473149255",
   "source_price_eur": "99.00",
   "source_regular_eur": null,
   "price_rate": 140
@@ -1459,7 +1459,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/OLIPSBUR1_2dccfe6a-fd46-4ebd-b1a8-aeee5ba826f3.jpg?v=1788260821"
   ],
   "sku": "JBAPSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-silver-burgundy-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-silver-burgundy-bracelet?variant=54844918038855",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -1483,7 +1483,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/MACSBUR3.jpg?v=1788255245"
   ],
   "sku": "JBASBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-silver-burgundy-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-silver-burgundy-bracelet?variant=54844916760903",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -1507,7 +1507,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DIAPSBUR2.jpg?v=1788260217"
   ],
   "sku": "DIAPSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-silver-burgundy?variant=54372485890375",
   "source_price_eur": "69.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -1530,7 +1530,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/VICGSBUR_6600ce3b-ffdd-48bd-9318-10f50a2244dc.jpg?v=1788260672"
   ],
   "sku": "VICGSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-silver-burgundy?variant=54372483825991",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -1557,7 +1557,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/VICSBUR_27ebc7ae-4562-44ac-b4f6-6977e509552e.jpg?v=1788260723"
   ],
   "sku": "VICSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-silver-burgundy?variant=54372478091591",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -1571,7 +1571,7 @@ const PRODUCTS = [
   "price_rub": 8400,
   "old_rub": 16700,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_petite_gold_silver_burgundy_1.png?v=1785136119",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_petite_gold_silver_burgundy_2.png?v=1785136119",
@@ -1582,7 +1582,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/OLIPGSBUR5.jpg?v=1788942433"
   ],
   "sku": "OLPGSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-silver-burgundy?variant=54372470358343",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -1607,7 +1607,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/OLIPSBUR1_2dccfe6a-fd46-4ebd-b1a8-aeee5ba826f3.jpg?v=1788260821"
   ],
   "sku": "OLPSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-silver-burgundy?variant=54372463640903",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -1630,7 +1630,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/SOPGSBUR1.jpg?v=1788260886"
   ],
   "sku": "SOGSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-silver-burgundy?variant=54372455121223",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -1654,7 +1654,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/SOPSBUR3.jpg?v=1788261006"
   ],
   "sku": "SOSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-silver-burgundy?variant=54372449255751",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -1678,7 +1678,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/ISAPGSBUR5.jpg?v=1788942474"
   ],
   "sku": "ISAPGSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-silver-burgundy?variant=54372448141639",
   "source_price_eur": "71.40",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -1692,7 +1692,7 @@ const PRODUCTS = [
   "price_rub": 8300,
   "old_rub": 13900,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_silver_burgundy_1_6b4c10bd-4aee-43d2-8c8e-5453f29544ab.png?v=1785253868",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_silver_burgundy_2.png?v=1784575084",
@@ -1704,7 +1704,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/ISAPSBUR_f40211ee-fef1-44e8-8598-fcb4704786f7.jpg?v=1788261156"
   ],
   "sku": "ISAPSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-silver-burgundy?variant=54372447322439",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -1728,7 +1728,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/MACPGSBUR_21dd8ea9-7cf6-4925-b12b-55945a3bd162.jpg?v=1788261217"
   ],
   "sku": "MCPGSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-silver-burgundy?variant=54372445880647",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -1752,7 +1752,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/MACPSBUR1.jpg?v=1788261277"
   ],
   "sku": "MCPSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-silver-burgundy?variant=54372444733767",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -1776,7 +1776,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DIASBUR1_01d6724c-c5f5-439f-be53-0954a3c3dedb.jpg?v=1788261345"
   ],
   "sku": "DIASBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-silver-burgundy?variant=54372443226439",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -1798,7 +1798,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JULGSBUR.jpg?v=1788942519"
   ],
   "sku": "JUGSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-silver-burgundy?variant=54372442308935",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -1820,7 +1820,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JULSBUR.jpg?v=1788942596"
   ],
   "sku": "JUSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-silver-burgundy?variant=54372440932679",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -1845,7 +1845,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/OLIGSBUR5.jpg?v=1788942536"
   ],
   "sku": "OLGSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-silver-burgundy?variant=54372439294279",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -1871,7 +1871,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/OLISBUR1.jpg?v=1788261532"
   ],
   "sku": "OLSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-silver-burgundy?variant=54372438114631",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -1893,7 +1893,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/RPGSBUR.jpg?v=1788942555"
   ],
   "sku": "RPGSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-silver-burgundy?variant=54372336894279",
   "source_price_eur": "23.80",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -1915,7 +1915,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/RPSBUR.jpg?v=1788942576"
   ],
   "sku": "RPSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-silver-burgundy?variant=54372336238919",
   "source_price_eur": "19.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -1940,7 +1940,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/MACGSBUR1.jpg?v=1788261617"
   ],
   "sku": "MCGSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-silver-burgundy?variant=54372335550791",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -1968,7 +1968,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/MACSBUR2_fd3c1267-8257-4dd5-822e-175a5043d952.jpg?v=1788261667"
   ],
   "sku": "MCSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-silver-burgundy?variant=54372334829895",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -1993,7 +1993,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/ISAGSBUR_dab42aff-0e3c-4785-ac5b-e72e085d5b98.jpg?v=1788261735"
   ],
   "sku": "ISAGSBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-silver-burgundy?variant=54372328505671",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -2018,7 +2018,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/ISASBUR.jpg?v=1788255332"
   ],
   "sku": "ISASBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-silver-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-silver-burgundy?variant=54372326211911",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2044,7 +2044,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_Petite_Gold_Olive_Green_cf5ae1ad-73b4-44d3-9ba9-1b9a11a23e73.jpg?v=1785267238"
   ],
   "sku": "DIAPGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-olive-green?variant=54372487594311",
   "source_price_eur": "76.30",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -2069,7 +2069,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_Petite_Silver_Olive_Green2.jpg?v=1785267310"
   ],
   "sku": "DIAPSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-silver-olive-green?variant=54372486381895",
   "source_price_eur": "69.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2095,7 +2095,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Victoria_Gold_Silver_Olive_Green3.jpg?v=1785161366"
   ],
   "sku": "VICGSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-silver-olive-green?variant=54372484088135",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -2120,7 +2120,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Victoria_Gold_Olive_Green2.jpg?v=1785161413"
   ],
   "sku": "VICGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-olive-green?variant=54372483498311",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -2146,7 +2146,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Victoria_Silver_Olive_Green_cc360915-b6f8-457d-8c23-b50d19bca3c1.jpg?v=1785267397"
   ],
   "sku": "VICSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-silver-olive-green?variant=54372481466695",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2169,7 +2169,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_Petite_Gold_Silver_Olive_Green.jpg?v=1785157434"
   ],
   "sku": "OLPGSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-silver-olive-green?variant=54372472455495",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -2183,7 +2183,7 @@ const PRODUCTS = [
   "price_rub": 9200,
   "old_rub": 15300,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_petite_gold_olive_green_1_dd78add7-35a1-4b09-b99c-b67ba81c9339.png?v=1785185224",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_petite_gold_olive_green_2_d4704f58-2a3f-4910-983a-4fa6d25db63f.png?v=1785185225",
@@ -2194,7 +2194,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_Petite_Gold_Olive_Green.jpg?v=1785157335"
   ],
   "sku": "OLPGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-olive-green?variant=54372468261191",
   "source_price_eur": "65.40",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -2218,7 +2218,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_Petite_Silver_Olive_Green.jpg?v=1785157420"
   ],
   "sku": "OLPSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-silver-olive-green?variant=54372466032967",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2242,7 +2242,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_Gold_Silver_Olive_Green2.jpg?v=1785267663"
   ],
   "sku": "SOGSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-silver-olive-green?variant=54372457578823",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -2265,7 +2265,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_Gold_Olive_Green_641b0b18-8648-45ab-9633-fa2442a42c42.jpg?v=1785267720"
   ],
   "sku": "SOGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-olive-green?variant=54372453122375",
   "source_price_eur": "43.60",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -2288,7 +2288,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_Silver_Olive_Green.jpg?v=1785158235"
   ],
   "sku": "SOSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-silver-olive-green?variant=54372450959687",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2311,7 +2311,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_Petite_Gold_Silver_Olive_Green.jpg?v=1785158399"
   ],
   "sku": "ISAPGSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-silver-olive-green?variant=54372448371015",
   "source_price_eur": "71.40",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -2335,7 +2335,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_Petite_Gold_Olive_Green_5a31ddfe-2a12-4c0a-a58b-5d691ccc8905.jpg?v=1785267909"
   ],
   "sku": "ISAPGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-olive-green?variant=54372447912263",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -2360,7 +2360,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_Petite_Silver_Olive_Green2.jpg?v=1785267953"
   ],
   "sku": "ISAPSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-silver-olive-green?variant=54372447650119",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2383,7 +2383,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_Petite_Gold_Silver_Olive_Green.jpg?v=1785158542"
   ],
   "sku": "MCPGSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-silver-olive-green?variant=54372446241095",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -2407,7 +2407,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_Petite_Gold_Olive_Green_3c4af688-60b3-469e-8e19-55826f0c6e31.jpg?v=1785268078"
   ],
   "sku": "MCPGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-olive-green?variant=54372445290823",
   "source_price_eur": "65.40",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -2431,7 +2431,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_Petite_Silver_Olive_Green1.jpg?v=1785158576"
   ],
   "sku": "MCPSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-silver-olive-green?variant=54372444963143",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2457,7 +2457,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_Gold_Olive_Green1.jpg?v=1785267155"
   ],
   "sku": "DIAGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-olive-green?variant=54372443685191",
   "source_price_eur": "65.40",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -2481,7 +2481,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_Petite_Silver_Olive_Green_ea0b4f61-ec5a-4a15-808e-58ddd2cb5cd8.jpg?v=1785156703"
   ],
   "sku": "DIASOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-silver-olive-green?variant=54372443423047",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2505,7 +2505,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Julia_Gold_Silver_Olive_Green_3dc33898-e643-4990-b097-4c861354a58e.jpg?v=1785268220"
   ],
   "sku": "JUGSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-silver-olive-green?variant=54372442538311",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -2526,7 +2526,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Julia_gold_olive_green_3.png?v=1784534918"
   ],
   "sku": "JUGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-olive-green?variant=54372441882951",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -2550,7 +2550,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Julia_Silver_Olive_Green_b0191f68-90d0-4684-b1de-7ffc9e646517.jpg?v=1785268283"
   ],
   "sku": "JUSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-silver-olive-green?variant=54372441653575",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2575,7 +2575,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_Gold_Silver_Olive_Green.jpg?v=1785158890"
   ],
   "sku": "OLGSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-silver-olive-green?variant=54372439949639",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -2589,7 +2589,7 @@ const PRODUCTS = [
   "price_rub": 7700,
   "old_rub": 15300,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_gold_olive_green_1_0e4db9ae-3042-4791-a602-713f3bcea0cf.png?v=1785187885",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_gold_olive_green_2_95bb72c7-61ce-4e20-8996-86efce3b7faf.png?v=1785187885",
@@ -2602,7 +2602,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_Gold_Olive_Green2_2aa64689-ad3d-4110-b447-640456891620.jpg?v=1785161170"
   ],
   "sku": "OLGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-olive-green?variant=54372438835527",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -2628,7 +2628,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_Silver_Olive_Green12.jpg?v=1785161245"
   ],
   "sku": "OLSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-silver-olive-green?variant=54372438507847",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2651,7 +2651,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_Petite_Gold_Silver_Olive_Green_a12f4775-d4de-44f9-941c-bfd81bd154df.jpg?v=1785268387"
   ],
   "sku": "RPGSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-silver-olive-green?variant=54372337221959",
   "source_price_eur": "23.80",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -2665,7 +2665,7 @@ const PRODUCTS = [
   "price_rub": 3100,
   "old_rub": 15300,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_olive_green_1_2e77eac2-830f-4cdf-9e43-cc15b7736039.png?v=1785599848",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_olive_green_2_a9a2510b-3128-4329-9aad-2fe45e732d87.png?v=1785599849",
@@ -2675,7 +2675,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_Petite_Gold_Olive_Green2.jpg?v=1785268438"
   ],
   "sku": "RPGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-olive-green?variant=54372336730439",
   "source_price_eur": "21.80",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -2698,7 +2698,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_Petite_Silver_Olive_Green_a56deb48-46cd-4037-8f21-79d0b6804546.jpg?v=1785268481"
   ],
   "sku": "RPSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-silver-olive-green?variant=54372336468295",
   "source_price_eur": "19.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2722,7 +2722,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_Gold_Silver_Olive_Green_36368066-9cc0-4f0d-a98d-92475dc32e28.jpg?v=1785268544"
   ],
   "sku": "MCGSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-silver-olive-green?variant=54372335714631",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -2746,7 +2746,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_Gold_Olive_Green_8ab2fba9-e9cd-4ab4-bbbf-7ef0534e42a3.jpg?v=1785268585"
   ],
   "sku": "MCGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-olive-green?variant=54372335386951",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -2769,7 +2769,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_Silver_Olive_Green.jpg?v=1785159103"
   ],
   "sku": "MCSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-silver-olive-green?variant=54372335092039",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2793,7 +2793,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_Gold_Silver_Olive_Green_6bbbf695-8329-493e-a180-939092dcfe50.jpg?v=1785268693"
   ],
   "sku": "ISAGSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-silver-olive-green?variant=54372328702279",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -2817,7 +2817,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_Gold_Olive_Green_e80c5e09-b15c-4bb0-9bb2-2216778286fa.jpg?v=1785268731"
   ],
   "sku": "ISAGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-olive-green?variant=54372328276295",
   "source_price_eur": "43.60",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -2843,7 +2843,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_Silver_Olive_Green1.jpg?v=1785159203"
   ],
   "sku": "ISASOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-silver-olive-green",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-silver-olive-green?variant=54372328112455",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -2863,7 +2863,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_olive_green_6227a537-32ff-4df9-abd6-d8df276eb936.png?v=1785272288"
   ],
   "sku": "JBAPGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-gold-olive-green-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-gold-olive-green-bracelet?variant=54372325785927",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -2883,7 +2883,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_silver_olive_green_a62ef913-397c-46a3-9019-4bd25b11eb31.png?v=1785272354"
   ],
   "sku": "JBAPSOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-silver-olive-green-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-silver-olive-green-bracelet?variant=54372325392711",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -2904,7 +2904,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_olive_green.png?v=1785272285"
   ],
   "sku": "JBAGOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-gold-olive-green-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-gold-olive-green-bracelet?variant=54372324901191",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -2918,14 +2918,14 @@ const PRODUCTS = [
   "price_rub": 2200,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_silver_olive_green_1.png?v=1784534566",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_silver_olive_green_2.png?v=1784534577",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_silver_olive_green_d7793675-38c6-431a-aa78-193b8abece4c.png?v=1785272358"
   ],
   "sku": "JBASOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-silver-olive-green-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-silver-olive-green-bracelet?variant=54372324639047",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -2946,7 +2946,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mae_Anklet.jpg?v=1781875821"
   ],
   "sku": "JAMG",
-  "source_url": "https://www.burkerwatches.com/ru/products/mae-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/mae-anklet?variant=54113023295815",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -2967,7 +2967,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mae_Anklet.jpg?v=1781875821"
   ],
   "sku": "JAMS",
-  "source_url": "https://www.burkerwatches.com/ru/products/mae-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/mae-anklet?variant=54113023328583",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -2988,7 +2988,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lily_Anklet.jpg?v=1781875787"
   ],
   "sku": "JALG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lily-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/lily-anklet?variant=54113023099207",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3009,7 +3009,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lily_Anklet.jpg?v=1781875787"
   ],
   "sku": "JALS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lily-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/lily-anklet?variant=54113023131975",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3030,7 +3030,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Emma_Anklet.jpg?v=1781875875"
   ],
   "sku": "JAEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/emma-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/emma-anklet?variant=54113022607687",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3051,7 +3051,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Emma_Anklet.jpg?v=1781875875"
   ],
   "sku": "JAES",
-  "source_url": "https://www.burkerwatches.com/ru/products/emma-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/emma-anklet?variant=54113022640455",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3073,7 +3073,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zoey_Anklet2.jpg?v=1781875751"
   ],
   "sku": "JAZG",
-  "source_url": "https://www.burkerwatches.com/ru/products/zoey-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/zoey-anklet?variant=54113022214471",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3095,7 +3095,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zoey_Anklet2.jpg?v=1781875751"
   ],
   "sku": "JAZS",
-  "source_url": "https://www.burkerwatches.com/ru/products/zoey-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/zoey-anklet?variant=54113022247239",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3117,7 +3117,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Wendy_Anklet2.jpg?v=1781875717"
   ],
   "sku": "JAWG",
-  "source_url": "https://www.burkerwatches.com/ru/products/wendy-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/wendy-anklet?variant=54113021919559",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3139,7 +3139,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Wendy_Anklet2.jpg?v=1781875717"
   ],
   "sku": "JAWS",
-  "source_url": "https://www.burkerwatches.com/ru/products/wendy-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/wendy-anklet?variant=54113021952327",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3162,7 +3162,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cindy_Anklet2.jpg?v=1781875670"
   ],
   "sku": "JACG",
-  "source_url": "https://www.burkerwatches.com/ru/products/cindy-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/cindy-anklet?variant=54113021624647",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3185,7 +3185,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cindy_Anklet2.jpg?v=1781875670"
   ],
   "sku": "JACS",
-  "source_url": "https://www.burkerwatches.com/ru/products/cindy-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/cindy-anklet?variant=54113021657415",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3207,7 +3207,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Carola_Anklet2.jpg?v=1781875577"
   ],
   "sku": "JACAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/carola-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/carola-anklet?variant=54113021165895",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3221,7 +3221,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Carola_anklet_silver_1.png?v=1781537170",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Carola_anklet_gold_1.png?v=1781537162",
@@ -3229,7 +3229,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Carola_Anklet2.jpg?v=1781875577"
   ],
   "sku": "JACAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/carola-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/carola-anklet?variant=54113021198663",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3251,7 +3251,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diona_Anklet.jpg?v=1781875503"
   ],
   "sku": "JADIOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/diona-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/diona-anklet?variant=54113020707143",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3273,7 +3273,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diona_Anklet.jpg?v=1781875503"
   ],
   "sku": "JADIOS",
-  "source_url": "https://www.burkerwatches.com/ru/products/diona-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/diona-anklet?variant=54113020739911",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3295,7 +3295,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alaia_Anklet1.jpg?v=1781875460"
   ],
   "sku": "JAALAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/alaia-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/alaia-anklet?variant=54113019658567",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3317,7 +3317,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alaia_Anklet1.jpg?v=1781875460"
   ],
   "sku": "JAALAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/alaia-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/alaia-anklet?variant=54113019691335",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3337,7 +3337,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Velora_anklet_silver_1.png?v=1781537304"
   ],
   "sku": "JAVELG",
-  "source_url": "https://www.burkerwatches.com/ru/products/velora-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/velora-anklet?variant=54113014284615",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3357,7 +3357,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Velora_anklet_gold_1.png?v=1781537293"
   ],
   "sku": "JAVELS",
-  "source_url": "https://www.burkerwatches.com/ru/products/velora-anklet",
+  "source_url": "https://www.burkerwatches.com/ru/products/velora-anklet?variant=54113014317383",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3377,7 +3377,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Vila_bracelet_silver_1.png?v=1783935908"
   ],
   "sku": "JBVILAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/vila-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/vila-bracelet?variant=54113011794247",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -3397,7 +3397,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Vila_bracelet_gold_1.png?v=1783935900"
   ],
   "sku": "JBVILAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/vila-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/vila-bracelet?variant=54113011827015",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -3417,7 +3417,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Chloe_Gold_Silver_Necklace.jpg?v=1784049094"
   ],
   "sku": "JNCHLGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/chloe-gold-silver-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/chloe-gold-silver-necklace?variant=54113010778439",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -3431,13 +3431,13 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alexis_ring_gold_1.png?v=1783938424",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alexis_ring_silver_1_41daf17e-a01d-44a4-92db-1f9a1b5090bc.png?v=1783938445"
   ],
   "sku": "JRALEXG",
-  "source_url": "https://www.burkerwatches.com/ru/products/alexis-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/alexis-ring?variant=54113009664327",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3457,7 +3457,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alexis_ring_gold_1.png?v=1783938424"
   ],
   "sku": "JRALEXS",
-  "source_url": "https://www.burkerwatches.com/ru/products/alexis-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/alexis-ring?variant=54113009697095",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3477,7 +3477,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ciel_ring_silver_1.png?v=1783936561"
   ],
   "sku": "JRCIELG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ciel-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/ciel-ring?variant=54113006321991",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3497,7 +3497,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ciel_ring_gold_1.png?v=1783936551"
   ],
   "sku": "JRCIELS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ciel-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/ciel-ring?variant=54113006354759",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3517,7 +3517,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Rosia_bracelet_silver_1.png?v=1783935960"
   ],
   "sku": "JBROSG",
-  "source_url": "https://www.burkerwatches.com/ru/products/rosia-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/rosia-bracelet?variant=54082510618951",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -3537,7 +3537,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Rosia_bracelet_gold_1.png?v=1783935950"
   ],
   "sku": "JBROSS",
-  "source_url": "https://www.burkerwatches.com/ru/products/rosia-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/rosia-bracelet?variant=54082510651719",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -3557,7 +3557,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Solie_ring_silver_1.png?v=1783936452"
   ],
   "sku": "JRSOLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/solie-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/solie-ring?variant=54082466545991",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3577,7 +3577,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Solie_ring_gold_1.png?v=1783936441"
   ],
   "sku": "JRSOLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/solie-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/solie-ring?variant=54082466578759",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3597,7 +3597,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zaya_ring_silver_1.png?v=1783938355"
   ],
   "sku": "JRZAYG",
-  "source_url": "https://www.burkerwatches.com/ru/products/zaya-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/zaya-ring?variant=54082460516679",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3617,7 +3617,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zaya_ring_gold_1.png?v=1783938346"
   ],
   "sku": "JRZAYS",
-  "source_url": "https://www.burkerwatches.com/ru/products/zaya-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/zaya-ring?variant=54082460549447",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3637,7 +3637,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Orelia_ring_silver_1.png?v=1783936524"
   ],
   "sku": "JROREG",
-  "source_url": "https://www.burkerwatches.com/ru/products/orelia-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/orelia-ring?variant=54082458485063",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3657,7 +3657,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Orelia_ring_gold_1.png?v=1783936513"
   ],
   "sku": "JRORES",
-  "source_url": "https://www.burkerwatches.com/ru/products/orelia-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/orelia-ring?variant=54082458517831",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3671,13 +3671,13 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Rosia_ring_gold_1.png?v=1783936729",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Rosia_ring_silver_1.png?v=1783936589"
   ],
   "sku": "JRROSG",
-  "source_url": "https://www.burkerwatches.com/ru/products/rosia-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/rosia-ring?variant=54082455699783",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3697,7 +3697,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Rosia_ring_gold_1.png?v=1783936729"
   ],
   "sku": "JRROSS",
-  "source_url": "https://www.burkerwatches.com/ru/products/rosia-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/rosia-ring?variant=54082455732551",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3719,7 +3719,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Velia_Ring.jpg?v=1784048315"
   ],
   "sku": "JRVELG",
-  "source_url": "https://www.burkerwatches.com/ru/products/velia-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/velia-ring?variant=54082449637703",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3741,7 +3741,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Velia_Ring.jpg?v=1784048315"
   ],
   "sku": "JRVELS",
-  "source_url": "https://www.burkerwatches.com/ru/products/velia-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/velia-ring?variant=54082449670471",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3763,7 +3763,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alora_Ring.jpg?v=1784048357"
   ],
   "sku": "JRALOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/alora-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/alora-ring?variant=54082447868231",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3785,7 +3785,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alora_Ring.jpg?v=1784048357"
   ],
   "sku": "JRALOS",
-  "source_url": "https://www.burkerwatches.com/ru/products/alora-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/alora-ring?variant=54082447900999",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3807,7 +3807,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Vivia_Ring2.jpg?v=1784048409"
   ],
   "sku": "JRVIVG",
-  "source_url": "https://www.burkerwatches.com/ru/products/vivia-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/vivia-ring?variant=54082445771079",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3829,7 +3829,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Vivia_Ring2.jpg?v=1784048409"
   ],
   "sku": "JRVIVS",
-  "source_url": "https://www.burkerwatches.com/ru/products/vivia-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/vivia-ring?variant=54082445803847",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3850,7 +3850,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nolia_Earrings.jpg?v=1784048444"
   ],
   "sku": "JENOLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/nolia-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/nolia-earrings?variant=54082440528199",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3871,7 +3871,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nolia_Earrings.jpg?v=1784048444"
   ],
   "sku": "JENOLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/nolia-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/nolia-earrings?variant=54082440560967",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3893,7 +3893,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nolia_Necklace2.jpg?v=1784048495"
   ],
   "sku": "JNNOLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/nolia-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/nolia-necklace?variant=54082435449159",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -3915,7 +3915,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nolia_Necklace2.jpg?v=1784048495"
   ],
   "sku": "JNNOLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/nolia-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/nolia-necklace?variant=54082435481927",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -3937,7 +3937,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nolia_Bracelet2.jpg?v=1784047810"
   ],
   "sku": "JBNOLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/nolia-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/nolia-bracelet?variant=54082407891271",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3959,7 +3959,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nolia_Bracelet2.jpg?v=1784047810"
   ],
   "sku": "JBNOLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/nolia-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/nolia-bracelet?variant=54082407924039",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -3979,7 +3979,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Linda_necklace_silver_1.png?v=1783936210"
   ],
   "sku": "JNLING",
-  "source_url": "https://www.burkerwatches.com/ru/products/linda-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/linda-necklace?variant=53655472701767",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -3999,7 +3999,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Linda_necklace_gold_1.png?v=1783936203"
   ],
   "sku": "JNLINS",
-  "source_url": "https://www.burkerwatches.com/ru/products/linda-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/linda-necklace?variant=53655472734535",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4020,7 +4020,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lucky_Necklace.jpg?v=1784049692"
   ],
   "sku": "JNLUCG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lucky-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/lucky-necklace?variant=53655471653191",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4041,7 +4041,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lucky_Necklace.jpg?v=1784049692"
   ],
   "sku": "JNLUCS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lucky-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/lucky-necklace?variant=53655471685959",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4061,7 +4061,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Chloe_necklace_silver_1.png?v=1783936294"
   ],
   "sku": "JNCHLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/chloe-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/chloe-necklace?variant=53655471259975",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4081,7 +4081,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Chloe_necklace_gold_1.png?v=1783936285"
   ],
   "sku": "JNCHLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/chloe-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/chloe-necklace?variant=53655471292743",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4103,7 +4103,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Veya_Earrings.jpg?v=1784049392"
   ],
   "sku": "JEVEYG",
-  "source_url": "https://www.burkerwatches.com/ru/products/veya-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/veya-earrings?variant=53655353753927",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4125,7 +4125,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Veya_Earrings.jpg?v=1784049392"
   ],
   "sku": "JEVEYS",
-  "source_url": "https://www.burkerwatches.com/ru/products/veya-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/veya-earrings?variant=53655353786695",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4146,7 +4146,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lucky_Earrings.jpg?v=1784049818"
   ],
   "sku": "JELUCG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lucky-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/lucky-earrings?variant=53655353557319",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4167,7 +4167,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lucky_Earrings.jpg?v=1784049818"
   ],
   "sku": "JELUCS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lucky-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/lucky-earrings?variant=53655353590087",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4189,7 +4189,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lucky_Bracelet.jpg?v=1784049864"
   ],
   "sku": "JBLUCG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lucky-bracelet-1",
+  "source_url": "https://www.burkerwatches.com/ru/products/lucky-bracelet-1?variant=53655333208391",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4211,7 +4211,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lucky_Bracelet.jpg?v=1784049864"
   ],
   "sku": "JBLUCS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lucky-bracelet-1",
+  "source_url": "https://www.burkerwatches.com/ru/products/lucky-bracelet-1?variant=53655333241159",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4230,7 +4230,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_petite_silver_black_1.png?v=1780915667"
   ],
   "sku": "JBAPSB",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-silver-black-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-silver-black-bracelet?variant=53490476646727",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4250,7 +4250,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_silver_black_2.png?v=1784530654"
   ],
   "sku": "JBASB",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-silver-black?variant=50324439662919",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4272,7 +4272,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_summer_4.jpg?v=1781001005"
   ],
   "sku": "JBFSP",
-  "source_url": "https://www.burkerwatches.com/ru/products/flora-silver-pink-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/flora-silver-pink-bracelet?variant=54113024672071",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4293,7 +4293,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/LioraBracelet.jpg?v=1781007484"
   ],
   "sku": "JBLIOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/liora-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/liora-bracelet?variant=53655331733831",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4314,7 +4314,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/LioraBracelet.jpg?v=1781007484"
   ],
   "sku": "JBLIOS",
-  "source_url": "https://www.burkerwatches.com/ru/products/liora-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/liora-bracelet?variant=53655331766599",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4335,7 +4335,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Velora_Bracelet.jpg?v=1781012236"
   ],
   "sku": "JBVELG",
-  "source_url": "https://www.burkerwatches.com/ru/products/velora-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/velora-bracelet?variant=53655331340615",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4356,7 +4356,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Velora_Bracelet.jpg?v=1781012236"
   ],
   "sku": "JBVELS",
-  "source_url": "https://www.burkerwatches.com/ru/products/velora-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/velora-bracelet?variant=53655331373383",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4378,7 +4378,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isola_bracelet_silver_1.png?v=1780914741"
   ],
   "sku": "JBISOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/isola-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/isola-bracelet?variant=53655331176775",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4400,7 +4400,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isola_Bracelet2.jpg?v=1781012293"
   ],
   "sku": "JBISOS",
-  "source_url": "https://www.burkerwatches.com/ru/products/isola-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/isola-bracelet?variant=53655331209543",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4422,7 +4422,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Stella_Necklace2.jpg?v=1781011681"
   ],
   "sku": "JNSTEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/stella-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/stella-necklace?variant=53655472570695",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4444,7 +4444,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Stella_Necklace2.jpg?v=1781011681"
   ],
   "sku": "JNSTES",
-  "source_url": "https://www.burkerwatches.com/ru/products/stella-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/stella-necklace?variant=53655472603463",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4466,7 +4466,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Velora_Necklace2.jpg?v=1781011798"
   ],
   "sku": "JNVELG",
-  "source_url": "https://www.burkerwatches.com/ru/products/velora-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/velora-necklace?variant=53655471096135",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4488,7 +4488,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Velora_Necklace2.jpg?v=1781011798"
   ],
   "sku": "JNVELS",
-  "source_url": "https://www.burkerwatches.com/ru/products/velora-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/velora-necklace?variant=53655471128903",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4510,7 +4510,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isola_Necklace2.jpg?v=1781011902"
   ],
   "sku": "JNISOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/isola-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/isola-necklace?variant=53655471030599",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4532,7 +4532,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isola_Necklace2.jpg?v=1781011902"
   ],
   "sku": "JNISOS",
-  "source_url": "https://www.burkerwatches.com/ru/products/isola-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/isola-necklace?variant=53655471063367",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4554,7 +4554,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cora_Earrings1.jpg?v=1781009730"
   ],
   "sku": "JECORAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/cora-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/cora-earrings?variant=53655356834119",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4576,7 +4576,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cora_Earrings1.jpg?v=1781009730"
   ],
   "sku": "JECORAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/cora-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/cora-earrings?variant=53655356866887",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4598,7 +4598,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Charlotte_earrings_silver_1_cb3e347b-5238-4ddd-bb1a-587babe517b9.png?v=1792343721"
   ],
   "sku": "JECHAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/charlotte-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/charlotte-earrings?variant=53655354933575",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4620,7 +4620,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Charlotte_Earrings2.jpg?v=1781009775"
   ],
   "sku": "JECHAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/charlotte-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/charlotte-earrings?variant=53655354966343",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4634,14 +4634,14 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Stella_earrings_gold_1.png?v=1780915303",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Stella_earrings_silver_1.png?v=1780915315",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Stella_Earrings.jpg?v=1781009807"
   ],
   "sku": "JESTEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/stella-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/stella-earrings?variant=53655353655623",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4655,14 +4655,14 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Stella_earrings_silver_1.png?v=1780915315",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Stella_earrings_gold_1.png?v=1780915303",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Stella_Earrings.jpg?v=1781009807"
   ],
   "sku": "JESTES",
-  "source_url": "https://www.burkerwatches.com/ru/products/stella-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/stella-earrings?variant=53655353688391",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4684,7 +4684,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Loxe_Earrings2.jpg?v=1781009848"
   ],
   "sku": "JELOXEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/loxe-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/loxe-earrings?variant=53655353393479",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4706,7 +4706,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Loxe_Earrings2.jpg?v=1781009848"
   ],
   "sku": "JELOXES",
-  "source_url": "https://www.burkerwatches.com/ru/products/loxe-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/loxe-earrings?variant=53655353426247",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4720,7 +4720,7 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mive_earrings_gold_1.png?v=1780915048",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mive_earrings_silver_1.png?v=1780915062",
@@ -4729,7 +4729,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mive_Earrings2.jpg?v=1781009896"
   ],
   "sku": "JEMIVEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/mive-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/mive-earrings?variant=53655353131335",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4752,7 +4752,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mive_Earrings2.jpg?v=1781009896"
   ],
   "sku": "JEMIVES",
-  "source_url": "https://www.burkerwatches.com/ru/products/mive-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/mive-earrings?variant=53655353164103",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4775,7 +4775,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kaso_Earrings2.jpg?v=1781009951"
   ],
   "sku": "JEKASOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/kaso-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/kaso-earrings?variant=53655350116679",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4798,7 +4798,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kaso_Earrings2.jpg?v=1781009951"
   ],
   "sku": "JEKASOS",
-  "source_url": "https://www.burkerwatches.com/ru/products/kaso-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/kaso-earrings?variant=53655350149447",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4819,7 +4819,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_Silver_Pink5.jpg?v=1780942980"
   ],
   "sku": "JBAPSP",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-silver-pink-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-silver-pink-bracelet?variant=54113026146631",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4842,7 +4842,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mother_s_Day_Gift_3.jpg?v=1776795904"
   ],
   "sku": "JBSOPCG",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophia-chic-gold-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophia-chic-gold-bracelet?variant=53668326080839",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -4862,7 +4862,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophia_ring_silver_1_a8396912-2c76-4fde-aa66-8ce30a4eea99.png?v=1780915265"
   ],
   "sku": "JRSOPG",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophia-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophia-ring?variant=53655473389895",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4882,7 +4882,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophia_ring_gold_1_d106c29a-012a-45e5-865f-d0b3107026be.png?v=1780915253"
   ],
   "sku": "JRSOPS",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophia-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophia-ring?variant=53655473422663",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4903,7 +4903,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Riva_Ring.jpg?v=1781007264"
   ],
   "sku": "JRRIVAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/riva-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/riva-ring?variant=53655473291591",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4924,7 +4924,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Riva_Ring.jpg?v=1781007264"
   ],
   "sku": "JRRIVAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/riva-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/riva-ring?variant=53655473324359",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4946,7 +4946,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Feya_Ring.jpg?v=1781011395"
   ],
   "sku": "JRFEYAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/feya-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/feya-ring?variant=53655473094983",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4968,7 +4968,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Feya_Ring.jpg?v=1781011395"
   ],
   "sku": "JRFEYAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/feya-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/feya-ring?variant=53655473127751",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -4990,7 +4990,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Vila_Ring2.jpg?v=1781011566"
   ],
   "sku": "JRVILAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/vila-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/vila-ring?variant=53655473029447",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5012,7 +5012,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Vila_Ring2.jpg?v=1781011566"
   ],
   "sku": "JRVILAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/vila-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/vila-ring?variant=53655473062215",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5026,7 +5026,7 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Dasty_ring_gold_1.png?v=1780914056",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Dasty_ring_silver_1.png?v=1780914066",
@@ -5034,7 +5034,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Dasty_Ring.jpg?v=1781011633"
   ],
   "sku": "JRDASG",
-  "source_url": "https://www.burkerwatches.com/ru/products/dasty-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/dasty-ring?variant=53655472931143",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5048,7 +5048,7 @@ const PRODUCTS = [
   "price_rub": 2100,
   "old_rub": 4100,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Dasty_ring_silver_1.png?v=1780914066",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Dasty_ring_gold_1.png?v=1780914056",
@@ -5056,7 +5056,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Dasty_Ring.jpg?v=1781011633"
   ],
   "sku": "JRDASS",
-  "source_url": "https://www.burkerwatches.com/ru/products/dasty-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/dasty-ring?variant=53655472963911",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5083,7 +5083,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_Petite_Dalmatian_Gold5.png?v=1778833759"
   ],
   "sku": "DIAPDG",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-dalmatian-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-dalmatian-gold?variant=53490524946759",
   "source_price_eur": "74.50",
   "source_regular_eur": "149.00",
   "price_rate": 140
@@ -5110,7 +5110,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_Petite_Dalmatian_SIlver6.png?v=1778833698"
   ],
   "sku": "DIAPDS",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-dalmatian-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-dalmatian-silver?variant=53490522882375",
   "source_price_eur": "69.50",
   "source_regular_eur": "139.00",
   "price_rate": 140
@@ -5132,7 +5132,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eternity_Ring3.jpg?v=1776886970"
   ],
   "sku": "JRETEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/eternity-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/eternity-ring?variant=53655472832839",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5154,7 +5154,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eternity_Ring3.jpg?v=1776886970"
   ],
   "sku": "JRETES",
-  "source_url": "https://www.burkerwatches.com/ru/products/eternity-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/eternity-ring?variant=53655472865607",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5175,7 +5175,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Amaris_Necklace.jpg?v=1776886894"
   ],
   "sku": "JNAMAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/amaris-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/amaris-necklace?variant=53655470932295",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -5196,7 +5196,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Amaris_Necklace.jpg?v=1776886894"
   ],
   "sku": "JNAMAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/amaris-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/amaris-necklace?variant=53655470965063",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -5217,7 +5217,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Infinity_Necklace_ed4a87c0-3ea2-40ac-be32-53a270115ac8.jpg?v=1777543879"
   ],
   "sku": "JNINFG",
-  "source_url": "https://www.burkerwatches.com/ru/products/infinity-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/infinity-necklace?variant=53655470801223",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -5231,14 +5231,14 @@ const PRODUCTS = [
   "price_rub": 2200,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Infinity_necklace_silver_1.png?v=1776780929",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Infinity_necklace_gold_1.png?v=1776780929",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Infinity_Necklace_ed4a87c0-3ea2-40ac-be32-53a270115ac8.jpg?v=1777543879"
   ],
   "sku": "JNINFS",
-  "source_url": "https://www.burkerwatches.com/ru/products/infinity-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/infinity-necklace?variant=53655470833991",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -5260,7 +5260,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Estelle_earrings_silver_1.png?v=1776780810"
   ],
   "sku": "JEESTG",
-  "source_url": "https://www.burkerwatches.com/ru/products/estelle-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/estelle-earrings?variant=53655353065799",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5282,7 +5282,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Estelle_Earrings.jpg?v=1777543940"
   ],
   "sku": "JEESTS",
-  "source_url": "https://www.burkerwatches.com/ru/products/estelle-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/estelle-earrings?variant=53655353098567",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5305,7 +5305,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eternity_Earrings3.jpg?v=1777544081"
   ],
   "sku": "JEETEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/eternity-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/eternity-earrings?variant=53655352967495",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5328,7 +5328,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eternity_Earrings3.jpg?v=1777544081"
   ],
   "sku": "JEETES",
-  "source_url": "https://www.burkerwatches.com/ru/products/eternity-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/eternity-earrings?variant=53655353000263",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5350,7 +5350,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/CalisEarrings2.jpg?v=1776887298"
   ],
   "sku": "JECALG",
-  "source_url": "https://www.burkerwatches.com/ru/products/calis-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/calis-earrings?variant=53655352869191",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5372,7 +5372,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/CalisEarrings2.jpg?v=1776887298"
   ],
   "sku": "JECALS",
-  "source_url": "https://www.burkerwatches.com/ru/products/calis-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/calis-earrings?variant=53655352901959",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5394,7 +5394,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Reni_Earrings2.jpg?v=1776887408"
   ],
   "sku": "JERENIG",
-  "source_url": "https://www.burkerwatches.com/ru/products/reni-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/reni-earrings?variant=53655350182215",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5416,7 +5416,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Reni_Earrings2.jpg?v=1776887408"
   ],
   "sku": "JERENIS",
-  "source_url": "https://www.burkerwatches.com/ru/products/reni-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/reni-earrings?variant=53655350214983",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5439,7 +5439,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Teya_Earrings3.jpg?v=1776887334"
   ],
   "sku": "JETEYAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/teya-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/teya-earrings?variant=53655348216135",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5462,7 +5462,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Teya_Earrings3.jpg?v=1776887334"
   ],
   "sku": "JETEYAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/teya-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/teya-earrings?variant=53655348248903",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5483,7 +5483,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Infinity_Earrings.jpg?v=1777544193"
   ],
   "sku": "JEINFG",
-  "source_url": "https://www.burkerwatches.com/ru/products/infinity-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/infinity-earrings?variant=53655348150599",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5504,7 +5504,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Infinity_Earrings.jpg?v=1777544193"
   ],
   "sku": "JEINFS",
-  "source_url": "https://www.burkerwatches.com/ru/products/infinity-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/infinity-earrings?variant=53655348183367",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5526,7 +5526,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nemi_earrings_silver_1_63d5391e-59db-47f5-8241-3d95a68f2665.png?v=1784286184"
   ],
   "sku": "JENEMIG",
-  "source_url": "https://www.burkerwatches.com/ru/products/nemi-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/nemi-earrings?variant=53655345725767",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5548,7 +5548,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nemi_Earrings1.jpg?v=1777544287"
   ],
   "sku": "JENEMIS",
-  "source_url": "https://www.burkerwatches.com/ru/products/nemi-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/nemi-earrings?variant=53655345758535",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5570,7 +5570,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Arlena_earrings_silver_1_c301df7e-d332-4277-b742-60049594be6e.png?v=1792343907"
   ],
   "sku": "JEARLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/arlena-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/arlena-earrings?variant=53655345234247",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5592,7 +5592,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Arlena_Earrings2.jpg?v=1777544341"
   ],
   "sku": "JEARLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/arlena-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/arlena-earrings?variant=53655345267015",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5613,7 +5613,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Amaris_Bracelet.jpg?v=1776887190"
   ],
   "sku": "JBAMAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/amaris-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/amaris-bracelet?variant=53655331045703",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5634,7 +5634,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Amaris_Bracelet.jpg?v=1776887190"
   ],
   "sku": "JBAMAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/amaris-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/amaris-bracelet?variant=53655331078471",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5656,7 +5656,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Infinity_Bracelet2.jpg?v=1777544409"
   ],
   "sku": "JBINFG",
-  "source_url": "https://www.burkerwatches.com/ru/products/infinity-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/infinity-bracelet?variant=53655328063815",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5678,7 +5678,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Infinity_Bracelet2.jpg?v=1777544409"
   ],
   "sku": "JBINFS",
-  "source_url": "https://www.burkerwatches.com/ru/products/infinity-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/infinity-bracelet?variant=53655328096583",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -5702,7 +5702,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_79d4db23-0969-497b-8dd4-4a0b7ee54d89.jpg?v=1775816589"
   ],
   "sku": "VICSB",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-silver-black?variant=53669430985031",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -5726,7 +5726,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/7.jpg?v=1775816615"
   ],
   "sku": "VICSW",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-silver-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-silver-white?variant=53669430559047",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -5752,7 +5752,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/8.jpg?v=1775816683"
   ],
   "sku": "VICBGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-black-gold-silver?variant=53669429936455",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -5766,7 +5766,7 @@ const PRODUCTS = [
   "price_rub": 8400,
   "old_rub": 16700,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Victoria_gold_silver_white_1.png?v=1775700405",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Victoria_gold_silver_white_2.png?v=1775700405",
@@ -5779,7 +5779,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/6.jpg?v=1775816708"
   ],
   "sku": "VICGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-silver?variant=53669429674311",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -5803,7 +5803,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Victoria_Gold_Burgundy.jpg?v=1775816764"
   ],
   "sku": "VICGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-burgundy?variant=53669429248327",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -5827,7 +5827,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_66d79fbb-19bc-4cd8-ab20-a89043686fe2.jpg?v=1775816783"
   ],
   "sku": "VICGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-brown?variant=53669428494663",
   "source_price_eur": "43.60",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -5850,7 +5850,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Victoria_Gold_Black.jpg?v=1775816843"
   ],
   "sku": "VICGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-black?variant=53669425316167",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -5877,7 +5877,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/5_eb13195a-18c0-48df-a558-e9d9d33833c4.jpg?v=1775816906"
   ],
   "sku": "VICGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/victoria-gold-white?variant=53669422563655",
   "source_price_eur": "43.60",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -5902,7 +5902,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_silver_c30b84e9-f8fe-4ac9-9ba4-679f04ea918c.png?v=1785272540"
   ],
   "sku": "VPG",
-  "source_url": "https://www.burkerwatches.com/ru/products/violet-petite-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/violet-petite-bracelet?variant=53490482676039",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -5927,7 +5927,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_silver_c30b84e9-f8fe-4ac9-9ba4-679f04ea918c.png?v=1785272540"
   ],
   "sku": "VPS",
-  "source_url": "https://www.burkerwatches.com/ru/products/violet-petite-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/violet-petite-bracelet?variant=53490482708807",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -5950,7 +5950,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_Petite_Gold_Burgundy_Bracelet1.jpg?v=1793973877"
   ],
   "sku": "JBAPGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-gold-burgundy-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-gold-burgundy-bracelet?variant=53490479694151",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -5971,7 +5971,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_brown_05e67979-5bf6-4020-ae72-3a49cc0684c4.png?v=1785272223"
   ],
   "sku": "JBAPGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-gold-brown-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-gold-brown-bracelet?variant=53490478874951",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -5993,7 +5993,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_black_6f8c8441-75f9-4c43-9cb6-512e3834b9e5.png?v=1785272171"
   ],
   "sku": "JBAPGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-gold-black-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-gold-black-bracelet?variant=53490478055751",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6015,7 +6015,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_Petite_Gold_White_Bracelet.jpg?v=1793969733"
   ],
   "sku": "JBAPGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-gold-white-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-gold-white-bracelet?variant=53490477105479",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6029,14 +6029,14 @@ const PRODUCTS = [
   "price_rub": 2200,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_petite_silver_white_1.png?v=1773739070",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBAVAPSW.jpg?v=1773740655",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_silver_white_4e15f14c-aa22-419e-8226-174a8d5d77d8.png?v=1785272389"
   ],
   "sku": "JBAPSW",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-silver-white-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-petite-silver-white-bracelet?variant=53490472878407",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6063,7 +6063,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_petite_gold_chic_9.jpg?v=1773485153"
   ],
   "sku": "DIAPGC",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-chic",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-chic?variant=53490519474503",
   "source_price_eur": "69.50",
   "source_regular_eur": "139.00",
   "price_rate": 140
@@ -6090,7 +6090,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_petite_gold_silver_white_9.jpg?v=1773485173"
   ],
   "sku": "DIAPGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-silver?variant=53490518720839",
   "source_price_eur": "69.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -6114,7 +6114,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_petite_gold_burgundy_6.jpg?v=1773485206"
   ],
   "sku": "DIAPGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-burgundy?variant=53490517016903",
   "source_price_eur": "76.30",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -6141,7 +6141,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_petite_gold_brown_10.jpg?v=1773394504"
   ],
   "sku": "DIAPGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-brown?variant=53490516492615",
   "source_price_eur": "65.40",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -6167,7 +6167,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_petite_gold_black_7.jpg?v=1773485244"
   ],
   "sku": "DIAPGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-black?variant=53490515542343",
   "source_price_eur": "65.40",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -6194,7 +6194,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_petite_gold_white_9.jpg?v=1773485260"
   ],
   "sku": "DIAPGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-gold-white?variant=53490514952519",
   "source_price_eur": "65.40",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -6218,7 +6218,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_petite_silver_black_6.jpg?v=1773485276"
   ],
   "sku": "DIAPSB",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-silver-black?variant=53490513707335",
   "source_price_eur": "69.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -6243,7 +6243,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_petite_silver_white_7.jpg?v=1773485291"
   ],
   "sku": "DIAPSW",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-silver-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-petite-silver-white?variant=53490507514183",
   "source_price_eur": "69.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -6271,7 +6271,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_silver_dalmatian.png?v=1785270629"
   ],
   "sku": "DIADS",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-dalmatian-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-dalmatian-silver?variant=53331578913095",
   "source_price_eur": "69.50",
   "source_regular_eur": "139.00",
   "price_rate": 140
@@ -6299,7 +6299,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_dalmatian.png?v=1785270418"
   ],
   "sku": "DIADG",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-dalmatian-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-dalmatian-gold?variant=53331560890695",
   "source_price_eur": "74.50",
   "source_regular_eur": "149.00",
   "price_rate": 140
@@ -6321,7 +6321,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selin_Brac_2.jpg?v=1772229968"
   ],
   "sku": "JBSELG",
-  "source_url": "https://www.burkerwatches.com/ru/products/selin-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/selin-bracelet?variant=53012799652167",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6343,7 +6343,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Selin_Brac_2.jpg?v=1772229968"
   ],
   "sku": "JBSELS",
-  "source_url": "https://www.burkerwatches.com/ru/products/selin-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/selin-bracelet?variant=53012799684935",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6357,7 +6357,7 @@ const PRODUCTS = [
   "price_rub": 2800,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Orla_bracelet_gold_1.png?v=1771249473",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Orla_Brac_1.jpg?v=1772230019",
@@ -6365,7 +6365,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Orla_Brac_2.jpg?v=1772230011"
   ],
   "sku": "JBORLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/orla-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/orla-bracelet?variant=53012798767431",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6387,7 +6387,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Orla_Brac_2.jpg?v=1772230011"
   ],
   "sku": "JBORLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/orla-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/orla-bracelet?variant=53012798800199",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6409,7 +6409,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ciel_Brac_2.jpg?v=1772230063"
   ],
   "sku": "JBCIELG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ciel-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ciel-bracelet?variant=53012796932423",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6431,7 +6431,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ciel_Brac_2.jpg?v=1772230063"
   ],
   "sku": "JBCIELS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ciel-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ciel-bracelet?variant=53012796965191",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6454,7 +6454,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lirena_Brac_3.jpg?v=1772230119"
   ],
   "sku": "JBLIRG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lirena-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/lirena-bracelet?variant=53012796342599",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6477,7 +6477,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lirena_Brac_3.jpg?v=1772230119"
   ],
   "sku": "JBLIRS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lirena-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/lirena-bracelet?variant=53012796375367",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6499,7 +6499,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_Bracelet1.jpg?v=1793973183"
   ],
   "sku": "JBNARG",
-  "source_url": "https://www.burkerwatches.com/ru/products/nara-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/nara-bracelet?variant=53012795425095",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6521,7 +6521,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nara_Bracelet1.jpg?v=1793973183"
   ],
   "sku": "JBNARS",
-  "source_url": "https://www.burkerwatches.com/ru/products/nara-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/nara-bracelet?variant=53012795457863",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6542,7 +6542,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/OrlaEar.jpg?v=1772230453"
   ],
   "sku": "JEORLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/orla-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/orla-earrings?variant=53012751417671",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6563,7 +6563,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/OrlaEar.jpg?v=1772230453"
   ],
   "sku": "JEORLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/orla-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/orla-earrings?variant=53012751450439",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6586,7 +6586,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alaia_Neck_2.jpg?v=1772229544"
   ],
   "sku": "JNALAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/alaia-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/alaia-necklace?variant=53184370508103",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6609,7 +6609,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alaia_Neck_2.jpg?v=1772229544"
   ],
   "sku": "JNALAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/alaia-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/alaia-necklace?variant=53184370540871",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6632,7 +6632,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Orla_Neck_2.jpg?v=1772229615"
   ],
   "sku": "JNORLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/orla-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/orla-necklace?variant=53184218104135",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6655,7 +6655,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Orla_Neck_2.jpg?v=1772229615"
   ],
   "sku": "JNORLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/orla-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/orla-necklace?variant=53184218136903",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -6677,7 +6677,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sena_Ring1.jpg?v=1777544738"
   ],
   "sku": "JRSENAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/sena-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/sena-ring?variant=53013009858887",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6699,7 +6699,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sena_Ring1.jpg?v=1777544738"
   ],
   "sku": "JRSENAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/sena-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/sena-ring?variant=53013009891655",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6721,7 +6721,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alaia_Bracelet2.jpg?v=1777666024"
   ],
   "sku": "JBALAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/alaia-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/alaia-bracelet?variant=53012800405831",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6743,7 +6743,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alaia_Bracelet2.jpg?v=1777666024"
   ],
   "sku": "JBALAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/alaia-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/alaia-bracelet?variant=53012800438599",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6766,7 +6766,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alaia_Ear_2.jpg?v=1772230380"
   ],
   "sku": "JEALAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/alaia-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/alaia-earrings?variant=53012755054919",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6789,7 +6789,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alaia_Ear_2.jpg?v=1772230380"
   ],
   "sku": "JEALAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/alaia-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/alaia-earrings?variant=53012755087687",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6812,7 +6812,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ciel_Ear_3.jpg?v=1772230505"
   ],
   "sku": "JECIELG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ciel-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/ciel-earrings?variant=53012749582663",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6835,7 +6835,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ciel_Ear_3.jpg?v=1772230505"
   ],
   "sku": "JECIELS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ciel-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/ciel-earrings?variant=53012749615431",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -6861,7 +6861,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_silver_black_6.jpg?v=1767881647"
   ],
   "sku": "SOBGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-black-gold-silver?variant=53013127037255",
   "source_price_eur": "47.60",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -6886,7 +6886,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_silver_white_7.jpg?v=1767881541"
   ],
   "sku": "SOGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-silver?variant=53013125857607",
   "source_price_eur": "47.60",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -6913,7 +6913,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_burgundy_6.jpg?v=1767881467"
   ],
   "sku": "SOGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-burgundy?variant=53013124055367",
   "source_price_eur": "32.70",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -6932,14 +6932,14 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_brown_1.png?v=1767816026",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_brown_2.png?v=1767816028",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_brown_3.png?v=1767816026",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/sophie_golod_brown1.jpg?v=1794235624",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_brown_7.jpg?v=1767881313",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_brown_9.jpg?v=1767881313",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_brown_8.jpg?v=1767881313",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_brown_10.jpg?v=1767881313",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_brown_6.jpg?v=1767881313"
   ],
   "sku": "SOGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-brown?variant=53013123498311",
   "source_price_eur": "32.70",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -6962,7 +6962,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_black_7.jpg?v=1767881191"
   ],
   "sku": "SOGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-black?variant=53013122384199",
   "source_price_eur": "43.60",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -6989,7 +6989,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_gold_white_6.jpg?v=1767881163"
   ],
   "sku": "SOGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-gold-white?variant=53013120876871",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -7014,7 +7014,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_silver_black_8.jpg?v=1767881021"
   ],
   "sku": "SOSB",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-silver-black?variant=53013120024903",
   "source_price_eur": "29.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -7037,7 +7037,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophie_petite_silver_6.jpg?v=1767880947"
   ],
   "sku": "SOSW",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophie-silver-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophie-silver-white?variant=53013116092743",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -7060,7 +7060,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_petite_gold_silver_black_4.jpg?v=1773485372"
   ],
   "sku": "OLPBGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-black-gold-silver?variant=53013114585415",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -7086,7 +7086,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_petite_gold_silver_white_9.jpg?v=1773485394"
   ],
   "sku": "OLPGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-silver?variant=53013113078087",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -7111,7 +7111,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_petite_gold_burgundy_7.jpg?v=1773485416"
   ],
   "sku": "OLPGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-burgundy?variant=53013112586567",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -7136,7 +7136,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_petite_gold_brown_7.jpg?v=1773485442"
   ],
   "sku": "OLPGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-brown?variant=53013111800135",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -7161,7 +7161,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_petite_gold_black_6.jpg?v=1773485463"
   ],
   "sku": "OLPGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-black?variant=53013110522183",
   "source_price_eur": "65.40",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -7188,7 +7188,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_petite_gold_white_10.jpg?v=1773485483"
   ],
   "sku": "OLPGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-gold-white?variant=53013109735751",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -7212,7 +7212,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_petite_silver_black_7.jpg?v=1773485502"
   ],
   "sku": "OLPSB",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-petite-silver-black?variant=53013108425031",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -7238,7 +7238,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_petite_silver_8.jpg?v=1773485525"
   ],
   "sku": "OLPS",
-  "source_url": "https://www.burkerwatches.com/ru/products/oliva-petite-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/oliva-petite-silver?variant=53013101543751",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -7260,7 +7260,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_Ring_2.jpg?v=1772230903"
   ],
   "sku": "JRMAGG",
-  "source_url": "https://www.burkerwatches.com/ru/products/maggy-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/maggy-ring?variant=52489753329991",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7282,7 +7282,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_Ring_2.jpg?v=1772230903"
   ],
   "sku": "JRMAGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/maggy-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/maggy-ring?variant=52489753362759",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7305,7 +7305,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lirena_Ring_3.jpg?v=1772229802"
   ],
   "sku": "JRLIRG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lirena-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/lirena-ring?variant=53013007565127",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7328,7 +7328,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lirena_Ring_3.jpg?v=1772229802"
   ],
   "sku": "JRLIRS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lirena-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/lirena-ring?variant=53013007597895",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7350,7 +7350,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lirena_Ring_1_fe27fbbb-33c3-4faa-a579-afcd68247e14.jpg?v=1772229875"
   ],
   "sku": "JRNARG",
-  "source_url": "https://www.burkerwatches.com/ru/products/nara-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/nara-ring?variant=53013002944839",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7372,7 +7372,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lirena_Ring_1_fe27fbbb-33c3-4faa-a579-afcd68247e14.jpg?v=1772229875"
   ],
   "sku": "JRNARS",
-  "source_url": "https://www.burkerwatches.com/ru/products/nara-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/nara-ring?variant=53013002977607",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7386,7 +7386,7 @@ const PRODUCTS = [
   "price_rub": 2800,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Avina_bracelet_gold.png?v=1767086495",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Avina_Brac_4.jpg?v=1772230290",
@@ -7395,7 +7395,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Avina_Brac_1.jpg?v=1772230290"
   ],
   "sku": "JBAVING",
-  "source_url": "https://www.burkerwatches.com/ru/products/avina-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/avina-bracelet?variant=53012793393479",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7418,7 +7418,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Avina_Brac_1.jpg?v=1772230290"
   ],
   "sku": "JBAVINS",
-  "source_url": "https://www.burkerwatches.com/ru/products/avina-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/avina-bracelet?variant=53012793426247",
   "source_price_eur": "19.50",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7441,7 +7441,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Amina_Ear_3.jpg?v=1772230572"
   ],
   "sku": "JEAMIG",
-  "source_url": "https://www.burkerwatches.com/ru/products/amina-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/amina-earrings?variant=53012741521735",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7464,7 +7464,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Amina_Ear_3.jpg?v=1772230572"
   ],
   "sku": "JEAMIS",
-  "source_url": "https://www.burkerwatches.com/ru/products/amina-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/amina-earrings?variant=53012741554503",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7491,7 +7491,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_chic_8.jpg?v=1773485686"
   ],
   "sku": "DIAGC",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-chic",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-chic?variant=52489774104903",
   "source_price_eur": "69.50",
   "source_regular_eur": "139.00",
   "price_rate": 140
@@ -7516,7 +7516,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_Bracelet2.jpg?v=1793969358"
   ],
   "sku": "JBMAGG",
-  "source_url": "https://www.burkerwatches.com/ru/products/maggy-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/maggy-bracelet?variant=52489757753671",
   "source_price_eur": "8.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7541,7 +7541,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Maggy_Bracelet2.jpg?v=1793969358"
   ],
   "sku": "JBMAGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/maggy-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/maggy-bracelet?variant=52489757786439",
   "source_price_eur": "8.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7564,7 +7564,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eternity_Gold_Bracelet1.jpg?v=1793969432"
   ],
   "sku": "JBETEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/eternity-gold-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/eternity-gold-bracelet?variant=52390544113991",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7586,7 +7586,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Hillary_earrings_silver_12725cd0-851c-46a4-a0a4-f0b0babb8ba2.png?v=1784286152"
   ],
   "sku": "JEHILLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/hillary-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/hillary-earrings?variant=52489854452039",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7608,7 +7608,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Hillary_Earrings1.jpg?v=1777544787"
   ],
   "sku": "JEHILLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/hillary-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/hillary-earrings?variant=52489854484807",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7630,7 +7630,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ciara_earrings_silver_90e1970c-0456-4067-a4a3-d5553251eb49.png?v=1784286120"
   ],
   "sku": "JECIAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ciara-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/ciara-earrings?variant=52489849733447",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7652,7 +7652,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ciara_Earrings1.jpg?v=1777544827"
   ],
   "sku": "JECIAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ciara-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/ciara-earrings?variant=52489849766215",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7676,7 +7676,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mia_necklace_silver_6271817a-85f1-4ea9-8eb4-fb372a7ef4b2.png?v=1784286072"
   ],
   "sku": "JNMIAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/mia-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/mia-necklace?variant=52489765388615",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7700,7 +7700,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mia_necklace_3.jpg?v=1761946306"
   ],
   "sku": "JNMIAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/mia-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/mia-necklace?variant=52489765421383",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7724,7 +7724,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Hazel_necklace_silver_9e274914-4b42-4156-8993-2b04c4a27bc6.png?v=1784285976"
   ],
   "sku": "JNHAZG",
-  "source_url": "https://www.burkerwatches.com/ru/products/hazel-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/hazel-necklace?variant=52489764176199",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7748,7 +7748,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Hazel_necklace_2.jpg?v=1761946357"
   ],
   "sku": "JNHAZS",
-  "source_url": "https://www.burkerwatches.com/ru/products/hazel-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/hazel-necklace?variant=52489764208967",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7773,7 +7773,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_necklace_silver_d079f670-0738-4034-9a3d-32d8d1fa6c2e.png?v=1784285928"
   ],
   "sku": "JNELISG",
-  "source_url": "https://www.burkerwatches.com/ru/products/elise-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/elise-necklace?variant=52489764012359",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7798,7 +7798,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_necklace_5.jpg?v=1761946396"
   ],
   "sku": "JNELISS",
-  "source_url": "https://www.burkerwatches.com/ru/products/elise-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/elise-necklace?variant=52489764045127",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7822,7 +7822,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Aria_necklace_silver_1e0ce0c9-263d-4c64-8ecf-5edd14d60c89.png?v=1784284201"
   ],
   "sku": "JNARIAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/aria-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/aria-necklace?variant=52489763029319",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7846,7 +7846,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Aria_necklace_3.jpg?v=1761946440"
   ],
   "sku": "JNARIAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/aria-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/aria-necklace?variant=52489763062087",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7870,7 +7870,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nora_necklace_silver_7e71f644-0c50-48a4-85df-1e9375757ea2.png?v=1784284282"
   ],
   "sku": "JNNORAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/nora-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/nora-necklace?variant=52489762767175",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7894,7 +7894,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nora_necklace_3.jpg?v=1761946493"
   ],
   "sku": "JNNORAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/nora-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/nora-necklace?variant=52489762799943",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -7917,7 +7917,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nora_bracelet_silver_71f70fdd-29f2-4e4c-80e5-36cfc7da9078.png?v=1784284309"
   ],
   "sku": "JBNORAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/nora-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/nora-bracelet?variant=52489760637255",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7931,7 +7931,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nora_bracelet_silver_71f70fdd-29f2-4e4c-80e5-36cfc7da9078.png?v=1784284309",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nora_bracelet_gold.png?v=1761036137",
@@ -7940,7 +7940,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nora_bracelet_3.jpg?v=1761946526"
   ],
   "sku": "JBNORAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/nora-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/nora-bracelet?variant=52489760670023",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7963,7 +7963,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Aria_bracelet_silver_2cb22fd4-1549-4310-b541-7c8dc0407fc1.png?v=1784284338"
   ],
   "sku": "JBARIAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/aria-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/aria-bracelet?variant=52489759424839",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -7986,7 +7986,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Aria_bracelet_silver_1.jpg?v=1761946587"
   ],
   "sku": "JBARIAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/aria-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/aria-bracelet?variant=52489759457607",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8009,7 +8009,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_Bracelet1.jpg?v=1793970272"
   ],
   "sku": "JBELISG",
-  "source_url": "https://www.burkerwatches.com/ru/products/elise-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/elise-bracelet?variant=52489759260999",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8032,7 +8032,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Elise_Bracelet1.jpg?v=1793970272"
   ],
   "sku": "JBELISS",
-  "source_url": "https://www.burkerwatches.com/ru/products/elise-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/elise-bracelet?variant=52489759293767",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8054,7 +8054,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Hazel_bracelet_silver_a275dcde-e062-41d1-8e54-55442caf9ec1.png?v=1784284457"
   ],
   "sku": "JBHAZG",
-  "source_url": "https://www.burkerwatches.com/ru/products/hazel-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/hazel-bracelet?variant=52489758802247",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8076,7 +8076,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Hazel_bracelet_gold_2.jpg?v=1761946669"
   ],
   "sku": "JBHAZS",
-  "source_url": "https://www.burkerwatches.com/ru/products/hazel-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/hazel-bracelet?variant=52489758835015",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8101,7 +8101,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Hillary_bracelet_3.jpg?v=1761946785"
   ],
   "sku": "JBHILLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/hillary-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/hillary-bracelet?variant=52489758277959",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -8126,7 +8126,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Hillary_bracelet_3.jpg?v=1761946785"
   ],
   "sku": "JBHILLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/hillary-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/hillary-bracelet?variant=52489758310727",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -8152,7 +8152,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ciara_bracelet_silver_d52c8cc3-2de0-4fcc-9aa8-8afa87a8f680.png?v=1784284505"
   ],
   "sku": "JBCIAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ciara-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ciara-bracelet?variant=52489757884743",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -8178,7 +8178,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ciara_bracelet-6.jpg?v=1762112648"
   ],
   "sku": "JBCIAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ciara-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ciara-bracelet?variant=52489757917511",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -8201,7 +8201,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Bridgit_bracelet_silver_809bff7e-1025-42ea-b26f-b74fb2dd8857.png?v=1784284551"
   ],
   "sku": "JBBRIDG",
-  "source_url": "https://www.burkerwatches.com/ru/products/bridgit-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/bridgit-bracelet?variant=52489757360455",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -8224,7 +8224,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Bridgit_bracelet_silver_1.jpg?v=1761946895"
   ],
   "sku": "JBBRIDS",
-  "source_url": "https://www.burkerwatches.com/ru/products/bridgit-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/bridgit-bracelet?variant=52489757393223",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -8248,7 +8248,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Hilary_ring_silver_1.png?v=1784284709"
   ],
   "sku": "JRHILLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/hillary-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/hillary-ring?variant=52489754018119",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8272,7 +8272,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Hilary_ring_2.jpg?v=1761946949"
   ],
   "sku": "JRHILLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/hillary-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/hillary-ring?variant=52489754050887",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8295,7 +8295,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ciara_ring_silver_96af2780-70b1-4fbf-a94b-0f951eda7cfe.png?v=1784284763"
   ],
   "sku": "JRCIAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ciara-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/ciara-ring?variant=52489753657671",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8318,7 +8318,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ciara_ring_gold_2.jpg?v=1761947017"
   ],
   "sku": "JRCIAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ciara-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/ciara-ring?variant=52489753690439",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8332,7 +8332,7 @@ const PRODUCTS = [
   "price_rub": 1700,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eliza_ring_gold.png?v=1761035914",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eliza_ring_1.jpg?v=1761947037",
@@ -8341,7 +8341,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eliza_ring_2.jpg?v=1761947057"
   ],
   "sku": "JRELIZG",
-  "source_url": "https://www.burkerwatches.com/ru/products/eliza-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/eliza-ring?variant=52489750643015",
   "source_price_eur": "11.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8364,7 +8364,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eliza_ring_2.jpg?v=1761947057"
   ],
   "sku": "JRELIZS",
-  "source_url": "https://www.burkerwatches.com/ru/products/eliza-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/eliza-ring?variant=52489750675783",
   "source_price_eur": "11.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8387,7 +8387,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Aurora_ring_silver_47e03063-998e-4333-90aa-0dfd47d7343f.png?v=1784284875"
   ],
   "sku": "JRAURG",
-  "source_url": "https://www.burkerwatches.com/ru/products/aurora-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/aurora-ring?variant=52489749135687",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8410,7 +8410,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Aurora_ring_2.jpg?v=1761947089"
   ],
   "sku": "JRAURS",
-  "source_url": "https://www.burkerwatches.com/ru/products/aurora-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/aurora-ring?variant=52489749168455",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8435,7 +8435,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lea_ring_5.jpg?v=1761947141"
   ],
   "sku": "JRLEAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lea-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/lea-ring?variant=52489746350407",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8460,7 +8460,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lea_ring_5.jpg?v=1761947141"
   ],
   "sku": "JRLEAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lea-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/lea-ring?variant=52489746383175",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8485,7 +8485,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ameli_ring_silver_4f43143a-94bd-4c60-befb-931c3ab4195e.png?v=1784284907"
   ],
   "sku": "JRAMEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ameli-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/ameli-ring?variant=52489744646471",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8510,7 +8510,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ameli_ring_silver_2.jpg?v=1761947159"
   ],
   "sku": "JRAMES",
-  "source_url": "https://www.burkerwatches.com/ru/products/ameli-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/ameli-ring?variant=52489744679239",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8535,7 +8535,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Luna_ring_silver_73bbfe08-b77d-4c9f-86e0-fc79cab97c32.png?v=1784284949"
   ],
   "sku": "JRLUNAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/kyra-ring-copy",
+  "source_url": "https://www.burkerwatches.com/ru/products/kyra-ring-copy?variant=52489735209287",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8560,7 +8560,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Luna_ring_3.jpg?v=1761947237"
   ],
   "sku": "JRLUNAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/kyra-ring-copy",
+  "source_url": "https://www.burkerwatches.com/ru/products/kyra-ring-copy?variant=52489735242055",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -8587,7 +8587,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_burgundy_10.jpg?v=1773485577"
   ],
   "sku": "DIAGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-burgundy?variant=52489773842759",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -8612,7 +8612,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_brown_8.jpg?v=1760698980"
   ],
   "sku": "DIAGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-brown?variant=52489772794183",
   "source_price_eur": "43.60",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -8636,7 +8636,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_black_6.jpg?v=1774952815"
   ],
   "sku": "DIAGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-black?variant=52489772630343",
   "source_price_eur": "65.40",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -8663,7 +8663,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eternity_Gold_Bracelet_891a7ca0-0b3f-4dc5-bd18-ad54da80c556.jpg?v=1793973985"
   ],
   "sku": "DIAGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-white?variant=52489772138823",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -8690,7 +8690,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_gold_silver_8.jpg?v=1773485630"
   ],
   "sku": "DIAGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-gold-silver?variant=52489771712839",
   "source_price_eur": "69.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -8715,7 +8715,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_silver_black_7.jpg?v=1773485648"
   ],
   "sku": "DIASB",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-silver-black?variant=52489771352391",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -8741,7 +8741,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diana_Silver_White_9.jpg?v=1773485666"
   ],
   "sku": "DIASW",
-  "source_url": "https://www.burkerwatches.com/ru/products/diana-silver-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/diana-silver-white?variant=52489768698183",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -8765,7 +8765,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Julia_Burgundy_3.jpg?v=1758041708"
   ],
   "sku": "JUGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-burgundy?variant=52290018017607",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -8790,7 +8790,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_gold_burgundy_a02ac066-94d3-4a1a-b29f-654749100e52.png?v=1785271631"
   ],
   "sku": "OLGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-burgundy?variant=52290017984839",
   "source_price_eur": "43.60",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -8804,7 +8804,7 @@ const PRODUCTS = [
   "price_rub": 7700,
   "old_rub": 15300,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_gold_burgundy_1.png?v=1758040745",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_gold_burgundy_2.png?v=1758041871",
@@ -8815,7 +8815,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_burgundy_31a3b5fa-ac6b-4efe-8dae-92c731b55700.png?v=1785271222"
   ],
   "sku": "MCGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-burgundy?variant=52290017952071",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -8839,7 +8839,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_burgundy_3.jpg?v=1773743379"
   ],
   "sku": "JBAGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-gold-burgundy?variant=52347870085447",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -8861,7 +8861,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_silver_black_f26d7092-b781-4fb6-a2b5-03b1ec3573c8.png?v=1785269840"
   ],
   "sku": "ISASB",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-silver-black?variant=52290019230023",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -8884,7 +8884,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_burgundy_3.png?v=1758042818"
   ],
   "sku": "RPGBURS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-burgundy?variant=52290019197255",
   "source_price_eur": "21.80",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -8908,7 +8908,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_black_gold_silver_ddc36b13-9bbc-4083-81ce-a27c785bb42d.png?v=1785485424"
   ],
   "sku": "ISAPBGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-black-gold-silver?variant=52290018902343",
   "source_price_eur": "71.40",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -8928,12 +8928,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_silver_2_f667b19a-afff-4e9f-a140-b1ae5753287c.png?v=1785485511",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_silver_3_937469cb-6c90-4e9b-94cc-61b7b6ad05f5.png?v=1785485511",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_silver_1.jpg?v=1758041504",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_silver_2.jpg?v=1758041464",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_silver_3.jpg?v=1758041464",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_silver_cbf1a700-baf2-4849-baba-c7548052bfe4.png?v=1785485528"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_silver_cbf1a700-baf2-4849-baba-c7548052bfe4.png?v=1785485528",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/isabell_petite_gold_silver1.jpg?v=1794235730"
   ],
   "sku": "ISAPGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-silver?variant=52290018869575",
   "source_price_eur": "47.60",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -8953,12 +8952,12 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_burgundy_2.png?v=1758041256",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_burgundy_3.png?v=1758041256",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_burgundy_1.jpg?v=1758041256",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_burgundy_2.jpg?v=1758041215",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_burgundy_3.jpg?v=1758041215",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/isabell_petite_gold_burgundy1.jpg?v=1794235914",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_burgundy_57b09bd6-32da-45b0-98da-2487e8166097.png?v=1785269637"
   ],
   "sku": "ISAPGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-burgundy?variant=52290018804039",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -8978,11 +8977,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_brown_2.png?v=1758041163",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_brown_3.png?v=1758041163",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_brown_1.jpg?v=1758041163",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_brown_2.jpg?v=1758040634",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_brown_6b3f13e3-545a-4283-b5d7-3208e497614e.png?v=1785269593"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_brown_6b3f13e3-545a-4283-b5d7-3208e497614e.png?v=1785269593",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/isabell_petite_gold_brown1.jpg?v=1794234142"
   ],
   "sku": "ISAPGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-brown?variant=52290018738503",
   "source_price_eur": "43.60",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -8999,15 +8998,14 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_black_1.png?v=1757664301",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_black_1.jpg?v=1758040525",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_black_2.png?v=1758040525",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_black_3.png?v=1758040525",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_black_2.jpg?v=1758040479",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_black1.jpg?v=1794235824",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_black_3.jpg?v=1758040480",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_black_0d0020e7-3235-4814-8e0b-31adf674a23d.png?v=1785269515"
   ],
   "sku": "ISAPGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold-black?variant=52290018705735",
   "source_price_eur": "43.60",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -9026,14 +9024,12 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_1.png?v=1757664320",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_2.png?v=1758040415",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_3.png?v=1758040415",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_2.jpg?v=1758040415",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_1.jpg?v=1758040415",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_3.jpg?v=1758040308",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_petite_gold_4.jpg?v=1758040308",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/isabell_petite_gold_white1.jpg?v=1794235115",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_66c10d31-7a3f-42a9-aab7-7af0edf34d1d.png?v=1785269240"
   ],
   "sku": "ISAPG",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-gold?variant=52290018672967",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -9058,7 +9054,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_silver_black_d1e285ad-e80b-4855-b613-086d77f9bcb7.png?v=1785269848"
   ],
   "sku": "ISAPSB",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-silver-black?variant=52290018640199",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -9083,7 +9079,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_silver_white_63694d46-0e14-4b39-9ac2-bb15f2a71da7.png?v=1785270009"
   ],
   "sku": "ISAPS",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-petite-silver?variant=52290018443591",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -9108,7 +9104,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_black_gold_silver_33129732-63eb-446e-9d72-1729676e164d.png?v=1785270902"
   ],
   "sku": "MCPBGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-black-gold-silver?variant=52290018410823",
   "source_price_eur": "71.40",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -9125,16 +9121,16 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_silver_1_f3898a82-7196-444c-ba19-28e8fe368a7c.png?v=1758040883",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_silver_1.jpg?v=1758042471",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_silver_2.png?v=1758042471",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_silver_3_01147516-f71a-42a0-9d05-d5c1163c8b61.png?v=1758042471",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_silver_1.jpg?v=1758042471",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_silver_2.jpg?v=1758042436",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_silver_3.jpg?v=1758042437",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_silver_4.jpg?v=1758042437",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_gold_silver_white_4d10f922-a778-4bd5-8762-ffdc3df2a185.png?v=1785271133"
   ],
   "sku": "MCPGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-silver?variant=52290018345287",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -9161,7 +9157,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_burgundy_6f66d882-df9c-4c58-ad53-c25c52b22c0b.png?v=1785271238"
   ],
   "sku": "MCPGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-burgundy?variant=52290018246983",
   "source_price_eur": "65.40",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -9186,7 +9182,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_gold_brown_cdc187f1-0699-4653-aff9-c8793717a66e.png?v=1785270971"
   ],
   "sku": "MCPGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-brown?variant=52290018214215",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -9211,7 +9207,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_gold_black_254f84d7-9e9d-4454-a985-594c5d84e1aa.png?v=1785270937"
   ],
   "sku": "MCPGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-black?variant=52290018181447",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -9232,12 +9228,12 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_white_3.png?v=1758042538",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_white_1.jpg?v=1758042538",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_white_2.jpg?v=1758042538",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_white_3.jpg?v=1758042538",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/macy_petite_gold_white1.jpg?v=1794235995",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_petite_gold_white_4.jpg?v=1758042485",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_gold_white_27cf90e0-baab-49c5-9f44-3700124d8912.png?v=1785271185"
   ],
   "sku": "MCPGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-gold-white?variant=52290018148679",
   "source_price_eur": "65.40",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -9262,7 +9258,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_silver_black_e480c1cf-9a4f-4452-8d81-912404e646f0.png?v=1785271266"
   ],
   "sku": "MCPSB",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-silver-black?variant=52290018115911",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -9287,7 +9283,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_silver_white_e569553c-267f-4a8d-a3d3-257958edb647.png?v=1785271354"
   ],
   "sku": "MCPSW",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-silver-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-petite-silver-white?variant=52290018050375",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -9301,7 +9297,7 @@ const PRODUCTS = [
   "price_rub": 4600,
   "old_rub": 15300,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_burgundy_1.png?v=1758004879",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_Burgundy_2.jpg?v=1758040271",
@@ -9312,7 +9308,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_burgundy_41b31868-6580-4579-af60-04e92631bf49.png?v=1785269634"
   ],
   "sku": "ISAGBUR",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-burgundy",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-burgundy?variant=52290017886535",
   "source_price_eur": "32.70",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -9335,7 +9331,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kyra_silver_bracelet_1_0072538f-0316-4e05-8115-9c486c627171.png?v=1784285185"
   ],
   "sku": "JBKYRAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/kyra-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/kyra-bracelet?variant=52145181360455",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -9358,7 +9354,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBKYRAS.jpg?v=1756472849"
   ],
   "sku": "JBKYRAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/kyra-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/kyra-bracelet?variant=52145181393223",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -9383,7 +9379,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mariah_silver_bracelet_1_1729590f-769e-4cc2-977d-a05979850c6d.png?v=1784285139"
   ],
   "sku": "JBMARIG",
-  "source_url": "https://www.burkerwatches.com/ru/products/mariah-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/mariah-bracelet?variant=52145178870087",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -9408,7 +9404,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBMARS.jpg?v=1756472638"
   ],
   "sku": "JBMARIS",
-  "source_url": "https://www.burkerwatches.com/ru/products/mariah-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/mariah-bracelet?variant=52145178902855",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -9432,7 +9428,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cassie_silver_bracelet_1_1f8f45be-b629-4ba0-ad56-7029338e4982.png?v=1784285012"
   ],
   "sku": "JBCASSG",
-  "source_url": "https://www.burkerwatches.com/ru/products/cassie-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/cassie-bracelet?variant=52145178673479",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -9456,7 +9452,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JRCASS_1_90791fe8-c4d6-4b3b-aadf-31832e44109c.jpg?v=1756472462"
   ],
   "sku": "JBCASSS",
-  "source_url": "https://www.burkerwatches.com/ru/products/cassie-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/cassie-bracelet?variant=52145178706247",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -9478,7 +9474,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Odelia_silver_earrings_1.png?v=1784285334"
   ],
   "sku": "JEODELG",
-  "source_url": "https://www.burkerwatches.com/ru/products/odelia-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/odelia-earrings?variant=52145173365063",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9500,7 +9496,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEODEG.jpg?v=1756471791"
   ],
   "sku": "JEODELS",
-  "source_url": "https://www.burkerwatches.com/ru/products/odelia-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/odelia-earrings?variant=52145173397831",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9523,7 +9519,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Hellen_silver_earrings_1_83e2cf76-76b5-44bb-8984-f4f92a87dbac.png?v=1784285380"
   ],
   "sku": "JEHELLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/hellen-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/hellen-earrings?variant=52145172873543",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9546,7 +9542,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEHELG.jpg?v=1756471737"
   ],
   "sku": "JEHELLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/hellen-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/hellen-earrings?variant=52145172906311",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9570,7 +9566,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Tiffany_earrings_silver_1_889db4ea-bc71-4b87-acf5-ce2e0d46d157.png?v=1784285419"
   ],
   "sku": "JETIFFG",
-  "source_url": "https://www.burkerwatches.com/ru/products/tiffany-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/tiffany-earrings?variant=52145170809159",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9594,7 +9590,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNTIFG_1_f2968873-b2e0-4ae0-bf50-b03040b9df83.jpg?v=1756471612"
   ],
   "sku": "JETIFFS",
-  "source_url": "https://www.burkerwatches.com/ru/products/tiffany-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/tiffany-earrings?variant=52145170841927",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9617,7 +9613,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Tiffany_necklace_silver_1_82088e37-bdc1-49fb-a729-9bc70621377f.png?v=1784285479"
   ],
   "sku": "JNTIFFG",
-  "source_url": "https://www.burkerwatches.com/ru/products/tiffany-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/tiffany-necklace?variant=52145166451015",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -9640,7 +9636,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNTIFS.jpg?v=1756471528"
   ],
   "sku": "JNTIFFS",
-  "source_url": "https://www.burkerwatches.com/ru/products/tiffany-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/tiffany-necklace?variant=52145166483783",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -9664,7 +9660,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kyra_silver_ring_1_3d7962bf-4e5a-4562-a9b1-c92b9f6e544d.png?v=1784285556"
   ],
   "sku": "JRKYRAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/kyra-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/kyra-ring?variant=52145161109831",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9688,7 +9684,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JRKYRAS.jpg?v=1756472922"
   ],
   "sku": "JRKYRAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/kyra-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/kyra-ring?variant=52145161142599",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9712,7 +9708,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mariah_silver_ring_1_4be34e14-4002-4293-a9a7-c0847626e56b.png?v=1784285594"
   ],
   "sku": "JRMARIG",
-  "source_url": "https://www.burkerwatches.com/ru/products/mariah-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/mariah-ring?variant=52145160126791",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9736,7 +9732,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JRMARS_1.jpg?v=1756472725"
   ],
   "sku": "JRMARIS",
-  "source_url": "https://www.burkerwatches.com/ru/products/mariah-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/mariah-ring?variant=52145160159559",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9760,7 +9756,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cassie_silver_ring_1_42141482-88ab-49ac-88a1-f5d46b42325e.png?v=1784285641"
   ],
   "sku": "JRCASSG",
-  "source_url": "https://www.burkerwatches.com/ru/products/cassie-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/cassie-ring?variant=52145159209287",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9784,7 +9780,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JRCASS_1.jpg?v=1756472171"
   ],
   "sku": "JRCASSS",
-  "source_url": "https://www.burkerwatches.com/ru/products/cassie-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/cassie-ring?variant=52145159242055",
   "source_price_eur": "11.60",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9807,7 +9803,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_silver_ring_1_ae4f1ac6-d641-4cd2-bd48-4be12364ff2a.png?v=1784285700"
   ],
   "sku": "JRVG",
-  "source_url": "https://www.burkerwatches.com/ru/products/violet-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/violet-ring?variant=52145145282887",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9830,7 +9826,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JRVIOS.jpg?v=1756472774"
   ],
   "sku": "JRVS",
-  "source_url": "https://www.burkerwatches.com/ru/products/violet-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/violet-ring?variant=52145145315655",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9853,7 +9849,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JSFG_3.jpg?v=1756466705"
   ],
   "sku": "JSETFG",
-  "source_url": "https://www.burkerwatches.com/ru/products/flora-set",
+  "source_url": "https://www.burkerwatches.com/ru/products/flora-set?variant=52145181753671",
   "source_price_eur": "23.80",
   "source_regular_eur": "79.00",
   "price_rate": 140
@@ -9875,7 +9871,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Liz_silver_ring_1.png?v=1754395897"
   ],
   "sku": "JRLIZG",
-  "source_url": "https://www.burkerwatches.com/ru/products/liz-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/liz-ring?variant=52071608156487",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9897,7 +9893,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JRLIZ_2.jpg?v=1754395902"
   ],
   "sku": "JRLIZS",
-  "source_url": "https://www.burkerwatches.com/ru/products/liz-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/liz-ring?variant=52071621984583",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9920,7 +9916,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nylah_silver_necklace_1.png?v=1754395535"
   ],
   "sku": "JNNYLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/nylah-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/nylah-necklace?variant=52071557890375",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -9943,7 +9939,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nylah_gold_necklace_4.jpg?v=1754395535"
   ],
   "sku": "JNNYLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/nylah-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/nylah-necklace?variant=52071557923143",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -9965,7 +9961,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nylah_silver_bracelet_1.png?v=1754395385"
   ],
   "sku": "JBNYLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/nylah-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/nylah-bracelet?variant=52071519224135",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -9987,7 +9983,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nylah_gold_bracelet_3.jpg?v=1754395385"
   ],
   "sku": "JBNYLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/nylah-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/nylah-bracelet?variant=52071519256903",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10010,7 +10006,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/June_Silver_Necklace_1.png?v=1754395699"
   ],
   "sku": "JNJG",
-  "source_url": "https://www.burkerwatches.com/ru/products/june-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/june-necklace?variant=52071584137543",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10033,7 +10029,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNJUNEG_3.jpg?v=1754395710"
   ],
   "sku": "JNJS",
-  "source_url": "https://www.burkerwatches.com/ru/products/june-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/june-necklace?variant=52071584170311",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10055,7 +10051,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diona_Silver_Necklace_1.png?v=1754395610"
   ],
   "sku": "JNDIOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/diona-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/diona-necklace?variant=52071567130951",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10077,7 +10073,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diona_Gold_Necklace_3.jpg?v=1754395611"
   ],
   "sku": "JNDIOS",
-  "source_url": "https://www.burkerwatches.com/ru/products/diona-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/diona-necklace?variant=52071567163719",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10100,7 +10096,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ashlee_silver_necklace_1.png?v=1754395576"
   ],
   "sku": "JNASHG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ashlee-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/ashlee-necklace?variant=52071563821383",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10123,7 +10119,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ashlee_gold_necklace_4.jpg?v=1754395577"
   ],
   "sku": "JNASHS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ashlee-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/ashlee-necklace?variant=52071563854151",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10145,7 +10141,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diona_Silver_Bracelet_1.png?v=1754395481"
   ],
   "sku": "JBDIOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/diona-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/diona-bracelet?variant=52071550648647",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10167,7 +10163,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Diona_Gold_Bracelet_3.jpg?v=1754395482"
   ],
   "sku": "JBDIOS",
-  "source_url": "https://www.burkerwatches.com/ru/products/diona-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/diona-bracelet?variant=52071550681415",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10189,7 +10185,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ashlee_silver_bracelet_1.png?v=1754395315"
   ],
   "sku": "JBASHG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ashlee-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ashlee-bracelet?variant=52071504544071",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10211,7 +10207,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ashlee_gold_bracelet_3.jpg?v=1754395314"
   ],
   "sku": "JBASHS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ashlee-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/ashlee-bracelet?variant=52071504576839",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10233,7 +10229,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Sophia_Bracelets.jpg?v=1793973229"
   ],
   "sku": "JBSOFG",
-  "source_url": "https://www.burkerwatches.com/ru/products/sophia-bracelets",
+  "source_url": "https://www.burkerwatches.com/ru/products/sophia-bracelets?variant=51442384798023",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10256,7 +10252,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cindy_Silver_6f6c5ac7-a3d2-422c-b611-c8749dfd05b0.png?v=1784285838"
   ],
   "sku": "JECINDYG",
-  "source_url": "https://www.burkerwatches.com/ru/products/cindy-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/cindy-earrings?variant=51627550802247",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10279,7 +10275,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JECINDYG.jpg?v=1750908689"
   ],
   "sku": "JECINDYS",
-  "source_url": "https://www.burkerwatches.com/ru/products/cindy-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/cindy-earrings?variant=51627550835015",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10301,7 +10297,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNFIONACG_4.jpg?v=1750908919"
   ],
   "sku": "JNFIOCG",
-  "source_url": "https://www.burkerwatches.com/ru/products/fiona-chic-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/fiona-chic-necklace?variant=51627544346951",
   "source_price_eur": "9.80",
   "source_regular_eur": "49.00",
   "price_rate": 140
@@ -10323,7 +10319,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNFIONACG_4.jpg?v=1750908919"
   ],
   "sku": "JNFIOCS",
-  "source_url": "https://www.burkerwatches.com/ru/products/fiona-chic-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/fiona-chic-necklace?variant=51627544379719",
   "source_price_eur": "9.80",
   "source_regular_eur": "49.00",
   "price_rate": 140
@@ -10346,7 +10342,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_Chic_Bracelet1.jpg?v=1793969596"
   ],
   "sku": "JBFIOCG",
-  "source_url": "https://www.burkerwatches.com/ru/products/fiona-chic-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/fiona-chic-bracelet?variant=51627542282567",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10369,7 +10365,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_Chic_Bracelet1.jpg?v=1793969596"
   ],
   "sku": "JBFIOCS",
-  "source_url": "https://www.burkerwatches.com/ru/products/fiona-chic-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/fiona-chic-bracelet?variant=51627542315335",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10383,14 +10379,14 @@ const PRODUCTS = [
   "price_rub": 1300,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Kyra_Gold.png?v=1749711383",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07638.jpg?v=1749711382",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07655.jpg?v=1749711382"
   ],
   "sku": "JEKYRAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/kyra-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/kyra-earrings?variant=51627538448711",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10411,7 +10407,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07655.jpg?v=1749711382"
   ],
   "sku": "JEKYRAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/kyra-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/kyra-earrings?variant=51627538481479",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10432,7 +10428,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07609.jpg?v=1749711155"
   ],
   "sku": "JEELLOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/elora-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/elora-earrings?variant=51627534287175",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10453,7 +10449,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07609.jpg?v=1749711155"
   ],
   "sku": "JEELLOS",
-  "source_url": "https://www.burkerwatches.com/ru/products/elora-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/elora-earrings?variant=51627534319943",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10474,7 +10470,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07614.jpg?v=1749711640"
   ],
   "sku": "JEYARAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/yara-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/yara-earrings?variant=51627533599047",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10495,7 +10491,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07614.jpg?v=1749711640"
   ],
   "sku": "JEYARAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/yara-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/yara-earrings?variant=51627533631815",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10517,7 +10513,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mae_silver.png?v=1784285794"
   ],
   "sku": "JNMG",
-  "source_url": "https://www.burkerwatches.com/ru/products/mae-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/mae-necklace?variant=51627551818055",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10539,7 +10535,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNMAEG.jpg?v=1750908652"
   ],
   "sku": "JNMS",
-  "source_url": "https://www.burkerwatches.com/ru/products/mae-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/mae-necklace?variant=51627551850823",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10562,7 +10558,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zoey_silver.png?v=1784285752"
   ],
   "sku": "JNZG",
-  "source_url": "https://www.burkerwatches.com/ru/products/zoey-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/zoey-necklace?variant=51627553227079",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10576,7 +10572,7 @@ const PRODUCTS = [
   "price_rub": 1100,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zoey_silver.png?v=1784285752",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Zoey_gold_86f45507-7ecb-4711-aa14-434c1ee44a88.png?v=1784285750",
@@ -10585,7 +10581,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNZOEYG.jpg?v=1749711999"
   ],
   "sku": "JNZS",
-  "source_url": "https://www.burkerwatches.com/ru/products/zoey-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/zoey-necklace?variant=51627553259847",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10606,7 +10602,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNAVAGW.jpg?v=1749711854"
   ],
   "sku": "JNAGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-necklace-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-necklace-gold?variant=51696720478535",
   "source_price_eur": "19.60",
   "source_regular_eur": "49.00",
   "price_rate": 140
@@ -10628,7 +10624,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNAVASW.jpg?v=1749711788"
   ],
   "sku": "JNASW",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-necklace?variant=51627557781831",
   "source_price_eur": "14.70",
   "source_regular_eur": "49.00",
   "price_rate": 140
@@ -10650,7 +10646,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Jody_necklace_silver_1.png?v=1792344602"
   ],
   "sku": "JNJODYG",
-  "source_url": "https://www.burkerwatches.com/ru/products/jody-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/jody-necklace?variant=50948045996359",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10672,7 +10668,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNJODYG1.jpg?v=1744273968"
   ],
   "sku": "JNJODYS",
-  "source_url": "https://www.burkerwatches.com/ru/products/jody-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/jody-necklace?variant=50948046029127",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10695,7 +10691,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNALEXISG2.jpg?v=1744274068"
   ],
   "sku": "JNALEXG",
-  "source_url": "https://www.burkerwatches.com/ru/products/alexis-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/alexis-necklace?variant=50948045537607",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10718,7 +10714,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNALEXISG2.jpg?v=1744274068"
   ],
   "sku": "JNALEXS",
-  "source_url": "https://www.burkerwatches.com/ru/products/alexis-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/alexis-necklace?variant=50948045570375",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -10740,7 +10736,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Jody_bracelet_silver_1.png?v=1792271592"
   ],
   "sku": "JBJODYG",
-  "source_url": "https://www.burkerwatches.com/ru/products/jody-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/jody-bracelet?variant=50948039475527",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10762,7 +10758,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBJODYG1.jpg?v=1744274107"
   ],
   "sku": "JBJODYS",
-  "source_url": "https://www.burkerwatches.com/ru/products/jody-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/jody-bracelet?variant=50948039508295",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10784,7 +10780,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Alexis_bracelet_silver_1.png?v=1792271155"
   ],
   "sku": "JBALEXG",
-  "source_url": "https://www.burkerwatches.com/ru/products/alexis-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/alexis-bracelet?variant=50948038459719",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10806,7 +10802,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBALEXISG1.jpg?v=1744274248"
   ],
   "sku": "JBALEXS",
-  "source_url": "https://www.burkerwatches.com/ru/products/alexis-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/alexis-bracelet?variant=50948038492487",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -10829,7 +10825,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Julia_Gold_Silver_Black_3.png?v=1744033010"
   ],
   "sku": "JUBGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-black-gold-silver?variant=51322555138375",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -10852,7 +10848,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Julia_Gold_Silver_White_3.png?v=1744033002"
   ],
   "sku": "JUGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-silver?variant=51322553860423",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -10877,7 +10873,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Julia_Gold_Brown_3.png?v=1744032952"
   ],
   "sku": "JUGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-brown?variant=51322542358855",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -10902,7 +10898,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Julia_Gold_Black_3.png?v=1744032912"
   ],
   "sku": "JUGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-black?variant=51322539213127",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -10927,7 +10923,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Julia_Gold_White_3.png?v=1744032879"
   ],
   "sku": "JUGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-gold-white?variant=51322537476423",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -10950,7 +10946,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Julia_Silver_Black_3.png?v=1744032839"
   ],
   "sku": "JUSB",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-silver-black?variant=51322533282119",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -10974,7 +10970,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Julia_Silver_White_3.png?v=1744032829"
   ],
   "sku": "JUSW",
-  "source_url": "https://www.burkerwatches.com/ru/products/julia-silver-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/julia-silver-white?variant=51322532102471",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -10994,7 +10990,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Roxy_bracelet_silver_1.png?v=1792270810"
   ],
   "sku": "JBROXYG",
-  "source_url": "https://www.burkerwatches.com/ru/products/roxy-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/roxy-bracelet?variant=51322440483143",
   "source_price_eur": "8.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11014,7 +11010,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Roxy_bracelet_gold_1_7785c096-c5c6-400e-bfcd-7a637dd78b64.png?v=1792270808"
   ],
   "sku": "JBROXYS",
-  "source_url": "https://www.burkerwatches.com/ru/products/roxy-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/roxy-bracelet?variant=51322440515911",
   "source_price_eur": "8.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11036,7 +11032,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Clio_bracelet_silver_1.png?v=1792270467"
   ],
   "sku": "JBCLEOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/cleo-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/cleo-bracelet?variant=51322436583751",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11058,7 +11054,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBCLEOG.jpg?v=1743423269"
   ],
   "sku": "JBCLEOS",
-  "source_url": "https://www.burkerwatches.com/ru/products/cleo-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/cleo-bracelet?variant=51322436616519",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11080,7 +11076,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Eve_bracelet_silver_1.png?v=1792270661"
   ],
   "sku": "JBEVEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/eve-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/eve-bracelet?variant=51322424820039",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11102,7 +11098,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBEVEG3.jpg?v=1743423158"
   ],
   "sku": "JBEVES",
-  "source_url": "https://www.burkerwatches.com/ru/products/eve-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/eve-bracelet?variant=51322424852807",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11125,7 +11121,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEMARLYG.jpg?v=1739806887"
   ],
   "sku": "JEMARLYG",
-  "source_url": "https://www.burkerwatches.com/ru/products/marly-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/marly-earrings?variant=50948062118215",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11148,7 +11144,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEMARLYG.jpg?v=1739806887"
   ],
   "sku": "JEMARLYS",
-  "source_url": "https://www.burkerwatches.com/ru/products/marly-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/marly-earrings?variant=50948062150983",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11170,7 +11166,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Britt_earrings_silver_1_b91c0cc1-7b10-4222-a626-115124410611.png?v=1792339720"
   ],
   "sku": "JEBRITTG",
-  "source_url": "https://www.burkerwatches.com/ru/products/britt-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/britt-earrings?variant=50948058906951",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11192,7 +11188,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEBRITTG1.jpg?v=1739806861"
   ],
   "sku": "JEBRITTS",
-  "source_url": "https://www.burkerwatches.com/ru/products/britt-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/britt-earrings?variant=50948058939719",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11214,7 +11210,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFAYEG.jpg?v=1739805728"
   ],
   "sku": "JEFAYEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/faye-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/faye-earrings?variant=50948063166791",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11236,7 +11232,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFAYEG.jpg?v=1739805728"
   ],
   "sku": "JEFAYES",
-  "source_url": "https://www.burkerwatches.com/ru/products/faye-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/faye-earrings?variant=50948063199559",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11257,7 +11253,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Tess_earrings_silver_1.png?v=1792343636"
   ],
   "sku": "JETESSG",
-  "source_url": "https://www.burkerwatches.com/ru/products/tess-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/tess-earrings?variant=50948078666055",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11278,7 +11274,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JETESSG.jpg?v=1739786859"
   ],
   "sku": "JETESSS",
-  "source_url": "https://www.burkerwatches.com/ru/products/tess-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/tess-earrings?variant=50948078698823",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11301,7 +11297,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEROMYG1.jpg?v=1739787221"
   ],
   "sku": "JEROMYG",
-  "source_url": "https://www.burkerwatches.com/ru/products/romy-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/romy-earrings?variant=50948063887687",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11324,7 +11320,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEROMYG1.jpg?v=1739787221"
   ],
   "sku": "JEROMYS",
-  "source_url": "https://www.burkerwatches.com/ru/products/romy-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/romy-earrings?variant=50948063920455",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11345,7 +11341,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Indy_earrings_silver_1.png?v=1792340270"
   ],
   "sku": "JEINDYG",
-  "source_url": "https://www.burkerwatches.com/ru/products/indy-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/indy-earrings?variant=50948065755463",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11366,7 +11362,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEINDY.jpg?v=1739787162"
   ],
   "sku": "JEINDYS",
-  "source_url": "https://www.burkerwatches.com/ru/products/indy-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/indy-earrings?variant=50948065788231",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11389,7 +11385,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEKATES1.jpg?v=1739786960"
   ],
   "sku": "JEKATEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/kate-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/kate-earrings?variant=50948068704583",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11412,7 +11408,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEKATES1.jpg?v=1739786960"
   ],
   "sku": "JEKATES",
-  "source_url": "https://www.burkerwatches.com/ru/products/kate-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/kate-earrings?variant=50948068737351",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11434,7 +11430,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ivy_earrings_silver_1_7e999ba7-2af2-40f0-bcf3-84ce3e60ed2a.png?v=1792340707"
   ],
   "sku": "JEIVYG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ivy-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/ivy-earrings?variant=50948070277447",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11456,7 +11452,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEIVYG1.jpg?v=1739786724"
   ],
   "sku": "JEIVYS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ivy-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/ivy-earrings?variant=50948070310215",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11478,7 +11474,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ella_earrings_silver_1_a72e8e9f-2749-4098-ae17-8deb577caff1.png?v=1792339652"
   ],
   "sku": "JEELLAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/ella-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/ella-earrings?variant=50948075094343",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11500,7 +11496,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEELLAG.jpg?v=1739787123"
   ],
   "sku": "JEELLAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ella-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/ella-earrings?variant=50948075127111",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11522,7 +11518,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Liz_earrings_silver_1_a097e21d-8fdc-4252-bfba-460992f2903b.png?v=1792343007"
   ],
   "sku": "JELIZG",
-  "source_url": "https://www.burkerwatches.com/ru/products/liz-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/liz-earrings?variant=50948070736199",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11544,7 +11540,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JELIZG.jpg?v=1739787693"
   ],
   "sku": "JELIZS",
-  "source_url": "https://www.burkerwatches.com/ru/products/liz-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/liz-earrings?variant=50948070768967",
   "source_price_eur": "14.50",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11566,7 +11562,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lynn_earrings_silver_1.png?v=1792343156"
   ],
   "sku": "JELYNNG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lynn-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/lynn-earrings?variant=50948078141767",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11588,7 +11584,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JELYNNG.jpg?v=1739787055"
   ],
   "sku": "JELYNNS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lynn-earrings",
+  "source_url": "https://www.burkerwatches.com/ru/products/lynn-earrings?variant=50948078174535",
   "source_price_eur": "8.70",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11602,7 +11598,7 @@ const PRODUCTS = [
   "price_rub": 1100,
   "old_rub": 5500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_2a13b155-fe73-4729-87f6-960d7c82d1d0.png?v=1737877376",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNFIONAG.jpg?v=1739803105",
@@ -11610,7 +11606,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_8961b5d4-3ef5-42a7-a65d-9442bf85adbb.png?v=1739803105"
   ],
   "sku": "JNFIOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/fiona-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/fiona-necklace?variant=50948044554567",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11632,7 +11628,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_99dc5771-785a-4b68-b9c4-219bdc463e28.png?v=1739803105"
   ],
   "sku": "JNFIOS",
-  "source_url": "https://www.burkerwatches.com/ru/products/fiona-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/fiona-necklace?variant=50948044587335",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11657,7 +11653,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_Bracelet1.jpg?v=1793969091"
   ],
   "sku": "JBFIOG",
-  "source_url": "https://www.burkerwatches.com/ru/products/fiona-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/fiona-bracelet?variant=50948033675591",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11682,7 +11678,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_Bracelet1.jpg?v=1793969091"
   ],
   "sku": "JBFIOS",
-  "source_url": "https://www.burkerwatches.com/ru/products/fiona-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/fiona-bracelet?variant=50948033708359",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11703,7 +11699,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-fw24-257.jpg?v=1792488239"
   ],
   "sku": "JRFGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/flora-gold-black-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/flora-gold-black-ring?variant=50484618789191",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11725,7 +11721,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JRFLORASW2.jpg?v=1739803169"
   ],
   "sku": "JRFSW",
-  "source_url": "https://www.burkerwatches.com/ru/products/flora-silver-white-ring",
+  "source_url": "https://www.burkerwatches.com/ru/products/flora-silver-white-ring?variant=50484617642311",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11747,7 +11743,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-44_971d4fc0-950d-4d46-af77-3625d582c06b.jpg?v=1735040622"
   ],
   "sku": "JNFGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/flora-gold-white-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/flora-gold-white-necklace?variant=50484598636871",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11770,7 +11766,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JNFLORASW2.jpg?v=1739803122"
   ],
   "sku": "JNFSW",
-  "source_url": "https://www.burkerwatches.com/ru/products/flora-silver-white-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/flora-silver-white-necklace?variant=50484520780103",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11792,7 +11788,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-34.jpg?v=1735040567"
   ],
   "sku": "JBFGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/flora-gold-white-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/flora-gold-white-bracelet?variant=50484516684103",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11806,14 +11802,14 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_5bf81ab0-1ac9-4dd4-97e8-b440d13219d2.png?v=1732198146",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_fc0282ed-c0fb-4708-8f42-a07e5b747d0f.png?v=1732198146",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-fw24-256.jpg?v=1732875593"
   ],
   "sku": "JBFGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/flora-gold-black-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/flora-gold-black-bracelet?variant=50484512489799",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11835,7 +11831,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-60_7099c1c4-f080-460f-b95c-f982c6ad99a6.jpg?v=1733899036"
   ],
   "sku": "JNFS",
-  "source_url": "https://www.burkerwatches.com/ru/products/flora-silver-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/flora-silver-necklace?variant=50484518453575",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11857,7 +11853,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_14bbb5c0-134e-48a9-81e5-a59d3a38fa11.png?v=1732714371"
   ],
   "sku": "JNLEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lexi-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/lexi-necklace?variant=50484843643207",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11879,7 +11875,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_f3edd7ed-fef1-4fcb-8405-0a5708b6c680.png?v=1732714361"
   ],
   "sku": "JNLES",
-  "source_url": "https://www.burkerwatches.com/ru/products/lexi-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/lexi-necklace?variant=50484843675975",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -11903,7 +11899,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-fw24-361.jpg?v=1732882413"
   ],
   "sku": "JBLENG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lenora-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/lenora-bracelet?variant=50484791804231",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11927,7 +11923,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-fw24-361.jpg?v=1732882413"
   ],
   "sku": "JBLENS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lenora-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/lenora-bracelet?variant=50484791836999",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11950,7 +11946,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_8e7ab43e-5ec4-4045-9f50-9369f9a3ec03.png?v=1732877533"
   ],
   "sku": "JBSG",
-  "source_url": "https://www.burkerwatches.com/ru/products/susan-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/susan-bracelet?variant=50484785938759",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11973,7 +11969,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_f8c2870e-fd41-4deb-8192-b51fc3880460.png?v=1732877538"
   ],
   "sku": "JBSS",
-  "source_url": "https://www.burkerwatches.com/ru/products/susan-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/susan-bracelet?variant=50484785971527",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -11996,7 +11992,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_d7d5613f-1e7c-43c9-805e-2d7426374fca.png?v=1732711350"
   ],
   "sku": "JBWG",
-  "source_url": "https://www.burkerwatches.com/ru/products/wendy-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/wendy-bracelet?variant=50484782367047",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12019,7 +12015,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_2c1d5d5b-dafe-4ee7-88f4-a7a00ae653f2.png?v=1732711355"
   ],
   "sku": "JBWS",
-  "source_url": "https://www.burkerwatches.com/ru/products/wendy-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/wendy-bracelet?variant=50484782399815",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12042,7 +12038,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_a439d540-2ead-4848-ac1a-de7d30b27c1c.png?v=1740131712"
   ],
   "sku": "JBLEG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lexi-gold-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/lexi-gold-bracelet?variant=50484773093703",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12065,7 +12061,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_2e2c6722-568f-4da1-b2bb-dc8c14af770e.png?v=1740131712"
   ],
   "sku": "JBLES",
-  "source_url": "https://www.burkerwatches.com/ru/products/lexi-gold-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/lexi-gold-bracelet?variant=50484773126471",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12088,7 +12084,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lily_Necklace1.jpg?v=1793869542"
   ],
   "sku": "JNLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lily-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/lily-necklace?variant=50484770406727",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -12111,7 +12107,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Lily_Necklace1.jpg?v=1793869542"
   ],
   "sku": "JNLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lily-necklace",
+  "source_url": "https://www.burkerwatches.com/ru/products/lily-necklace?variant=50484770439495",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -12133,7 +12129,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Flora_Gold_Bracelet1.jpg?v=1793973350"
   ],
   "sku": "JBFG",
-  "source_url": "https://www.burkerwatches.com/ru/products/flora-gold-bracelet",
+  "source_url": "https://www.burkerwatches.com/ru/products/flora-gold-bracelet?variant=50484508950855",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12157,7 +12153,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBZOEYS.jpg?v=1739802939"
   ],
   "sku": "JBZG",
-  "source_url": "https://www.burkerwatches.com/ru/products/zoey-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/zoey-gold?variant=50484030046535",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12181,7 +12177,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBZOEYS.jpg?v=1739802939"
   ],
   "sku": "JBZS",
-  "source_url": "https://www.burkerwatches.com/ru/products/zoey-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/zoey-gold?variant=50484030079303",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12203,7 +12199,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-124.jpg?v=1728958461"
   ],
   "sku": "JBLGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lily-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/lily-gold-silver?variant=50324535804231",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -12227,7 +12223,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBLILYDS1.jpg?v=1739802917"
   ],
   "sku": "JBLGG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lily-gold-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/lily-gold-gold?variant=50484014022983",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -12251,7 +12247,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBLILYDS1.jpg?v=1739802917"
   ],
   "sku": "JBLSS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lily-gold-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/lily-gold-gold?variant=50484014055751",
   "source_price_eur": "7.80",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -12275,7 +12271,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-110.jpg?v=1728036076"
   ],
   "sku": "RPBGSS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-black-gold-silver?variant=50216117862727",
   "source_price_eur": "23.80",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -12289,19 +12285,18 @@ const PRODUCTS = [
   "price_rub": 3400,
   "old_rub": 16700,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_Petite_Gold_Silver_White_1.png?v=1726645773",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_Petite_Gold_Silver_White_2.png?v=1726645772",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_Petite_Gold_Silver_White_3.png?v=1726645772",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-122.jpg?v=1728035969",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-121.jpg?v=1728035979",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-119.jpg?v=1728035990",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-product-newcollection-24-7.jpg?v=1730876292",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/ruby_petite_gold_silver1.jpg?v=1794236135",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/ruby_petite_gold_silver2.jpg?v=1794236135",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/ruby_petite_gold_silver3.jpg?v=1794236135",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_Petite_Gold_Silver_White_4.png?v=1726645773"
   ],
   "sku": "RPGSS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-silver?variant=50216111898951",
   "source_price_eur": "23.80",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -12328,7 +12323,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-olivia-22.jpg?v=1726558220"
   ],
   "sku": "OLGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-white?variant=50209165771079",
   "source_price_eur": "43.60",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -12354,7 +12349,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_silver_black_6302c628-31de-4301-8ab9-a5d1885f6b29.png?v=1785271860"
   ],
   "sku": "OLSB",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-silver-black?variant=50209161150791",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -12379,7 +12374,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/OLIGB.jpg?v=1783887640"
   ],
   "sku": "OLGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-black?variant=50209159315783",
   "source_price_eur": "43.60",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -12393,7 +12388,7 @@ const PRODUCTS = [
   "price_rub": 6900,
   "old_rub": 13900,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_Silver_White_1.png?v=1726558249",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_Silver_White_2.png?v=1726558250",
@@ -12406,7 +12401,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/OLISW7.jpg?v=1783887736"
   ],
   "sku": "OLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-silver?variant=50209152434503",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -12429,7 +12424,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_gold_silver_black_ebcd3ec8-f75e-467c-bc4a-dee729c7da56.png?v=1785271697"
   ],
   "sku": "OLBGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-black-gold-silver?variant=50186115023175",
   "source_price_eur": "47.60",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -12455,7 +12450,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/OLIGS6.jpg?v=1783887838"
   ],
   "sku": "OLGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-silver?variant=50186112336199",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -12479,7 +12474,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Olivia_gold_brown_d216b3f1-5cd5-4b9c-96f2-aab987b158ba.png?v=1785271578"
   ],
   "sku": "OLGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/olivia-gold-brown?variant=50186110697799",
   "source_price_eur": "32.70",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -12498,12 +12493,13 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_brown_1_010f50c3-7e8a-4504-8644-6bc29d4f78b2.png?v=1713876555",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_brown_2_661ed5b4-b8c8-4a97-aa3f-0f04a7348bfc.png?v=1714137552",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_brown_3_49a331c3-3219-4bbb-a91c-853b4461b22e.png?v=1714137552",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-7.jpg?v=1714137552",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-21.jpg?v=1714137552",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-25.jpg?v=1714137552"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_brown4.jpg?v=1794234347",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-25.jpg?v=1714137552",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_brown1.jpg?v=1794234346",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_brown2.jpg?v=1794234347"
   ],
   "sku": "RPGBRS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-brown-1",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-brown-1?variant=49393890099527",
   "source_price_eur": "21.80",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -12525,7 +12521,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-8.jpg?v=1714137408"
   ],
   "sku": "RPGBS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-black-1",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-black-1?variant=49393886560583",
   "source_price_eur": "21.80",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -12542,13 +12538,14 @@ const PRODUCTS = [
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_white_1_eddfb6df-365b-486f-bb8d-84244cb6eef4.png?v=1713876584",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-1.jpg?v=1714137412",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_white_2_d94aa00d-6190-4ec1-9112-da86044dbe34.png?v=1714137412",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/ruby_petite_gold_ehite5.jpg?v=1794235443",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ruby_petite_gold_white_3_70475ce1-da9d-4393-b147-82cf88129e6a.png?v=1714137412",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-40.jpg?v=1714137318"
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-40.jpg?v=1714137318",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-1.jpg?v=1714137412"
   ],
   "sku": "RPGWS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-white-1",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-gold-white-1?variant=49393885020487",
   "source_price_eur": "21.80",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -12572,7 +12569,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-52.jpg?v=1714137363"
   ],
   "sku": "RPSBS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-silver-black-1",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-silver-black-1?variant=49393882333511",
   "source_price_eur": "19.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -12596,7 +12593,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-rubypetite-square-46.jpg?v=1714137421"
   ],
   "sku": "RPSWS",
-  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-silver-white-1",
+  "source_url": "https://www.burkerwatches.com/ru/products/ruby-petite-silver-white-1?variant=49393878466887",
   "source_price_eur": "19.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -12620,7 +12617,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_c1f7e40b-99c5-44fe-a801-882d335ccaec.png?v=1730286844"
   ],
   "sku": "JBLG",
-  "source_url": "https://www.burkerwatches.com/ru/products/lily-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/lily-gold?variant=50483999506759",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12644,7 +12641,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-70.jpg?v=1710254256"
   ],
   "sku": "JBLS",
-  "source_url": "https://www.burkerwatches.com/ru/products/lily-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/lily-gold?variant=50483999539527",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12667,7 +12664,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mae_Bracelet.jpg?v=1793969503"
   ],
   "sku": "JBMG",
-  "source_url": "https://www.burkerwatches.com/ru/products/mae-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/mae-gold?variant=50484022968647",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12690,7 +12687,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Mae_Bracelet.jpg?v=1793969503"
   ],
   "sku": "JBMS",
-  "source_url": "https://www.burkerwatches.com/ru/products/mae-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/mae-gold?variant=50484023001415",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12704,7 +12701,7 @@ const PRODUCTS = [
   "price_rub": 900,
   "old_rub": 4100,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_721fb0df-95da-41ae-a32e-0fd550f8a1f3.png?v=1728956516",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_2d60ed91-6789-4f3d-acd2-d64a56bab7b6.png?v=1728956629",
@@ -12714,7 +12711,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_1ed186ae-56a8-462f-9718-087d6daa9754.png?v=1730286650"
   ],
   "sku": "JBJG",
-  "source_url": "https://www.burkerwatches.com/ru/products/june-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/june-gold?variant=50483984597319",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12738,7 +12735,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-96.jpg?v=1710254249"
   ],
   "sku": "JBJS",
-  "source_url": "https://www.burkerwatches.com/ru/products/june-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/june-gold?variant=50483984564551",
   "source_price_eur": "5.80",
   "source_regular_eur": "29.00",
   "price_rate": 140
@@ -12762,7 +12759,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBAVAGBR.jpg?v=1793969287"
   ],
   "sku": "JBAGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-gold-brown?variant=48970148708679",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -12782,13 +12779,12 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_gold_brown_2.png?v=1704171650",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_gold_brown_3.png?v=1704171650",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/MACGBR.jpg?v=1783888787",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-Gold-Brown-3.jpg?v=1704171650",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/MACGBR2.jpg?v=1783888788",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_gold_brown_3ce82bea-1633-44f4-ac94-50e6838c1272.png?v=1785270970",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/MACGBR4.jpg?v=1783888787"
   ],
   "sku": "MCGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-brown?variant=48871477379399",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -12807,14 +12803,13 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_brown_1.png?v=1703586006",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_brown_2.png?v=1706795743",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_brown_3.png?v=1706795743",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_brown_192682e9-56e1-47eb-9461-baad79fae40a.png?v=1790330163",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-Gold-Brown-10.jpg?v=1706795743",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_brown_e5abae3b-bbee-4bd4-a59e-91aa628cdfcc.png?v=1794244531",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/ISAGBR.jpg?v=1783888870",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-Gold-Brown-13.jpg?v=1706795743",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/isabell_gold_brown1.jpg?v=1794234029",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/ISAGBR2.jpg?v=1783888870"
   ],
   "sku": "ISAGBR",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-brown",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-brown?variant=48871475904839",
   "source_price_eur": "32.70",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -12837,7 +12832,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_black_2e49a69e-3240-491f-aecf-5c8505ee163c.png?v=1785272174"
   ],
   "sku": "JBAGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-gold-black?variant=48645233312071",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -12862,7 +12857,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_gold_white_71fac2e5-6e86-4d97-933e-a8b6b387ad28.png?v=1785272327"
   ],
   "sku": "JBAGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-gold?variant=48645226037575",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -12886,7 +12881,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBAVAWS.jpg?v=1773743549"
   ],
   "sku": "JBASW",
-  "source_url": "https://www.burkerwatches.com/ru/products/ava-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/ava-silver?variant=48645216600391",
   "source_price_eur": "15.60",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -12911,7 +12906,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_gold_white_edab8ae7-f752-4938-9949-9b34339ea16c.png?v=1785271183"
   ],
   "sku": "MCGW",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-white?variant=48314185679175",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -12934,7 +12929,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_silver_white_7b01ec25-1329-4551-a527-e122d003f637.png?v=1785271354"
   ],
   "sku": "MCSW",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-silver-white",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-silver-white?variant=48314119225671",
   "source_price_eur": "59.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -12960,7 +12955,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/MACGSB2.jpg?v=1783889001"
   ],
   "sku": "MCBGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-black-gold-silver?variant=48314112672071",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -12986,7 +12981,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/MACGSW3.jpg?v=1783889067"
   ],
   "sku": "MCGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-silver?variant=48314028392775",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -13012,7 +13007,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/MACGB_0a0ea940-df1b-4105-89c2-53ef5280b55a.jpg?v=1783889125"
   ],
   "sku": "MCGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-gold-black?variant=48313831948615",
   "source_price_eur": "54.50",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -13036,7 +13031,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Macy_silver_black_b5b26b79-81e4-4502-8b98-c6b1163587c2.png?v=1785271264"
   ],
   "sku": "MCSB",
-  "source_url": "https://www.burkerwatches.com/ru/products/macy-silver-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/macy-silver-black?variant=48313813238087",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -13060,7 +13055,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_silver_white_81a62b76-5ae4-4809-9f85-e967c37326b9.png?v=1785270005"
   ],
   "sku": "ISAS",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-silver?variant=39670815555628",
   "source_price_eur": "49.00",
   "source_regular_eur": "99.00",
   "price_rate": 140
@@ -13074,7 +13069,7 @@ const PRODUCTS = [
   "price_rub": 8400,
   "old_rub": 16700,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/products/Isabell_blac_gold_silver_1.png?v=1651570160",
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/products/Isabell_blac_gold_silver_2.png?v=1679893719",
@@ -13084,7 +13079,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_black_gold_silver_f88c0c4d-1458-4c5c-af84-ca7645d01fae.png?v=1785485473"
   ],
   "sku": "ISABGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-black-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-black-gold-silver?variant=34862364524588",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -13108,7 +13103,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_black_3abddd7f-4ad1-46e4-95e8-eeb15811e896.png?v=1785269493"
   ],
   "sku": "ISAGB",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-black",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-black?variant=34862362984492",
   "source_price_eur": "32.70",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -13132,7 +13127,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_gold_silver_28665e5d-e350-4fb0-b702-3847b1f59a55.png?v=1785485553"
   ],
   "sku": "ISAGS",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-silver",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold-silver?variant=34862355578924",
   "source_price_eur": "59.50",
   "source_regular_eur": "119.00",
   "price_rate": 140
@@ -13160,7 +13155,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/ISABELLWG.jpg?v=1761673535"
   ],
   "sku": "ISAG",
-  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/isabell-gold?variant=34862355316780",
   "source_price_eur": "32.70",
   "source_regular_eur": "109.00",
   "price_rate": 140
@@ -13185,7 +13180,7 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_silver_ad44d676-ce07-45dd-a6d5-3f59db88a13a.png?v=1785272519"
   ],
   "sku": "VG",
-  "source_url": "https://www.burkerwatches.com/ru/products/violet-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/violet-gold?variant=50484026802503",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
@@ -13210,569 +13205,452 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Violet_silver_ad44d676-ce07-45dd-a6d5-3f59db88a13a.png?v=1785272519"
   ],
   "sku": "VS",
-  "source_url": "https://www.burkerwatches.com/ru/products/violet-gold",
+  "source_url": "https://www.burkerwatches.com/ru/products/violet-gold?variant=50484026835271",
   "source_price_eur": "11.70",
   "source_regular_eur": "39.00",
   "price_rate": 140
  },
  {
-  "id": 54113027621191,
-  "product_id": 10844971139399,
-  "title": "Ava Silver Pink Bracelet",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 5500,
-  "old_rub": null,
+  "id": 57192266203441,
+  "product_id": 10914496151857,
+  "sku": "20009-OB",
+  "title": "Melting Watch Small Silver (Open Box) — Black / White",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 7300,
+  "old_rub": 12100,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_silver_pink_1.png?v=1780999989",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_Silver_Pink2.jpg?v=1781000920",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC08983.jpg?v=1781000783"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_1_dcb4bfcb-1031-4273-9cbc-66a838be2c2c_1.png?v=1779562528",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_ab299818-d822-4765-872f-6822be3e0692.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-33.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_2.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-_3.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/blackslvrblackdial.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/salmonsmall_1.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_1.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silvergreen.png?v=1763084496",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_cdc6c84b-cbba-458d-b250-dde23d67ad43.png?v=1779565104"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-small-silver-open-box-copy?variant=57192266203441",
+  "price_rate": 111,
+  "source_price_usd": "65.40",
+  "source_regular_usd": "109.00",
+  "model_name": "Melting Watch Small Silver (Open Box)",
+  "variant": "Black / White"
  },
  {
-  "id": 53129557934407,
-  "product_id": 10602378363207,
-  "title": "Love Bracelet Gold",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
+  "id": 57192266236209,
+  "product_id": 10914496151857,
+  "sku": "21009-OB",
+  "title": "Melting Watch Small Silver (Open Box) — Black / Black",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 7300,
+  "old_rub": 12100,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Valentines_gift_1_1e8ed914-549f-4577-b3a0-cf387b7d13f8.png?v=1769133832",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Love_Bracelet_Gold.jpg?v=1777544459",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Love_Bracelet_Gold2.jpg?v=1777544459"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/blackslvrblackdial.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_1_dcb4bfcb-1031-4273-9cbc-66a838be2c2c_1.png?v=1779562528",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_ab299818-d822-4765-872f-6822be3e0692.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-33.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_2.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-_3.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/salmonsmall_1.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_1.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silvergreen.png?v=1763084496",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_cdc6c84b-cbba-458d-b250-dde23d67ad43.png?v=1779565104"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-small-silver-open-box-copy?variant=57192266236209",
+  "price_rate": 111,
+  "source_price_usd": "65.40",
+  "source_regular_usd": "109.00",
+  "model_name": "Melting Watch Small Silver (Open Box)",
+  "variant": "Black / Black"
  },
  {
-  "id": 53012741194055,
-  "product_id": 10564332945735,
-  "title": "Norela Earrings Gold",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
+  "id": 57192266268977,
+  "product_id": 10914496151857,
+  "sku": "20055-OB",
+  "title": "Melting Watch Small Silver (Open Box) — Black / Salmon",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 7300,
+  "old_rub": 12100,
   "sale": true,
   "available": false,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_earrings_gold.png?v=1767360354",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_earrings_silver.png?v=1767360354",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_Ear_1.jpg?v=1772230638",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_Ear_2.jpg?v=1772230637",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_Ear_3.jpg?v=1772230637"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/salmonsmall_1.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_1_dcb4bfcb-1031-4273-9cbc-66a838be2c2c_1.png?v=1779562528",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_ab299818-d822-4765-872f-6822be3e0692.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-33.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_2.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-_3.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/blackslvrblackdial.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_1.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silvergreen.png?v=1763084496",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_cdc6c84b-cbba-458d-b250-dde23d67ad43.png?v=1779565104"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-small-silver-open-box-copy?variant=57192266268977",
+  "price_rate": 111,
+  "source_price_usd": "65.40",
+  "source_regular_usd": "109.00",
+  "model_name": "Melting Watch Small Silver (Open Box)",
+  "variant": "Black / Salmon"
  },
  {
-  "id": 53012741226823,
-  "product_id": 10564332945735,
-  "title": "Norela Earrings Silver",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
+  "id": 57192266301745,
+  "product_id": 10914496151857,
+  "sku": "20059-OB",
+  "title": "Melting Watch Small Silver (Open Box) — Black / Arabic",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 7300,
+  "old_rub": 12100,
   "sale": true,
   "available": false,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_earrings_silver.png?v=1767360354",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_earrings_gold.png?v=1767360354",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_Ear_1.jpg?v=1772230638",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_Ear_2.jpg?v=1772230637",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_Ear_3.jpg?v=1772230637"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_cdc6c84b-cbba-458d-b250-dde23d67ad43.png?v=1779565104",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_1_dcb4bfcb-1031-4273-9cbc-66a838be2c2c_1.png?v=1779562528",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_ab299818-d822-4765-872f-6822be3e0692.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-33.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_2.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-_3.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/blackslvrblackdial.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/salmonsmall_1.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_1.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silvergreen.png?v=1763084496",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-small-silver-open-box-copy?variant=57192266301745",
+  "price_rate": 111,
+  "source_price_usd": "65.40",
+  "source_regular_usd": "109.00",
+  "model_name": "Melting Watch Small Silver (Open Box)",
+  "variant": "Black / Arabic"
  },
  {
-  "id": 53012730904903,
-  "product_id": 10564330160455,
-  "title": "Nova Earrings Gold",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
+  "id": 57192266334513,
+  "product_id": 10914496151857,
+  "sku": "20010-OB",
+  "title": "Melting Watch Small Silver (Open Box) — Brown / White",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 7300,
+  "old_rub": 12100,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_earrings_gold.png?v=1767086681",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_earrings_silver.png?v=1767086682",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_Ear_1.jpg?v=1772230724",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_Ear_2.jpg?v=1772230724"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_1.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_1_dcb4bfcb-1031-4273-9cbc-66a838be2c2c_1.png?v=1779562528",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_ab299818-d822-4765-872f-6822be3e0692.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-33.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_2.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-_3.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/blackslvrblackdial.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/salmonsmall_1.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silvergreen.png?v=1763084496",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_cdc6c84b-cbba-458d-b250-dde23d67ad43.png?v=1779565104"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-small-silver-open-box-copy?variant=57192266334513",
+  "price_rate": 111,
+  "source_price_usd": "65.40",
+  "source_regular_usd": "109.00",
+  "model_name": "Melting Watch Small Silver (Open Box)",
+  "variant": "Brown / White"
  },
  {
-  "id": 53012730937671,
-  "product_id": 10564330160455,
-  "title": "Nova Earrings Silver",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
+  "id": 57192266367281,
+  "product_id": 10914496151857,
+  "sku": "20032-OB",
+  "title": "Melting Watch Small Silver (Open Box) — Green / White",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 7300,
+  "old_rub": 12100,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_earrings_silver.png?v=1767086682",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_earrings_gold.png?v=1767086681",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_Ear_1.jpg?v=1772230724",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_Ear_2.jpg?v=1772230724"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silvergreen.png?v=1763084496",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_1_dcb4bfcb-1031-4273-9cbc-66a838be2c2c_1.png?v=1779562528",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_ab299818-d822-4765-872f-6822be3e0692.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-33.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_2.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-_3.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/blackslvrblackdial.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/salmonsmall_1.webp?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_1.png?v=1760132474",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_cdc6c84b-cbba-458d-b250-dde23d67ad43.png?v=1779565104"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-small-silver-open-box-copy?variant=57192266367281",
+  "price_rate": 111,
+  "source_price_usd": "65.40",
+  "source_regular_usd": "109.00",
+  "model_name": "Melting Watch Small Silver (Open Box)",
+  "variant": "Green / White"
  },
  {
-  "id": 52587395776839,
-  "product_id": 10434201256263,
-  "title": "Jade Gold Burgundy Bracelet",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
+  "id": 57017548603697,
+  "product_id": 10893722124593,
+  "sku": "40033",
+  "title": "Bloc Large Gold Lime/Cream Edition",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 8800,
+  "old_rub": 10900,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Jade_gold_burgundy_1.png?v=1763640224",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Jade_gold_burgundy_2.png?v=1763640229"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_6e6f67b0-33f5-48c7-a1e5-9262d2bedd9d.png?v=1792629683",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/IMG_0238.jpg?v=1792798792",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_26d8f4d2-0357-43e6-a71d-5f078df24397.png?v=1792629683",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_7bced226-5040-461b-b0be-5243ba5a4f40.png?v=1792629682",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_5ada8f01-e76e-4b3f-a2cc-19c6b78a26fd.png?v=1792629683"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/bloc-large-gold-lime-cream-edition?variant=57017548603697",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00",
+  "model_name": "Bloc Large Gold Lime/Cream Edition",
+  "variant": "Default Title"
  },
  {
-  "id": 52145177723207,
-  "product_id": 10305406206279,
-  "title": "Cassie Earrings Gold",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
+  "id": 57017546801457,
+  "product_id": 10893721633073,
+  "sku": "40038",
+  "title": "Bloc Large Silver Pink/Eggshell Edition",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 8800,
+  "old_rub": 10900,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cassi_gold_earrings_1_f433ec40-779b-47fb-a229-a30256e9f0d2.png?v=1784285080",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JECASG.jpg?v=1756471935",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JECASG_1.jpg?v=1756471935",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cassi_silver_earrings_1_ecbd16f3-cbfc-4829-935e-686b5974468c.png?v=1784285086"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_7d058d78-1745-475e-9bea-083441028fb3.png?v=1792629692",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/IMG_0399.jpg?v=1792706693",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_14412147-4c88-4fc3-ae8c-31caaed5c00f.png?v=1792629692",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_675870cf-23b6-4e86-b459-416c31a00cb6.png?v=1792629692",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_f26273ca-eb43-4a5e-8f36-0187b96f4747.png?v=1792629692"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/bloc-large-silver-pink-eggshell?variant=57017546801457",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00",
+  "model_name": "Bloc Large Silver Pink/Eggshell Edition",
+  "variant": "Default Title"
  },
  {
-  "id": 52145177755975,
-  "product_id": 10305406206279,
-  "title": "Cassie Earrings Silver",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
+  "id": 55712069779761,
+  "product_id": 10760696529201,
+  "sku": "50040",
+  "title": "Bloc Large Two Tone — White",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 14200,
+  "old_rub": 17700,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cassi_silver_earrings_1_ecbd16f3-cbfc-4829-935e-686b5974468c.png?v=1784285086",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cassi_gold_earrings_1_f433ec40-779b-47fb-a229-a30256e9f0d2.png?v=1784285080",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JECASG.jpg?v=1756471935",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JECASG_1.jpg?v=1756471935"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/GW5TP_1.png?v=1792797203",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/FLOATINGWHITEGOLDTP.png?v=1792797203",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/BACKGOLDNOREFLECTIONTP.png?v=1792797204",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/GB4_TP.png?v=1792797241"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/bloc-large-two-tone-steel?variant=55712069779761",
+  "price_rate": 111,
+  "source_price_usd": "127.20",
+  "source_regular_usd": "159.00",
+  "model_name": "Bloc Large Two Tone",
+  "variant": "White"
  },
  {
-  "id": 52150305128775,
-  "product_id": 10306240381255,
-  "title": "Flora Gold White Set",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 11100,
-  "old_rub": null,
+  "id": 55712046678321,
+  "product_id": 10760696529201,
+  "sku": "50041",
+  "title": "Bloc Large Two Tone — Black",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 14200,
+  "old_rub": 17700,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Flora_gold_white_set_1.png?v=1755512378",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JSFGW-1.jpg?v=1756466773",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JSFGW-2.jpg?v=1756466773",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JSFGW.jpg?v=1756466773"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/GB4_TP.png?v=1792797241",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/GW5TP_1.png?v=1792797203",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/FLOATINGWHITEGOLDTP.png?v=1792797203",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/BACKGOLDNOREFLECTIONTP.png?v=1792797204"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/bloc-large-two-tone-steel?variant=55712046678321",
+  "price_rate": 111,
+  "source_price_usd": "127.20",
+  "source_regular_usd": "159.00",
+  "model_name": "Bloc Large Two Tone",
+  "variant": "Black"
  },
  {
-  "id": 51627545723207,
-  "product_id": 10180320297287,
-  "title": "Fiona Chic Earrings Gold",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 5500,
-  "old_rub": null,
+  "id": 55712046088497,
+  "product_id": 10760695972145,
+  "sku": "50050",
+  "title": "Bloc Large Silver — White",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 14200,
+  "old_rub": 17700,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_chic_earrings_gold.png?v=1749711350",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFIONACG.jpg?v=1750908849",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFIONACG_1.jpg?v=1750908849",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFIONACG_2.jpg?v=1750908849"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SW4_TP_8a563377-2016-454c-bfca-2011f6492ef5.png?v=1792797065",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/IMG_5907crop.jpg?v=1792797045",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SILVER_BACK_NO_REFLECTION.png?v=1792797065",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/WHITE_SILVER_TP.png?v=1792797086",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SB4TP.png?v=1792797144",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SG4TP.png?v=1792797173",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SR4TP_1.png?v=1794350501"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/bloc-large-silver-steel?variant=55712046088497",
+  "price_rate": 111,
+  "source_price_usd": "127.20",
+  "source_regular_usd": "159.00",
+  "model_name": "Bloc Large Silver",
+  "variant": "White"
  },
  {
-  "id": 51627545755975,
-  "product_id": 10180320297287,
-  "title": "Fiona Chic Earrings Silver",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 5500,
-  "old_rub": null,
+  "id": 55712069845297,
+  "product_id": 10760695972145,
+  "sku": "50051",
+  "title": "Bloc Large Silver — Black",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 14200,
+  "old_rub": 17700,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_chic_earrings_gold.png?v=1749711350",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFIONACG.jpg?v=1750908849",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFIONACG_1.jpg?v=1750908849",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFIONACG_2.jpg?v=1750908849"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SB4TP.png?v=1792797144",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SW4_TP_8a563377-2016-454c-bfca-2011f6492ef5.png?v=1792797065",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/IMG_5907crop.jpg?v=1792797045",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SILVER_BACK_NO_REFLECTION.png?v=1792797065",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/WHITE_SILVER_TP.png?v=1792797086",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SG4TP.png?v=1792797173",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SR4TP_1.png?v=1794350501"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/bloc-large-silver-steel?variant=55712069845297",
+  "price_rate": 111,
+  "source_price_usd": "127.20",
+  "source_regular_usd": "159.00",
+  "model_name": "Bloc Large Silver",
+  "variant": "Black"
  },
  {
-  "id": 51627526455623,
-  "product_id": 10180309254471,
-  "title": "Trinity Necklace Gold",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 6900,
-  "old_rub": null,
+  "id": 55712046121265,
+  "product_id": 10760695972145,
+  "sku": "50053",
+  "title": "Bloc Large Silver — Emerald",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 14200,
+  "old_rub": 17700,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Trinity_gold.png?v=1749711605",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07568.jpg?v=1749711605",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07594.jpg?v=1749711605"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SG4TP.png?v=1792797173",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SW4_TP_8a563377-2016-454c-bfca-2011f6492ef5.png?v=1792797065",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/IMG_5907crop.jpg?v=1792797045",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SILVER_BACK_NO_REFLECTION.png?v=1792797065",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/WHITE_SILVER_TP.png?v=1792797086",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SB4TP.png?v=1792797144",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SR4TP_1.png?v=1794350501"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/bloc-large-silver-steel?variant=55712046121265",
+  "price_rate": 111,
+  "source_price_usd": "127.20",
+  "source_regular_usd": "159.00",
+  "model_name": "Bloc Large Silver",
+  "variant": "Emerald"
  },
  {
-  "id": 51627526488391,
-  "product_id": 10180309254471,
-  "title": "Trinity Necklace Silver",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 6900,
-  "old_rub": null,
+  "id": 55712046154033,
+  "product_id": 10760695972145,
+  "sku": "50052",
+  "title": "Bloc Large Silver — Burgundy",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 14200,
+  "old_rub": 17700,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Trinity_gold.png?v=1749711605",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07568.jpg?v=1749711605",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07594.jpg?v=1749711605"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SR4TP_1.png?v=1794350501",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SW4_TP_8a563377-2016-454c-bfca-2011f6492ef5.png?v=1792797065",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/IMG_5907crop.jpg?v=1792797045",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SILVER_BACK_NO_REFLECTION.png?v=1792797065",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/WHITE_SILVER_TP.png?v=1792797086",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SB4TP.png?v=1792797144",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/SG4TP.png?v=1792797173"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/bloc-large-silver-steel?variant=55712046154033",
+  "price_rate": 111,
+  "source_price_usd": "127.20",
+  "source_regular_usd": "159.00",
+  "model_name": "Bloc Large Silver",
+  "variant": "Burgundy"
  },
  {
-  "id": 50484660994375,
-  "product_id": 9750741287239,
-  "title": "Flora Gold White Earrings",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
+  "id": 53830466273585,
+  "product_id": 10652722331953,
+  "sku": "40100",
+  "title": "Corvo Large Two-Tone",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 10300,
+  "old_rub": 12800,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_4e0c34ed-6965-430c-89ce-c39869e743e1.png?v=1732713076",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-40.jpg?v=1735040585",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-44.jpg?v=1735040595"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-17_c904a75a-5f92-433e-b49f-a024ed1a35a0.png?v=1792630032",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/IMG_9989.jpg?v=1792706719",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20_04f90297-3e1e-4aab-b82b-69aa2e26f660.png?v=1792630032",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-21_79b53694-5a2a-4233-a4ad-90f09f5f9c43.png?v=1792630032",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18_152b09f5-9644-45b0-9213-4d40f6120f60.png?v=1792630051"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/corvo-two-tone?variant=53830466273585",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00",
+  "model_name": "Corvo Large Two-Tone",
+  "variant": "Default Title"
  },
  {
-  "id": 50484619641159,
-  "product_id": 9750711796039,
-  "title": "Flora Gold White Ring",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
+  "id": 53830466208049,
+  "product_id": 10652722266417,
+  "sku": "40090",
+  "title": "Corvo Large Silver",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 10300,
+  "old_rub": 12800,
   "sale": true,
-  "available": false,
+  "available": true,
   "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_ce76796c-0ea2-4de1-ba72-d620934167a3.png?v=1732713109",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-38.jpg?v=1735040650",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-39.jpg?v=1735040649"
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-16_82eda73b-69d2-46ed-b22e-90ac8539e256.png?v=1792630051",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/IMG_0491_1.jpg?v=1792706729",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19_ebb9c93b-87a7-4b3d-9106-febd98db0b81.png?v=1792630051",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-22_0b8c9c31-4a29-4602-a223-d48ac68d844c.png?v=1792630051",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18_152b09f5-9644-45b0-9213-4d40f6120f60.png?v=1792630051"
   ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 50484607713607,
-  "product_id": 9750699966791,
-  "title": "Flora Gold Black Earrings",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_dd2450e8-2830-4a4a-a2b5-2f8c9e2d6829.png?v=1732712032",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-fw24-261.jpg?v=1735040310",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-fw24-254.jpg?v=1735040310",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-fw24-255.jpg?v=1735040310"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 50484606665031,
-  "product_id": 9750698656071,
-  "title": "Flora Silver White Earrings",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_4aaa4295-ad8c-41a7-ad4e-b3f5a27a7980.png?v=1732714022",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFLORASW.jpg?v=1739803016",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFLORASW1.jpg?v=1739803016"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 50484522451271,
-  "product_id": 9750640165191,
-  "title": "Flora Gold Black Necklace",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 5500,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_68fdc5f2-7e51-4cb3-aa48-51a59ead76be.png?v=1732712304",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_8feb7f45-9747-4252-8d2f-be5b1bdb791e.png?v=1732712304",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-16.jpg?v=1735040331"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 50484510163271,
-  "product_id": 9750634168647,
-  "title": "Flora Silver White Bracelet",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_bbec645d-0cbc-434b-845e-c0c7aa5c08d7.png?v=1732198233",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_59503c98-fad9-443f-9ccb-7c7dcd82aad8.png?v=1732198234",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFLORASW.jpg?v=1739802263",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFLORASW1.jpg?v=1739802263",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFLORASW2.jpg?v=1739802282"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 50719795151175,
-  "product_id": 9874934563143,
-  "title": "Flora Silver Ring",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_13c273ca-0fcf-4c3d-b5e7-e2b48ea0ecf9.png?v=1733896206",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-53.jpg?v=1733898982"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 50484616462663,
-  "product_id": 9750707831111,
-  "title": "Flora Gold Ring",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JRFG.png?v=1732712899",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-68.jpg?v=1733898803",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-77.jpg?v=1733898803"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 50484604109127,
-  "product_id": 9750697836871,
-  "title": "Flora Gold Earrings",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_e181ba7f-93ae-45fb-95c2-c93dccd0f07a.png?v=1732712346",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-75.jpg?v=1733898862",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-66_c9d89d97-995c-47b4-bb84-3f6f058d106c.jpg?v=1733898862"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 50484602503495,
-  "product_id": 9750696395079,
-  "title": "Flora Silver Earrings",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_158b085e-0da7-41a2-997c-7d8b85c4d3eb.png?v=1732713118",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-61.jpg?v=1733899231",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-57.jpg?v=1733899231"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 50484519502151,
-  "product_id": 9750638494023,
-  "title": "Flora Gold Necklace",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 5500,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_4b792c27-1432-4c9b-805d-ac5a5a66a23f.png?v=1732712583",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-76.jpg?v=1733898709",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_92acab11-b7e8-497c-a55e-c8fd9bc223f9.png?v=1733898709",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-66.jpg?v=1733898709"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 50484505772359,
-  "product_id": 9750632694087,
-  "title": "Flora Silver Bracelet",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_9068295f-ab74-4187-929d-37bd63fc660f.png?v=1731928930",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_cb3c0e84-1847-437c-b875-717fdfbd998b.png?v=1731928931",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-58.jpg?v=1731926726",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-50.jpg?v=1731926746"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 50324445823303,
-  "product_id": 9674422649159,
-  "title": "Jade Gold Black Bracelet",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_bb6d45ea-266d-4767-a5c0-34ed726b71ec.png?v=1728956251",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_4a326eae-bb9f-4ea7-9742-f5c86f098191.png?v=1728956251",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-143.jpg?v=1728959880",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-144.jpg?v=1728959887"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 50324442874183,
-  "product_id": 9674422059335,
-  "title": "Jade Gold Brown Bracelet",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_7da90aea-e690-4770-9a23-47595477219e.png?v=1729499581",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_b04e9fd2-c264-48a5-bd7c-0cf8a2fface8.png?v=1729499580",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-137.jpg?v=1728959686",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-136.jpg?v=1728959686"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 49166856094023,
-  "product_id": 9080136859975,
-  "title": "Jade Silver Bracelet",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_b225eef1-34ce-468e-b8c6-c68ca98209ef.png?v=1728956331",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_d492bc30-db92-4850-8ee7-0a64d4cfa38c.png?v=1728956330",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-97.jpg?v=1710254246",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-104.jpg?v=1710254246"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
- },
- {
-  "id": 49166836203847,
-  "product_id": 9080128340295,
-  "title": "Jade Gold Bracelet",
-  "type": "Jewelry",
-  "brand": "BURKER WATCHES",
-  "price_rub": 4100,
-  "old_rub": null,
-  "sale": true,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_fae3e9a4-cde6-42c6-b1a1-4ec332fa4fa1.png?v=1728956227",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_d412bf77-1c98-4146-af85-8944fa895f77.png?v=1728956376",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-48.jpg?v=1710254242",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-98.jpg?v=1710254242",
-   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-102.jpg?v=1710254242"
-  ],
-  "availability_label": "НЕДОСТУПНО ДЛЯ ЗАКАЗА",
-  "source_status": "not_in_current_public_export"
+  "source_url": "https://laphont.com/en-us/products/corvo-silver?variant=53830466208049",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00",
+  "model_name": "Corvo Large Silver",
+  "variant": "Default Title"
  },
  {
   "id": 56182443311409,
@@ -13782,7 +13660,7 @@ const PRODUCTS = [
   "variant": "Red",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 8500,
+  "price_rub": 8400,
   "old_rub": 9900,
   "sale": true,
   "available": true,
@@ -13798,7 +13676,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/yellowcrop.png?v=1790963512",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/bluecrop_ced731de-886c-4f0c-b823-3e257eff136d.png?v=1791041047"
   ],
-  "source_url": "https://laphont.com/en-us/products/button-36mm?variant=56182443311409"
+  "source_url": "https://laphont.com/en-us/products/button-36mm?variant=56182443311409",
+  "sku": "40200",
+  "price_rate": 111,
+  "source_price_usd": "75.00",
+  "source_regular_usd": "89.00"
  },
  {
   "id": 56182443376945,
@@ -13808,7 +13690,7 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 8500,
+  "price_rub": 8400,
   "old_rub": 9900,
   "sale": true,
   "available": true,
@@ -13824,7 +13706,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/yellowcrop.png?v=1790963512",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/bluecrop_ced731de-886c-4f0c-b823-3e257eff136d.png?v=1791041047"
   ],
-  "source_url": "https://laphont.com/en-us/products/button-36mm?variant=56182443376945"
+  "source_url": "https://laphont.com/en-us/products/button-36mm?variant=56182443376945",
+  "sku": "40202",
+  "price_rate": 111,
+  "source_price_usd": "75.00",
+  "source_regular_usd": "89.00"
  },
  {
   "id": 56182443409713,
@@ -13834,7 +13720,7 @@ const PRODUCTS = [
   "variant": "Navy",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 8500,
+  "price_rub": 8400,
   "old_rub": 9900,
   "sale": true,
   "available": true,
@@ -13850,7 +13736,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/slatecrop.png?v=1790963512",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/yellowcrop.png?v=1790963512"
   ],
-  "source_url": "https://laphont.com/en-us/products/button-36mm?variant=56182443409713"
+  "source_url": "https://laphont.com/en-us/products/button-36mm?variant=56182443409713",
+  "sku": "40201",
+  "price_rate": 111,
+  "source_price_usd": "75.00",
+  "source_regular_usd": "89.00"
  },
  {
   "id": 56182443442481,
@@ -13860,7 +13750,7 @@ const PRODUCTS = [
   "variant": "Butter",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 8500,
+  "price_rub": 8400,
   "old_rub": 9900,
   "sale": true,
   "available": true,
@@ -13876,7 +13766,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/slatecrop.png?v=1790963512",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/bluecrop_ced731de-886c-4f0c-b823-3e257eff136d.png?v=1791041047"
   ],
-  "source_url": "https://laphont.com/en-us/products/button-36mm?variant=56182443442481"
+  "source_url": "https://laphont.com/en-us/products/button-36mm?variant=56182443442481",
+  "sku": "40203",
+  "price_rate": 111,
+  "source_price_usd": "75.00",
+  "source_regular_usd": "89.00"
  },
  {
   "id": 56182443475249,
@@ -13886,7 +13780,7 @@ const PRODUCTS = [
   "variant": "Slate Blue",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 8500,
+  "price_rub": 8400,
   "old_rub": 9900,
   "sale": true,
   "available": true,
@@ -13902,7 +13796,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/yellowcrop.png?v=1790963512",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/bluecrop_ced731de-886c-4f0c-b823-3e257eff136d.png?v=1791041047"
   ],
-  "source_url": "https://laphont.com/en-us/products/button-36mm?variant=56182443475249"
+  "source_url": "https://laphont.com/en-us/products/button-36mm?variant=56182443475249",
+  "sku": "40204",
+  "price_rate": 111,
+  "source_price_usd": "75.00",
+  "source_regular_usd": "89.00"
  },
  {
   "id": 56182446260529,
@@ -13912,7 +13810,7 @@ const PRODUCTS = [
   "variant": "Pink",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 8500,
+  "price_rub": 8400,
   "old_rub": 9900,
   "sale": true,
   "available": true,
@@ -13928,7 +13826,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/yellowcrop.png?v=1790963512",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/bluecrop_ced731de-886c-4f0c-b823-3e257eff136d.png?v=1791041047"
   ],
-  "source_url": "https://laphont.com/en-us/products/button-36mm?variant=56182446260529"
+  "source_url": "https://laphont.com/en-us/products/button-36mm?variant=56182446260529",
+  "sku": "40205",
+  "price_rate": 111,
+  "source_price_usd": "75.00",
+  "source_regular_usd": "89.00"
  },
  {
   "id": 55712056246577,
@@ -13938,9 +13840,9 @@ const PRODUCTS = [
   "variant": "Default Title",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_971b0710-a073-4451-9889-d1dee5793af3.png?v=1787862395",
@@ -13948,7 +13850,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_7dbba872-d38a-4ff2-93df-fe6dbcd3701c.png?v=1787862395",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_bbeca20d-51ea-41d1-8ac3-1000ae2a2f4b.png?v=1787862395"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-small-gold-blurry-edition?variant=55712056246577"
+  "source_url": "https://laphont.com/en-us/products/bloc-small-gold-blurry-edition?variant=55712056246577",
+  "sku": "41140",
+  "price_rate": 111,
+  "source_price_usd": "68.60",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712056148273,
@@ -13958,9 +13864,9 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_02c8a89f-a7c8-44b4-ac73-287c8305eb8f.png?v=1787860554",
@@ -13970,7 +13876,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_3ae3c709-60e5-4b5e-a78b-093e10bc692a.png?v=1787860554",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_4d42e42a-e6b7-449a-9afe-30bc1b6098c7.png?v=1787860554"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-small-gold-polka-edition?variant=55712056148273"
+  "source_url": "https://laphont.com/en-us/products/bloc-small-gold-polka-edition?variant=55712056148273",
+  "sku": "43140",
+  "price_rate": 111,
+  "source_price_usd": "68.60",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712056181041,
@@ -13980,9 +13890,9 @@ const PRODUCTS = [
   "variant": "Multi",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_4d42e42a-e6b7-449a-9afe-30bc1b6098c7.png?v=1787860554",
@@ -13992,7 +13902,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_e561f03c-36c1-4aae-adb9-b25d0283c504.png?v=1787860554",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_3ae3c709-60e5-4b5e-a78b-093e10bc692a.png?v=1787860554"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-small-gold-polka-edition?variant=55712056181041"
+  "source_url": "https://laphont.com/en-us/products/bloc-small-gold-polka-edition?variant=55712056181041",
+  "sku": "44140",
+  "price_rate": 111,
+  "source_price_usd": "68.60",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712055787825,
@@ -14002,9 +13916,9 @@ const PRODUCTS = [
   "variant": "Default Title",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_060db058-3340-478a-8df7-e0acb94a04f0.png?v=1787860821",
@@ -14012,7 +13926,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_b59d1644-62ed-43d2-b068-08d48c4dc0f8.png?v=1787860820",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_56aa2a35-6399-470c-972b-026253f00344.png?v=1787860820"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-small-gold-drawn-edition?variant=55712055787825"
+  "source_url": "https://laphont.com/en-us/products/bloc-small-gold-drawn-edition?variant=55712055787825",
+  "sku": "42140",
+  "price_rate": 111,
+  "source_price_usd": "68.60",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712055984433,
@@ -14022,9 +13940,9 @@ const PRODUCTS = [
   "variant": "Multi",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_e08c8331-a9e6-4282-8669-f11159375190.png?v=1787859191",
@@ -14033,7 +13951,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_916666a7-c1a1-4702-8e02-20917b13a0ff.png?v=1787859191",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_c5fd4735-aa38-4c86-ae5b-010c57603e6f.png?v=1788015806"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-small-silver-polka-edition?variant=55712055984433"
+  "source_url": "https://laphont.com/en-us/products/bloc-small-silver-polka-edition?variant=55712055984433",
+  "sku": "44145",
+  "price_rate": 111,
+  "source_price_usd": "68.60",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712055951665,
@@ -14043,9 +13965,9 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_c5fd4735-aa38-4c86-ae5b-010c57603e6f.png?v=1788015806",
@@ -14054,7 +13976,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_672dba3b-08c6-4928-852a-eb89190a74f4.png?v=1787859191",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_916666a7-c1a1-4702-8e02-20917b13a0ff.png?v=1787859191"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-small-silver-polka-edition?variant=55712055951665"
+  "source_url": "https://laphont.com/en-us/products/bloc-small-silver-polka-edition?variant=55712055951665",
+  "sku": "43145",
+  "price_rate": 111,
+  "source_price_usd": "68.60",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712055689521,
@@ -14064,16 +13990,20 @@ const PRODUCTS = [
   "variant": "Default Title",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_ae43c4f5-adf9-47cd-ba53-503d9cdb3a29.png?v=1787862504",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_67604952-329a-4226-83d2-774d5062c4ba.png?v=1787862504",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_1b0c86ea-935d-491e-8e8a-21b1faccc220.png?v=1787862504"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-small-silver-blurry-edition?variant=55712055689521"
+  "source_url": "https://laphont.com/en-us/products/bloc-small-silver-blurry-edition?variant=55712055689521",
+  "sku": "41145",
+  "price_rate": 111,
+  "source_price_usd": "68.60",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712055591217,
@@ -14083,37 +14013,20 @@ const PRODUCTS = [
   "variant": "Default Title",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_8b232f09-519a-4f87-9301-ba88bb4dd17a.png?v=1787862035",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_4b4a58cf-f082-4b9a-a269-b75b8d147a1a.png?v=1787862035",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_071598cd-0da4-4fb1-8cba-31f41b990c68.png?v=1787862035"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-small-silver-drawn-edition?variant=55712055591217"
- },
- {
-  "id": 55712055492913,
-  "product_id": 10760699445553,
-  "title": "Bloc Large Silver Drawn Edition",
-  "model_name": "Bloc Large Silver Drawn Edition",
-  "variant": "Default Title",
-  "type": "Watch",
-  "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_d810433e-0766-4a7a-bbc0-fb3c0094c755.png?v=1787854433",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silverdrawncrop.jpg?v=1787863246",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_3a8effcf-7334-401d-a019-1fa7b6212292.jpg?v=1774313817",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/sideslvr_1_f36e2767-e15a-4ff2-a2b9-b0f5ca7bcbf3.jpg?v=1774313817",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3.png?v=1774313817"
-  ],
-  "source_url": "https://laphont.com/en-us/products/bloc-large-silver-drawn-edition?variant=55712055492913"
+  "source_url": "https://laphont.com/en-us/products/bloc-small-silver-drawn-edition?variant=55712055591217",
+  "sku": "42145",
+  "price_rate": 111,
+  "source_price_usd": "68.60",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712055198001,
@@ -14123,9 +14036,9 @@ const PRODUCTS = [
   "variant": "Default Title",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-13_8a87a494-626f-49c8-9296-ed8e98ed3e27.png?v=1787854171",
@@ -14133,7 +14046,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_6a18ae70-232d-4ad9-854d-ea2d0a0f1f6d.png?v=1774304926",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_3f53e754-0b91-4cb7-aa9d-e29358384452.png?v=1787853521"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-large-gold-drawn-edition?variant=55712055198001"
+  "source_url": "https://laphont.com/en-us/products/bloc-large-gold-drawn-edition?variant=55712055198001",
+  "sku": "43030",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712055132465,
@@ -14143,9 +14060,9 @@ const PRODUCTS = [
   "variant": "Default Title",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_4c3a086a-7989-45eb-889b-0690ee5344af.png?v=1787853517",
@@ -14153,28 +14070,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_6a18ae70-232d-4ad9-854d-ea2d0a0f1f6d.png?v=1774304926",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_3f53e754-0b91-4cb7-aa9d-e29358384452.png?v=1787853521"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-large-gold-blurry-edition?variant=55712055132465"
- },
- {
-  "id": 55712055099697,
-  "product_id": 10760699248945,
-  "title": "Bloc Large Silver Blurry Edition",
-  "model_name": "Bloc Large Silver Blurry Edition",
-  "variant": "Default Title",
-  "type": "Watch",
-  "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_d527a7bd-4b37-437b-bb0b-500981560c60.png?v=1787857556",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_7ff6d55e-4eaf-45d2-8249-6935866c8f07.png?v=1787854176",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_3a8effcf-7334-401d-a019-1fa7b6212292.jpg?v=1774313817",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/sideslvr_1_f36e2767-e15a-4ff2-a2b9-b0f5ca7bcbf3.jpg?v=1774313817",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3.png?v=1774313817"
-  ],
-  "source_url": "https://laphont.com/en-us/products/bloc-large-silver-blurry-edition?variant=55712055099697"
+  "source_url": "https://laphont.com/en-us/products/bloc-large-gold-blurry-edition?variant=55712055132465",
+  "sku": "42030",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712057295153,
@@ -14184,9 +14084,9 @@ const PRODUCTS = [
   "variant": "White / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 16600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 11600,
+  "old_rub": 16600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_fb9398a6-f9ac-4d53-a48a-893f3033333d.png?v=1787861300",
@@ -14196,7 +14096,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_d5ba9115-8d03-45de-a50b-b6ec52eb3526.png?v=1787861300",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_bfeeca31-3b3c-4b09-986d-14250d6823e3.png?v=1787861300"
   ],
-  "source_url": "https://laphont.com/en-us/products/tondo-36mm-silver-moonphase?variant=55712057295153"
+  "source_url": "https://laphont.com/en-us/products/tondo-36mm-silver-moonphase?variant=55712057295153",
+  "sku": "41160",
+  "price_rate": 111,
+  "source_price_usd": "104.30",
+  "source_regular_usd": "149.00"
  },
  {
   "id": 55712057360689,
@@ -14206,9 +14110,9 @@ const PRODUCTS = [
   "variant": "White / Green",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 16600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 11600,
+  "old_rub": 16600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_bfeeca31-3b3c-4b09-986d-14250d6823e3.png?v=1787861300",
@@ -14218,7 +14122,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_04abd8f5-1457-45df-a246-8d9a785eb28c.png?v=1787861300",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_d5ba9115-8d03-45de-a50b-b6ec52eb3526.png?v=1787861300"
   ],
-  "source_url": "https://laphont.com/en-us/products/tondo-36mm-silver-moonphase?variant=55712057360689"
+  "source_url": "https://laphont.com/en-us/products/tondo-36mm-silver-moonphase?variant=55712057360689",
+  "sku": "41162",
+  "price_rate": 111,
+  "source_price_usd": "104.30",
+  "source_regular_usd": "149.00"
  },
  {
   "id": 55712057327921,
@@ -14228,9 +14136,9 @@ const PRODUCTS = [
   "variant": "Black / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 16600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 11600,
+  "old_rub": 16600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_d5ba9115-8d03-45de-a50b-b6ec52eb3526.png?v=1787861300",
@@ -14240,7 +14148,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_04abd8f5-1457-45df-a246-8d9a785eb28c.png?v=1787861300",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_bfeeca31-3b3c-4b09-986d-14250d6823e3.png?v=1787861300"
   ],
-  "source_url": "https://laphont.com/en-us/products/tondo-36mm-silver-moonphase?variant=55712057327921"
+  "source_url": "https://laphont.com/en-us/products/tondo-36mm-silver-moonphase?variant=55712057327921",
+  "sku": "41161",
+  "price_rate": 111,
+  "source_price_usd": "104.30",
+  "source_regular_usd": "149.00"
  },
  {
   "id": 55712058736945,
@@ -14250,9 +14162,9 @@ const PRODUCTS = [
   "variant": "White / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 16600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 11600,
+  "old_rub": 16600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_1601c635-18ca-4369-8f16-7ecd3e50301d.png?v=1787861789",
@@ -14263,7 +14175,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_d4f1beeb-d4bc-4b63-835a-d330b346eeb2.png?v=1787861789",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_0548c792-3f50-4042-b8eb-8f639e36fc2d.png?v=1787861789"
   ],
-  "source_url": "https://laphont.com/en-us/products/tondo-36mm-gold-moonphase?variant=55712058736945"
+  "source_url": "https://laphont.com/en-us/products/tondo-36mm-gold-moonphase?variant=55712058736945",
+  "sku": "41150",
+  "price_rate": 111,
+  "source_price_usd": "104.30",
+  "source_regular_usd": "149.00"
  },
  {
   "id": 55712058769713,
@@ -14273,9 +14189,9 @@ const PRODUCTS = [
   "variant": "White / Brown",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 16600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 11600,
+  "old_rub": 16600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_d4f1beeb-d4bc-4b63-835a-d330b346eeb2.png?v=1787861789",
@@ -14286,7 +14202,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_af3e6e01-4f46-4ef4-952d-f42822eb11a7.png?v=1787861789",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_0548c792-3f50-4042-b8eb-8f639e36fc2d.png?v=1787861789"
   ],
-  "source_url": "https://laphont.com/en-us/products/tondo-36mm-gold-moonphase?variant=55712058769713"
+  "source_url": "https://laphont.com/en-us/products/tondo-36mm-gold-moonphase?variant=55712058769713",
+  "sku": "41152",
+  "price_rate": 111,
+  "source_price_usd": "104.30",
+  "source_regular_usd": "149.00"
  },
  {
   "id": 55712058802481,
@@ -14296,9 +14216,9 @@ const PRODUCTS = [
   "variant": "Black / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 16600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 11600,
+  "old_rub": 16600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_0548c792-3f50-4042-b8eb-8f639e36fc2d.png?v=1787861789",
@@ -14309,7 +14229,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_af3e6e01-4f46-4ef4-952d-f42822eb11a7.png?v=1787861789",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_d4f1beeb-d4bc-4b63-835a-d330b346eeb2.png?v=1787861789"
   ],
-  "source_url": "https://laphont.com/en-us/products/tondo-36mm-gold-moonphase?variant=55712058802481"
+  "source_url": "https://laphont.com/en-us/products/tondo-36mm-gold-moonphase?variant=55712058802481",
+  "sku": "41151",
+  "price_rate": 111,
+  "source_price_usd": "104.30",
+  "source_regular_usd": "149.00"
  },
  {
   "id": 55712045564209,
@@ -14319,9 +14243,9 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-13_0f8d6742-9a14-4bf3-919a-a9cd038b3dcb.png?v=1787862771",
@@ -14329,28 +14253,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_2107a498-8230-4e1b-b277-0c25f332cf70.png?v=1787862771",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_5787a56f-97d9-42b4-be5a-9b6a48a0f899.png?v=1787862771"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-small-silver?variant=55712045564209"
- },
- {
-  "id": 55712045269297,
-  "product_id": 10760695546161,
-  "title": "Bloc Small Gold — Black",
-  "model_name": "Bloc Small Gold",
-  "variant": "Black",
-  "type": "Watch",
-  "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_f36c5cc3-bb94-4ea9-87b5-d65a2c7beb45.png?v=1787862740",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/smallsquaregoldcrop.jpg?v=1787863311",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_dd2ef23a-0daa-4a4d-b3a9-40ca1185adc2.png?v=1787862740",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_036a42d7-2cab-40f8-8e18-eb11835b768e.png?v=1787862740",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_5d2918f0-93e1-42e4-bfd8-6f774279d93a.png?v=1787862740"
-  ],
-  "source_url": "https://laphont.com/en-us/products/bloc-small-gold?variant=55712045269297"
+  "source_url": "https://laphont.com/en-us/products/bloc-small-silver?variant=55712045564209",
+  "sku": "40145",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712059359537,
@@ -14360,9 +14267,9 @@ const PRODUCTS = [
   "variant": "Roman Numerals / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 17700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 14200,
+  "old_rub": 17700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_4444040e-fb45-4a5d-9e31-488976d3c7bb.png?v=1787862867",
@@ -14371,7 +14278,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_17a8c0db-a66d-4ce4-b800-d3855990eaec.png?v=1787862867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_9a0098be-6430-439b-8a94-cd3a829a2a18.png?v=1787862867"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-silver-moonphase?variant=55712059359537"
+  "source_url": "https://laphont.com/en-us/products/bloc-silver-moonphase?variant=55712059359537",
+  "sku": "41036",
+  "price_rate": 111,
+  "source_price_usd": "127.20",
+  "source_regular_usd": "159.00"
  },
  {
   "id": 55712059392305,
@@ -14381,9 +14292,9 @@ const PRODUCTS = [
   "variant": "Roman Numerals / Brown",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 17700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 14200,
+  "old_rub": 17700,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_17a8c0db-a66d-4ce4-b800-d3855990eaec.png?v=1787862867",
@@ -14392,7 +14303,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-16_4a4cee81-6c0c-426c-9c70-54ed4543c2d0.png?v=1787862867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_9a0098be-6430-439b-8a94-cd3a829a2a18.png?v=1787862867"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-silver-moonphase?variant=55712059392305"
+  "source_url": "https://laphont.com/en-us/products/bloc-silver-moonphase?variant=55712059392305",
+  "sku": "41037",
+  "price_rate": 111,
+  "source_price_usd": "127.20",
+  "source_regular_usd": "159.00"
  },
  {
   "id": 55712059425073,
@@ -14402,9 +14317,9 @@ const PRODUCTS = [
   "variant": "Stars / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 17700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 14200,
+  "old_rub": 17700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_9a0098be-6430-439b-8a94-cd3a829a2a18.png?v=1787862867",
@@ -14413,7 +14328,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-16_4a4cee81-6c0c-426c-9c70-54ed4543c2d0.png?v=1787862867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_17a8c0db-a66d-4ce4-b800-d3855990eaec.png?v=1787862867"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-silver-moonphase?variant=55712059425073"
+  "source_url": "https://laphont.com/en-us/products/bloc-silver-moonphase?variant=55712059425073",
+  "sku": "41035",
+  "price_rate": 111,
+  "source_price_usd": "127.20",
+  "source_regular_usd": "159.00"
  },
  {
   "id": 55712059785521,
@@ -14423,9 +14342,9 @@ const PRODUCTS = [
   "variant": "Roman Numerals / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 17700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 14200,
+  "old_rub": 17700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_d652fc43-f4bd-4da1-a4d4-554d55eb39eb.png?v=1787862856",
@@ -14436,7 +14355,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_27bfc33c-0c23-438d-8388-a2bdcc43dd93.png?v=1787862856",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_061a456b-bc80-4e92-8320-c06b631bb1ae.png?v=1787862856"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-moonphase-edition?variant=55712059785521"
+  "source_url": "https://laphont.com/en-us/products/bloc-moonphase-edition?variant=55712059785521",
+  "sku": "41031",
+  "price_rate": 111,
+  "source_price_usd": "127.20",
+  "source_regular_usd": "159.00"
  },
  {
   "id": 55712059818289,
@@ -14446,10 +14369,10 @@ const PRODUCTS = [
   "variant": "Roman Numerals / Brown",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 17700,
-  "old_rub": null,
-  "sale": false,
-  "available": false,
+  "price_rub": 14200,
+  "old_rub": 17700,
+  "sale": true,
+  "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_061a456b-bc80-4e92-8320-c06b631bb1ae.png?v=1787862856",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_d652fc43-f4bd-4da1-a4d4-554d55eb39eb.png?v=1787862856",
@@ -14459,7 +14382,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-17_d0a71e30-835c-41ff-983e-0fdb899d04bc.png?v=1787862856",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_27bfc33c-0c23-438d-8388-a2bdcc43dd93.png?v=1787862856"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-moonphase-edition?variant=55712059818289"
+  "source_url": "https://laphont.com/en-us/products/bloc-moonphase-edition?variant=55712059818289",
+  "sku": "41032",
+  "price_rate": 111,
+  "source_price_usd": "127.20",
+  "source_regular_usd": "159.00"
  },
  {
   "id": 55712059851057,
@@ -14469,9 +14396,9 @@ const PRODUCTS = [
   "variant": "Stars / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 17700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 14200,
+  "old_rub": 17700,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_86db5483-156b-4751-ae80-1ac5d2f4fd0b.png?v=1787862856",
@@ -14482,7 +14409,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_27bfc33c-0c23-438d-8388-a2bdcc43dd93.png?v=1787862856",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_061a456b-bc80-4e92-8320-c06b631bb1ae.png?v=1787862856"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-moonphase-edition?variant=55712059851057"
+  "source_url": "https://laphont.com/en-us/products/bloc-moonphase-edition?variant=55712059851057",
+  "sku": "41030",
+  "price_rate": 111,
+  "source_price_usd": "127.20",
+  "source_regular_usd": "159.00"
  },
  {
   "id": 52796465250609,
@@ -14492,9 +14423,9 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 18400,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 11000,
+  "old_rub": 18400,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_549b85f8-b723-4821-a5c9-2d435404ec51.png?v=1779489028",
@@ -14504,7 +14435,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18_857a0ce5-8a55-4038-852a-874757850f65.png?v=1779489028",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_c9eb52d1-813e-40e4-83a2-937dbaf07f4c.png?v=1779489072"
   ],
-  "source_url": "https://laphont.com/en-us/products/orion-gold-36mm?variant=52796465250609"
+  "source_url": "https://laphont.com/en-us/products/orion-gold-36mm?variant=52796465250609",
+  "sku": "50001",
+  "price_rate": 111,
+  "source_price_usd": "99.00",
+  "source_regular_usd": "165.00"
  },
  {
   "id": 52796465283377,
@@ -14514,9 +14449,9 @@ const PRODUCTS = [
   "variant": "Lapis",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 19500,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 11700,
+  "old_rub": 19500,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_c9eb52d1-813e-40e4-83a2-937dbaf07f4c.png?v=1779489072",
@@ -14526,7 +14461,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_cb698d9c-606b-4f2c-ba74-bd5a98fa4a8b.png?v=1779489028",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18_857a0ce5-8a55-4038-852a-874757850f65.png?v=1779489028"
   ],
-  "source_url": "https://laphont.com/en-us/products/orion-gold-36mm?variant=52796465283377"
+  "source_url": "https://laphont.com/en-us/products/orion-gold-36mm?variant=52796465283377",
+  "sku": "50002",
+  "price_rate": 111,
+  "source_price_usd": "105.00",
+  "source_regular_usd": "175.00"
  },
  {
   "id": 52796464070961,
@@ -14536,9 +14475,9 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 18400,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 11000,
+  "old_rub": 18400,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_994e56c3-6ccf-4c53-9387-19fb28e985ff.png?v=1779488494",
@@ -14548,7 +14487,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_8c8e96bb-7091-4f73-b49e-ee9e8e491678.png?v=1779488495",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20_de0e5af7-6d04-45bb-9788-02dbdf90b547.png?v=1779488494"
   ],
-  "source_url": "https://laphont.com/en-us/products/orion-silver-36mm?variant=52796464070961"
+  "source_url": "https://laphont.com/en-us/products/orion-silver-36mm?variant=52796464070961",
+  "sku": "50021",
+  "price_rate": 111,
+  "source_price_usd": "99.00",
+  "source_regular_usd": "165.00"
  },
  {
   "id": 52796464103729,
@@ -14558,9 +14501,9 @@ const PRODUCTS = [
   "variant": "Lapis",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 19500,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 11700,
+  "old_rub": 19500,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_537e43b3-6532-4eec-9f08-02ad75e3623c.png?v=1779488499",
@@ -14570,7 +14513,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_8c8e96bb-7091-4f73-b49e-ee9e8e491678.png?v=1779488495",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20_de0e5af7-6d04-45bb-9788-02dbdf90b547.png?v=1779488494"
   ],
-  "source_url": "https://laphont.com/en-us/products/orion-silver-36mm?variant=52796464103729"
+  "source_url": "https://laphont.com/en-us/products/orion-silver-36mm?variant=52796464103729",
+  "sku": "50022",
+  "price_rate": 111,
+  "source_price_usd": "105.00",
+  "source_regular_usd": "175.00"
  },
  {
   "id": 52796466037041,
@@ -14580,9 +14527,9 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 18400,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 11000,
+  "old_rub": 18400,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_2f5b11ac-f477-4259-a987-fc25c5270b2f.png?v=1779488956",
@@ -14591,7 +14538,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_69efc017-c16a-4496-9b70-bf051266e9cc.png?v=1779488956",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-24_db4a6627-fc2b-4eb7-a310-cadc5709a132.png?v=1779488956"
   ],
-  "source_url": "https://laphont.com/en-us/products/orion-two-tone-36mm?variant=52796466037041"
+  "source_url": "https://laphont.com/en-us/products/orion-two-tone-36mm?variant=52796466037041",
+  "sku": "50011",
+  "price_rate": 111,
+  "source_price_usd": "99.00",
+  "source_regular_usd": "165.00"
  },
  {
   "id": 52796466069809,
@@ -14601,9 +14552,9 @@ const PRODUCTS = [
   "variant": "Gold",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 18400,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 11000,
+  "old_rub": 18400,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_09bf8687-409e-4be4-b4a1-24c47819b218.png?v=1779488995",
@@ -14612,7 +14563,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_69efc017-c16a-4496-9b70-bf051266e9cc.png?v=1779488956",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-24_db4a6627-fc2b-4eb7-a310-cadc5709a132.png?v=1779488956"
   ],
-  "source_url": "https://laphont.com/en-us/products/orion-two-tone-36mm?variant=52796466069809"
+  "source_url": "https://laphont.com/en-us/products/orion-two-tone-36mm?variant=52796466069809",
+  "sku": "50012",
+  "price_rate": 111,
+  "source_price_usd": "99.00",
+  "source_regular_usd": "165.00"
  },
  {
   "id": 54361940918577,
@@ -14622,9 +14577,9 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_51da367b-4eaa-45d3-974b-6c632a3663fb.png?v=1792629557",
@@ -14634,7 +14589,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-15_d69545e0-db95-4a5c-a819-66c7243f9510.png?v=1792629557",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_976e0fda-691c-4808-8ddd-c29a03917cad.png?v=1792629637"
   ],
-  "source_url": "https://laphont.com/en-us/products/oule-silver?variant=54361940918577"
+  "source_url": "https://laphont.com/en-us/products/oule-silver?variant=54361940918577",
+  "sku": "40130",
+  "price_rate": 111,
+  "source_price_usd": "68.60",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55717924208945,
@@ -14644,9 +14603,9 @@ const PRODUCTS = [
   "variant": "Green",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_976e0fda-691c-4808-8ddd-c29a03917cad.png?v=1792629637",
@@ -14656,7 +14615,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_835c29bc-fcc2-4368-b91e-c2c9d18a7b36.png?v=1792629557",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-15_d69545e0-db95-4a5c-a819-66c7243f9510.png?v=1792629557"
   ],
-  "source_url": "https://laphont.com/en-us/products/oule-silver?variant=55717924208945"
+  "source_url": "https://laphont.com/en-us/products/oule-silver?variant=55717924208945",
+  "sku": "40132",
+  "price_rate": 111,
+  "source_price_usd": "68.60",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 54361919488305,
@@ -14666,9 +14629,9 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_12349430-ffce-4907-aa57-857b9715efeb.png?v=1792629580",
@@ -14678,7 +14641,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-25_25c9386f-58be-4076-afa7-dd9e0c13b115.png?v=1792629580",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_b4f451fb-3f94-4d5b-a9d7-22094350cab3.png?v=1792629617"
   ],
-  "source_url": "https://laphont.com/en-us/products/oule-gold?variant=54361919488305"
+  "source_url": "https://laphont.com/en-us/products/oule-gold?variant=54361919488305",
+  "sku": "40120",
+  "price_rate": 111,
+  "source_price_usd": "68.60",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55717924012337,
@@ -14688,9 +14655,9 @@ const PRODUCTS = [
   "variant": "Green",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_b4f451fb-3f94-4d5b-a9d7-22094350cab3.png?v=1792629617",
@@ -14700,7 +14667,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-24_3f97830d-76e9-430d-aa07-2fac95a0ea32.png?v=1792629579",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-25_25c9386f-58be-4076-afa7-dd9e0c13b115.png?v=1792629580"
   ],
-  "source_url": "https://laphont.com/en-us/products/oule-gold?variant=55717924012337"
+  "source_url": "https://laphont.com/en-us/products/oule-gold?variant=55717924012337",
+  "sku": "40122",
+  "price_rate": 111,
+  "source_price_usd": "68.60",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 52796443918641,
@@ -14710,9 +14681,9 @@ const PRODUCTS = [
   "variant": "Mother of Pearl",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_2ea61bff-80b8-45bf-8ac9-21b6d9015580.png?v=1772042491",
@@ -14721,7 +14692,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-21_72499989-99d9-4c74-ac4d-868d8240af63.png?v=1772042492",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_d9831aca-a22b-4a4d-981c-fa3109a92227.png?v=1772042607"
   ],
-  "source_url": "https://laphont.com/en-us/products/frame-silver?variant=52796443918641"
+  "source_url": "https://laphont.com/en-us/products/frame-silver?variant=52796443918641",
+  "sku": "40085",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52796443885873,
@@ -14731,9 +14706,9 @@ const PRODUCTS = [
   "variant": "Starburst",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_d9831aca-a22b-4a4d-981c-fa3109a92227.png?v=1772042607",
@@ -14742,7 +14717,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19_f8587de5-133d-44e2-be09-8457632f41c6.png?v=1772042491",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-21_72499989-99d9-4c74-ac4d-868d8240af63.png?v=1772042492"
   ],
-  "source_url": "https://laphont.com/en-us/products/frame-silver?variant=52796443885873"
+  "source_url": "https://laphont.com/en-us/products/frame-silver?variant=52796443885873",
+  "sku": "40086",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52929074168113,
@@ -14752,9 +14731,9 @@ const PRODUCTS = [
   "variant": "Small",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 9000,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_b197a2eb-87a4-4dc5-bfe5-8d525479b7f5.png?v=1772042555",
@@ -14762,7 +14741,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_27bd587a-e2c8-4513-93c3-02474ff1c8db.png?v=1772042555",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_e1dbff1b-ebfb-4bba-8948-12559a47f84d.png?v=1772042555"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluere-gold?variant=52929074168113"
+  "source_url": "https://laphont.com/en-us/products/fluere-gold?variant=52929074168113",
+  "sku": "40050",
+  "price_rate": 111,
+  "source_price_usd": "80.50",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52796450210097,
@@ -14772,9 +14755,9 @@ const PRODUCTS = [
   "variant": "Gemstone",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 16500,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 9900,
+  "old_rub": 16500,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-15_aa4f686b-1869-47e3-bb40-52a86dd62b04.png?v=1774395599",
@@ -14786,7 +14769,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-16_37b46a86-aace-4ba0-a8ae-2928f4ff9b93.png?v=1774395888",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18_c099931e-d0d8-4765-a2c6-d0c0b9bb1ce1.png?v=1774395888"
   ],
-  "source_url": "https://laphont.com/en-us/products/glimmer-silver?variant=52796450210097"
+  "source_url": "https://laphont.com/en-us/products/glimmer-silver?variant=52796450210097",
+  "sku": "40040",
+  "price_rate": 111,
+  "source_price_usd": "88.80",
+  "source_regular_usd": "148.00"
  },
  {
   "id": 52796450242865,
@@ -14796,9 +14783,9 @@ const PRODUCTS = [
   "variant": "Starburst",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 14400,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8600,
+  "old_rub": 14400,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-16_37b46a86-aace-4ba0-a8ae-2928f4ff9b93.png?v=1774395888",
@@ -14810,7 +14797,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-17_e3c4c855-9c88-434a-a5ab-8ef9442a5fce.png?v=1774395888",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18_c099931e-d0d8-4765-a2c6-d0c0b9bb1ce1.png?v=1774395888"
   ],
-  "source_url": "https://laphont.com/en-us/products/glimmer-silver?variant=52796450242865"
+  "source_url": "https://laphont.com/en-us/products/glimmer-silver?variant=52796450242865",
+  "sku": "40041",
+  "price_rate": 111,
+  "source_price_usd": "77.40",
+  "source_regular_usd": "129.00"
  },
  {
   "id": 52796450275633,
@@ -14820,9 +14811,9 @@ const PRODUCTS = [
   "variant": "Mother of Pearl",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 16500,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 9900,
+  "old_rub": 16500,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18_c099931e-d0d8-4765-a2c6-d0c0b9bb1ce1.png?v=1774395888",
@@ -14834,7 +14825,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-17_e3c4c855-9c88-434a-a5ab-8ef9442a5fce.png?v=1774395888",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-16_37b46a86-aace-4ba0-a8ae-2928f4ff9b93.png?v=1774395888"
   ],
-  "source_url": "https://laphont.com/en-us/products/glimmer-silver?variant=52796450275633"
+  "source_url": "https://laphont.com/en-us/products/glimmer-silver?variant=52796450275633",
+  "sku": "40042",
+  "price_rate": 111,
+  "source_price_usd": "88.80",
+  "source_regular_usd": "148.00"
  },
  {
   "id": 52929072890161,
@@ -14844,9 +14839,9 @@ const PRODUCTS = [
   "variant": "Small",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 9000,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_dda87cf9-98ae-4461-a27e-4475a5acb7e0.png?v=1772042452",
@@ -14854,7 +14849,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_c903951a-5bb4-4021-a6f7-0cf9a43030ef.png?v=1772042452",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_e3511401-0b16-4a18-9f9d-06e437a3213c.png?v=1772042540"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluere-two-tone?variant=52929072890161"
+  "source_url": "https://laphont.com/en-us/products/fluere-two-tone?variant=52929072890161",
+  "sku": "40055",
+  "price_rate": 111,
+  "source_price_usd": "80.50",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52929073545521,
@@ -14864,9 +14863,9 @@ const PRODUCTS = [
   "variant": "Small",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 9000,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_0f78df52-55be-4fab-9fd4-d19e55ed38b4.png?v=1772042552",
@@ -14874,7 +14873,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_bdb91eab-fb79-4d2d-b6fa-bf88aeb4b95e.png?v=1772042552",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_5c38b1ca-b278-45a4-914c-48b498608c8c.png?v=1772042552"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluere-silver?variant=52929073545521"
+  "source_url": "https://laphont.com/en-us/products/fluere-silver?variant=52929073545521",
+  "sku": "40060",
+  "price_rate": 111,
+  "source_price_usd": "80.50",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52796442673457,
@@ -14884,9 +14887,9 @@ const PRODUCTS = [
   "variant": "Mother of Pearl",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-13_160a94a7-a12c-4745-8b17-c9474a014c6b.png?v=1772042503",
@@ -14895,7 +14898,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-15_76bc0ab2-f90a-489d-b6a1-b5f2a6b84453.png?v=1772042626",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-17_3937e2f2-95ac-4a00-8f54-692687787b6d.png?v=1772042706"
   ],
-  "source_url": "https://laphont.com/en-us/products/frame-gold?variant=52796442673457"
+  "source_url": "https://laphont.com/en-us/products/frame-gold?variant=52796442673457",
+  "sku": "40080",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52796442640689,
@@ -14905,9 +14912,9 @@ const PRODUCTS = [
   "variant": "Starburst",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-17_3937e2f2-95ac-4a00-8f54-692687787b6d.png?v=1772042706",
@@ -14916,7 +14923,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20_41cfa10e-468b-446c-b5e9-ec3e19de3230.png?v=1772042626",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-15_76bc0ab2-f90a-489d-b6a1-b5f2a6b84453.png?v=1772042626"
   ],
-  "source_url": "https://laphont.com/en-us/products/frame-gold?variant=52796442640689"
+  "source_url": "https://laphont.com/en-us/products/frame-gold?variant=52796442640689",
+  "sku": "40081",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52796452503857,
@@ -14926,9 +14937,9 @@ const PRODUCTS = [
   "variant": "Default Title",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_92e08ec3-e1a4-43d5-ac24-b07b331a93fd.png?v=1774395838",
@@ -14938,7 +14949,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_81daab21-f62b-4d6d-b9fa-b496c36607b6.png?v=1776396466",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_58ac9264-8d1d-40bd-a596-24460c127b8d.png?v=1774395827"
   ],
-  "source_url": "https://laphont.com/en-us/products/gemini-gold?variant=52796452503857"
+  "source_url": "https://laphont.com/en-us/products/gemini-gold?variant=52796452503857",
+  "sku": "40070",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52796452798769,
@@ -14948,9 +14963,9 @@ const PRODUCTS = [
   "variant": "Default Title",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 7700,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-13_9735a796-7d07-446e-acc3-b38d218e8106.png?v=1774395871",
@@ -14960,7 +14975,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_afd3c45e-0b5e-4543-a222-f2b015515faf.png?v=1774395871",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_376e9998-1be9-432b-86b8-b508ed2b6de0.png?v=1774395862"
   ],
-  "source_url": "https://laphont.com/en-us/products/gemini-silver?variant=52796452798769"
+  "source_url": "https://laphont.com/en-us/products/gemini-silver?variant=52796452798769",
+  "sku": "40075",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52454838960433,
@@ -14970,16 +14989,20 @@ const PRODUCTS = [
   "variant": "Default Title",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_399110a7-ba79-401d-a54f-d5b10ded8d97.png?v=1770831962",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-34.png?v=1770831961",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-42_9c5023a5-103d-4c3a-9e01-debd8d09428a.png?v=1770831962"
   ],
-  "source_url": "https://laphont.com/en-us/products/5mm-tennis-bracelet?variant=52454838960433"
+  "source_url": "https://laphont.com/en-us/products/5mm-tennis-bracelet?variant=52454838960433",
+  "sku": "70015",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 52454836961585,
@@ -14989,15 +15012,19 @@ const PRODUCTS = [
   "variant": "Default Title",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 3600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2500,
+  "old_rub": 3600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-57.png?v=1770831948",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-26_7d91d8aa-f33c-4cfd-a80c-05d6a6094761.png?v=1770831948"
   ],
-  "source_url": "https://laphont.com/en-us/products/5mm-tennis-chain?variant=52454836961585"
+  "source_url": "https://laphont.com/en-us/products/5mm-tennis-chain?variant=52454836961585",
+  "sku": "60032",
+  "price_rate": 111,
+  "source_price_usd": "22.40",
+  "source_regular_usd": "32.00"
  },
  {
   "id": 52454836175153,
@@ -15007,15 +15034,19 @@ const PRODUCTS = [
   "variant": "Default Title",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 3600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2500,
+  "old_rub": 3600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-55.png?v=1770832054",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-28_af577574-88a4-40bd-b7c9-49a120dc7e65.png?v=1770832069"
   ],
-  "source_url": "https://laphont.com/en-us/products/4mm-tennis-chain?variant=52454836175153"
+  "source_url": "https://laphont.com/en-us/products/4mm-tennis-chain?variant=52454836175153",
+  "sku": "60030",
+  "price_rate": 111,
+  "source_price_usd": "22.40",
+  "source_regular_usd": "32.00"
  },
  {
   "id": 52454834667825,
@@ -15035,7 +15066,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_7dc0193e-f821-4bd8-938e-50dbc7f0b7d2.png?v=1770832165",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-32_27d8c160-9413-4fbd-98cb-48e7f33ffe71.png?v=1770832165"
   ],
-  "source_url": "https://laphont.com/en-us/products/teardrop-necklace?variant=52454834667825"
+  "source_url": "https://laphont.com/en-us/products/teardrop-necklace?variant=52454834667825",
+  "sku": "60014",
+  "price_rate": 111,
+  "source_price_usd": "19.60",
+  "source_regular_usd": "28.00"
  },
  {
   "id": 52454834700593,
@@ -15055,7 +15090,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-32_27d8c160-9413-4fbd-98cb-48e7f33ffe71.png?v=1770832165",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_9c14c572-6a87-4c19-8398-4aed79915b0e.png?v=1770832173"
   ],
-  "source_url": "https://laphont.com/en-us/products/teardrop-necklace?variant=52454834700593"
+  "source_url": "https://laphont.com/en-us/products/teardrop-necklace?variant=52454834700593",
+  "sku": "60013",
+  "price_rate": 111,
+  "source_price_usd": "19.60",
+  "source_regular_usd": "28.00"
  },
  {
   "id": 52454830178609,
@@ -15074,7 +15113,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-25_8ab53a53-edcb-4983-b7bf-cd1bd9a803a2.png?v=1770832284",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-23_c8e2fa51-4fe6-416f-81a7-1862053f05e3.png?v=1770832284"
   ],
-  "source_url": "https://laphont.com/en-us/products/morningstar-necklace?variant=52454830178609"
+  "source_url": "https://laphont.com/en-us/products/morningstar-necklace?variant=52454830178609",
+  "sku": "60034",
+  "price_rate": 111,
+  "source_price_usd": "22.40",
+  "source_regular_usd": "32.00"
  },
  {
   "id": 52454828146993,
@@ -15087,7 +15130,7 @@ const PRODUCTS = [
   "price_rub": 2200,
   "old_rub": 3200,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-40_75819b8f-48a4-4939-a1cf-dc29f17644eb.png?v=1770832409",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-41_8cd7ddee-cd08-4dc9-931f-0de000625089.png?v=1770832409",
@@ -15098,7 +15141,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_423045c0-f740-4423-8944-1e74b68e20d9.png?v=1770832409",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_cfe2119b-936f-4aeb-a00b-3871d795affc.png?v=1770832409"
   ],
-  "source_url": "https://laphont.com/en-us/products/wave-necklace?variant=52454828146993"
+  "source_url": "https://laphont.com/en-us/products/wave-necklace?variant=52454828146993",
+  "sku": "60022",
+  "price_rate": 111,
+  "source_price_usd": "19.60",
+  "source_regular_usd": "28.00"
  },
  {
   "id": 52454949486897,
@@ -15122,7 +15169,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_423045c0-f740-4423-8944-1e74b68e20d9.png?v=1770832409",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_cfe2119b-936f-4aeb-a00b-3871d795affc.png?v=1770832409"
   ],
-  "source_url": "https://laphont.com/en-us/products/wave-necklace?variant=52454949486897"
+  "source_url": "https://laphont.com/en-us/products/wave-necklace?variant=52454949486897",
+  "sku": "60024",
+  "price_rate": 111,
+  "source_price_usd": "19.60",
+  "source_regular_usd": "28.00"
  },
  {
   "id": 52454828179761,
@@ -15146,7 +15197,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_423045c0-f740-4423-8944-1e74b68e20d9.png?v=1770832409",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_cfe2119b-936f-4aeb-a00b-3871d795affc.png?v=1770832409"
   ],
-  "source_url": "https://laphont.com/en-us/products/wave-necklace?variant=52454828179761"
+  "source_url": "https://laphont.com/en-us/products/wave-necklace?variant=52454828179761",
+  "sku": "60021",
+  "price_rate": 111,
+  "source_price_usd": "19.60",
+  "source_regular_usd": "28.00"
  },
  {
   "id": 52454949519665,
@@ -15170,7 +15225,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-41_0231648e-2137-463d-a8fc-ba38e04f053a.png?v=1770832409",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_cfe2119b-936f-4aeb-a00b-3871d795affc.png?v=1770832409"
   ],
-  "source_url": "https://laphont.com/en-us/products/wave-necklace?variant=52454949519665"
+  "source_url": "https://laphont.com/en-us/products/wave-necklace?variant=52454949519665",
+  "sku": "60023",
+  "price_rate": 111,
+  "source_price_usd": "19.60",
+  "source_regular_usd": "28.00"
  },
  {
   "id": 52454825623857,
@@ -15180,9 +15239,9 @@ const PRODUCTS = [
   "variant": "Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 3600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2500,
+  "old_rub": 3600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-50_2151f78c-13ce-4e51-9c18-847312d96de4.png?v=1770832453",
@@ -15191,7 +15250,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-23_0499a7b6-a63d-47a7-82cd-9966dde585ee.png?v=1770832461",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-51_b309a49c-0bb1-4fab-9db0-5c488367b1ad.png?v=1771540253"
   ],
-  "source_url": "https://laphont.com/en-us/products/monobloc-necklace?variant=52454825623857"
+  "source_url": "https://laphont.com/en-us/products/monobloc-necklace?variant=52454825623857",
+  "sku": "60020",
+  "price_rate": 111,
+  "source_price_usd": "22.40",
+  "source_regular_usd": "32.00"
  },
  {
   "id": 52454825656625,
@@ -15201,9 +15264,9 @@ const PRODUCTS = [
   "variant": "14k Gold Plated Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 3600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2500,
+  "old_rub": 3600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-51_b309a49c-0bb1-4fab-9db0-5c488367b1ad.png?v=1771540253",
@@ -15212,7 +15275,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-21_4f9de04f-39d8-469f-b4b5-4d78c2b32a23.png?v=1770832461",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-23_0499a7b6-a63d-47a7-82cd-9966dde585ee.png?v=1770832461"
   ],
-  "source_url": "https://laphont.com/en-us/products/monobloc-necklace?variant=52454825656625"
+  "source_url": "https://laphont.com/en-us/products/monobloc-necklace?variant=52454825656625",
+  "sku": "60019",
+  "price_rate": 111,
+  "source_price_usd": "22.40",
+  "source_regular_usd": "32.00"
  },
  {
   "id": 52454817890609,
@@ -15222,15 +15289,19 @@ const PRODUCTS = [
   "variant": "Default Title",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 3600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2500,
+  "old_rub": 3600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-60.png?v=1770832539",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_1b30925b-4ad6-436e-851d-cd6bc701ff14.png?v=1770832539"
   ],
-  "source_url": "https://laphont.com/en-us/products/3mm-tennis-chain?variant=52454817890609"
+  "source_url": "https://laphont.com/en-us/products/3mm-tennis-chain?variant=52454817890609",
+  "sku": "60028",
+  "price_rate": 111,
+  "source_price_usd": "22.40",
+  "source_regular_usd": "32.00"
  },
  {
   "id": 52454811435313,
@@ -15240,16 +15311,20 @@ const PRODUCTS = [
   "variant": "Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 4000,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2800,
+  "old_rub": 4000,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-43_e6f4ed22-c209-4d0b-b34d-4bd82c0bbf7e.png?v=1770832555",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-39_4a65ba80-1c82-4430-809f-17e0acb746a9.png?v=1770841292",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-44_9f97cd3c-0041-4621-8853-94fa6013ef75.png?v=1770841292"
   ],
-  "source_url": "https://laphont.com/en-us/products/cleave-bracelet?variant=52454811435313"
+  "source_url": "https://laphont.com/en-us/products/cleave-bracelet?variant=52454811435313",
+  "sku": "70028",
+  "price_rate": 111,
+  "source_price_usd": "25.20",
+  "source_regular_usd": "36.00"
  },
  {
   "id": 52454811468081,
@@ -15259,16 +15334,20 @@ const PRODUCTS = [
   "variant": "14k Gold Plated Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 4000,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2800,
+  "old_rub": 4000,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-44_9f97cd3c-0041-4621-8853-94fa6013ef75.png?v=1770841292",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-43_e6f4ed22-c209-4d0b-b34d-4bd82c0bbf7e.png?v=1770832555",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-39_4a65ba80-1c82-4430-809f-17e0acb746a9.png?v=1770841292"
   ],
-  "source_url": "https://laphont.com/en-us/products/cleave-bracelet?variant=52454811468081"
+  "source_url": "https://laphont.com/en-us/products/cleave-bracelet?variant=52454811468081",
+  "sku": "70027",
+  "price_rate": 111,
+  "source_price_usd": "25.20",
+  "source_regular_usd": "36.00"
  },
  {
   "id": 52454807241009,
@@ -15278,16 +15357,20 @@ const PRODUCTS = [
   "variant": "Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 4000,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2800,
+  "old_rub": 4000,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_6df19846-7545-4dd5-a1b4-bd6659686a44.png?v=1770832592",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-37_69094e2f-79da-42ae-ab1b-e0369b57b216.png?v=1770841271",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-33_91440efa-c88c-44b5-a918-4089395e77bb.png?v=1770841271"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-bracelet?variant=52454807241009"
+  "source_url": "https://laphont.com/en-us/products/situ-bracelet?variant=52454807241009",
+  "sku": "70026",
+  "price_rate": 111,
+  "source_price_usd": "25.20",
+  "source_regular_usd": "36.00"
  },
  {
   "id": 52454807273777,
@@ -15297,16 +15380,20 @@ const PRODUCTS = [
   "variant": "14k Gold Plated Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 4000,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2800,
+  "old_rub": 4000,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-33_91440efa-c88c-44b5-a918-4089395e77bb.png?v=1770841271",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_6df19846-7545-4dd5-a1b4-bd6659686a44.png?v=1770832592",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-37_69094e2f-79da-42ae-ab1b-e0369b57b216.png?v=1770841271"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-bracelet?variant=52454807273777"
+  "source_url": "https://laphont.com/en-us/products/situ-bracelet?variant=52454807273777",
+  "sku": "70025",
+  "price_rate": 111,
+  "source_price_usd": "25.20",
+  "source_regular_usd": "36.00"
  },
  {
   "id": 52454804685105,
@@ -15324,7 +15411,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-56.png?v=1770832638",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-27_b0db3636-a47a-475c-9bf8-cb8e268b6d75.png?v=1770832638"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-chain?variant=52454804685105"
+  "source_url": "https://laphont.com/en-us/products/situ-chain?variant=52454804685105",
+  "sku": "60018",
+  "price_rate": 111,
+  "source_price_usd": "51.80",
+  "source_regular_usd": "74.00"
  },
  {
   "id": 52454801637681,
@@ -15334,16 +15425,20 @@ const PRODUCTS = [
   "variant": "Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 3600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2500,
+  "old_rub": 3600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_c450964f-1a88-4d70-9af7-63a6d4987c78.png?v=1770841633",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_5886006d-b8c5-411b-87e5-29b5e7c7ca3b.png?v=1770832685",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_9f9cf7ce-0099-4e0c-ad93-00e3d1da883a.png?v=1770841633"
   ],
-  "source_url": "https://laphont.com/en-us/products/balance-bracelet?variant=52454801637681"
+  "source_url": "https://laphont.com/en-us/products/balance-bracelet?variant=52454801637681",
+  "sku": "70022",
+  "price_rate": 111,
+  "source_price_usd": "22.40",
+  "source_regular_usd": "32.00"
  },
  {
   "id": 52454801670449,
@@ -15353,16 +15448,20 @@ const PRODUCTS = [
   "variant": "14k Gold Plated Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 3600,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2500,
+  "old_rub": 3600,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_5886006d-b8c5-411b-87e5-29b5e7c7ca3b.png?v=1770832685",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_9f9cf7ce-0099-4e0c-ad93-00e3d1da883a.png?v=1770841633",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_c450964f-1a88-4d70-9af7-63a6d4987c78.png?v=1770841633"
   ],
-  "source_url": "https://laphont.com/en-us/products/balance-bracelet?variant=52454801670449"
+  "source_url": "https://laphont.com/en-us/products/balance-bracelet?variant=52454801670449",
+  "sku": "70021",
+  "price_rate": 111,
+  "source_price_usd": "22.40",
+  "source_regular_usd": "32.00"
  },
  {
   "id": 52454795903281,
@@ -15372,16 +15471,20 @@ const PRODUCTS = [
   "variant": "Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-58.png?v=1770832729",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-31_e68a0426-88bc-4341-998f-fee29f69b544.png?v=1770832729",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-59.png?v=1770832742"
   ],
-  "source_url": "https://laphont.com/en-us/products/3mm-ball-chain?variant=52454795903281"
+  "source_url": "https://laphont.com/en-us/products/3mm-ball-chain?variant=52454795903281",
+  "sku": "60012",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 52454795936049,
@@ -15391,16 +15494,20 @@ const PRODUCTS = [
   "variant": "14k Gold Plated Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-59.png?v=1770832742",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-58.png?v=1770832729",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-31_e68a0426-88bc-4341-998f-fee29f69b544.png?v=1770832729"
   ],
-  "source_url": "https://laphont.com/en-us/products/3mm-ball-chain?variant=52454795936049"
+  "source_url": "https://laphont.com/en-us/products/3mm-ball-chain?variant=52454795936049",
+  "sku": "60011",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 52454787088689,
@@ -15410,9 +15517,9 @@ const PRODUCTS = [
   "variant": "Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 3200,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2200,
+  "old_rub": 3200,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-48_c55f9a58-62c1-4d3c-936a-d7f344c048fc.png?v=1770832764",
@@ -15420,7 +15527,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-23_c280e5cd-a5c3-4edc-92d6-376f7b0363f0.png?v=1770832790",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-49_3c640bf7-7c5d-458b-ac04-23855bc7f53a.png?v=1770832790"
   ],
-  "source_url": "https://laphont.com/en-us/products/mp3-pendant?variant=52454787088689"
+  "source_url": "https://laphont.com/en-us/products/mp3-pendant?variant=52454787088689",
+  "sku": "60016",
+  "price_rate": 111,
+  "source_price_usd": "19.60",
+  "source_regular_usd": "28.00"
  },
  {
   "id": 52454787121457,
@@ -15430,9 +15541,9 @@ const PRODUCTS = [
   "variant": "14k Gold Plated Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 3200,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2200,
+  "old_rub": 3200,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-49_3c640bf7-7c5d-458b-ac04-23855bc7f53a.png?v=1770832790",
@@ -15440,45 +15551,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19_de554e63-9c22-45fa-ba35-e7029d110bfd.png?v=1770832790",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-23_c280e5cd-a5c3-4edc-92d6-376f7b0363f0.png?v=1770832790"
   ],
-  "source_url": "https://laphont.com/en-us/products/mp3-pendant?variant=52454787121457"
- },
- {
-  "id": 52454782075185,
-  "product_id": 10554172506417,
-  "title": "3mm Rope Bracelet — Stainless Steel",
-  "model_name": "3mm Rope Bracelet",
-  "variant": "Stainless Steel",
-  "type": "Jewelry",
-  "brand": "LAPHONT",
-  "price_rub": 2300,
-  "old_rub": null,
-  "sale": false,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-45_b021a9c0-8a8e-4d1f-a513-1226b6d053a3.png?v=1770832846",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-35_db4a8915-408b-4117-a9c5-35ae2e9ecd71.png?v=1770832853",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-46_14583666-80d6-4462-957a-f15f84a18c85.png?v=1770832853"
-  ],
-  "source_url": "https://laphont.com/en-us/products/3mm-rope-bracelet?variant=52454782075185"
- },
- {
-  "id": 52454782107953,
-  "product_id": 10554172506417,
-  "title": "3mm Rope Bracelet — 14k Gold Plated Stainless Steel",
-  "model_name": "3mm Rope Bracelet",
-  "variant": "14k Gold Plated Stainless Steel",
-  "type": "Jewelry",
-  "brand": "LAPHONT",
-  "price_rub": 2300,
-  "old_rub": null,
-  "sale": false,
-  "available": false,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-46_14583666-80d6-4462-957a-f15f84a18c85.png?v=1770832853",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-45_b021a9c0-8a8e-4d1f-a513-1226b6d053a3.png?v=1770832846",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-35_db4a8915-408b-4117-a9c5-35ae2e9ecd71.png?v=1770832853"
-  ],
-  "source_url": "https://laphont.com/en-us/products/3mm-rope-bracelet?variant=52454782107953"
+  "source_url": "https://laphont.com/en-us/products/mp3-pendant?variant=52454787121457",
+  "sku": "60015",
+  "price_rate": 111,
+  "source_price_usd": "19.60",
+  "source_regular_usd": "28.00"
  },
  {
   "id": 52454758187313,
@@ -15497,7 +15574,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-29_58fc5add-405e-4e98-b006-b48fa55acea3.png?v=1770832893",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-54.png?v=1770832923"
   ],
-  "source_url": "https://laphont.com/en-us/products/bike-chain?variant=52454758187313"
+  "source_url": "https://laphont.com/en-us/products/bike-chain?variant=52454758187313",
+  "sku": "60026",
+  "price_rate": 111,
+  "source_price_usd": "29.40",
+  "source_regular_usd": "42.00"
  },
  {
   "id": 52454758220081,
@@ -15516,7 +15597,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_b8e36db9-20ae-4363-987b-f95d595a0247.png?v=1770832893",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-29_58fc5add-405e-4e98-b006-b48fa55acea3.png?v=1770832893"
   ],
-  "source_url": "https://laphont.com/en-us/products/bike-chain?variant=52454758220081"
+  "source_url": "https://laphont.com/en-us/products/bike-chain?variant=52454758220081",
+  "sku": "60025",
+  "price_rate": 111,
+  "source_price_usd": "29.40",
+  "source_regular_usd": "42.00"
  },
  {
   "id": 54042497089841,
@@ -15526,9 +15611,9 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_297c0eac-53ac-4149-8408-285ec530758c_1.jpg?v=1770483207",
@@ -15539,7 +15624,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_5b778f95-418e-4567-bb14-235be2f21161.png?v=1787863899",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_800fd287-c664-4ca2-951e-90416cb0791c.png?v=1787863922"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-silver?variant=54042497089841"
+  "source_url": "https://laphont.com/en-us/products/bloc-silver?variant=54042497089841",
+  "sku": "40035",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712044548401,
@@ -15549,10 +15638,10 @@ const PRODUCTS = [
   "variant": "Brown",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_5b778f95-418e-4567-bb14-235be2f21161.png?v=1787863899",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_297c0eac-53ac-4149-8408-285ec530758c_1.jpg?v=1770483207",
@@ -15562,7 +15651,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3.png?v=1774313817",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_800fd287-c664-4ca2-951e-90416cb0791c.png?v=1787863922"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-silver?variant=55712044548401"
+  "source_url": "https://laphont.com/en-us/products/bloc-silver?variant=55712044548401",
+  "sku": "40036",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712044515633,
@@ -15572,9 +15665,9 @@ const PRODUCTS = [
   "variant": "Green",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_800fd287-c664-4ca2-951e-90416cb0791c.png?v=1787863922",
@@ -15585,7 +15678,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3.png?v=1774313817",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_5b778f95-418e-4567-bb14-235be2f21161.png?v=1787863899"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-silver?variant=55712044515633"
+  "source_url": "https://laphont.com/en-us/products/bloc-silver?variant=55712044515633",
+  "sku": "40037",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 54042497646897,
@@ -15595,9 +15692,9 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_1.png?v=1772485144",
@@ -15608,7 +15705,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18_2fc85173-4647-4a43-b49a-5a15b9875466.png?v=1787863873",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_1b5c15c4-f84c-4025-bc81-20246fb4c28a.png?v=1787863886"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-gold?variant=54042497646897"
+  "source_url": "https://laphont.com/en-us/products/bloc-gold?variant=54042497646897",
+  "sku": "40030",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712038617393,
@@ -15618,9 +15719,9 @@ const PRODUCTS = [
   "variant": "Brown",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18_2fc85173-4647-4a43-b49a-5a15b9875466.png?v=1787863873",
@@ -15631,7 +15732,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4.png?v=1774304926",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_1b5c15c4-f84c-4025-bc81-20246fb4c28a.png?v=1787863886"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-gold?variant=55712038617393"
+  "source_url": "https://laphont.com/en-us/products/bloc-gold?variant=55712038617393",
+  "sku": "40031",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 55712038584625,
@@ -15641,9 +15746,9 @@ const PRODUCTS = [
   "variant": "Green",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_1b5c15c4-f84c-4025-bc81-20246fb4c28a.png?v=1787863886",
@@ -15654,7 +15759,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4.png?v=1774304926",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18_2fc85173-4647-4a43-b49a-5a15b9875466.png?v=1787863873"
   ],
-  "source_url": "https://laphont.com/en-us/products/bloc-gold?variant=55712038584625"
+  "source_url": "https://laphont.com/en-us/products/bloc-gold?variant=55712038584625",
+  "sku": "40032",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 51921198514481,
@@ -15664,9 +15773,9 @@ const PRODUCTS = [
   "variant": "White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_cd870227-8638-41a3-9ab5-29467865d1f5.png?v=1770483436",
@@ -15677,7 +15786,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_07645471-640a-4899-8889-70085a44fec7.png?v=1769974966",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_7083abbe-7b8a-4dc3-98a6-3728480b2040.png?v=1792630096"
   ],
-  "source_url": "https://laphont.com/en-us/products/striata-gold?variant=51921198514481"
+  "source_url": "https://laphont.com/en-us/products/striata-gold?variant=51921198514481",
+  "sku": "40020",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 51921198481713,
@@ -15687,9 +15800,9 @@ const PRODUCTS = [
   "variant": "Fluted",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_07645471-640a-4899-8889-70085a44fec7.png?v=1769974966",
@@ -15700,7 +15813,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_a68e4c7b-0c5a-400a-a563-cd21274e3574.png?v=1771786405",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_7083abbe-7b8a-4dc3-98a6-3728480b2040.png?v=1792630096"
   ],
-  "source_url": "https://laphont.com/en-us/products/striata-gold?variant=51921198481713"
+  "source_url": "https://laphont.com/en-us/products/striata-gold?variant=51921198481713",
+  "sku": "40021",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 57017555484977,
@@ -15710,10 +15827,10 @@ const PRODUCTS = [
   "variant": "Matcha",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
-  "available": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
+  "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_7083abbe-7b8a-4dc3-98a6-3728480b2040.png?v=1792630096",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_cd870227-8638-41a3-9ab5-29467865d1f5.png?v=1770483436",
@@ -15723,7 +15840,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_a68e4c7b-0c5a-400a-a563-cd21274e3574.png?v=1771786405",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_07645471-640a-4899-8889-70085a44fec7.png?v=1769974966"
   ],
-  "source_url": "https://laphont.com/en-us/products/striata-gold?variant=57017555484977"
+  "source_url": "https://laphont.com/en-us/products/striata-gold?variant=57017555484977",
+  "sku": "40022",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 51921199530289,
@@ -15733,9 +15854,9 @@ const PRODUCTS = [
   "variant": "Fluted",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_664794d7-0c29-415f-bafc-0328c4329778.png?v=1769975053",
@@ -15745,7 +15866,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_e5cd56a5-3282-44fc-a3c2-c11961606530.png?v=1769975071",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-30_516a31b9-bfee-4834-8956-b0ff33f50768.png?v=1792630080"
   ],
-  "source_url": "https://laphont.com/en-us/products/striata-silver?variant=51921199530289"
+  "source_url": "https://laphont.com/en-us/products/striata-silver?variant=51921199530289",
+  "sku": "40026",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 51921199563057,
@@ -15755,9 +15880,9 @@ const PRODUCTS = [
   "variant": "White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_e5cd56a5-3282-44fc-a3c2-c11961606530.png?v=1769975071",
@@ -15767,7 +15892,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_439f705d-58e8-4902-9603-547f4c73c521.png?v=1769975059",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-30_516a31b9-bfee-4834-8956-b0ff33f50768.png?v=1792630080"
   ],
-  "source_url": "https://laphont.com/en-us/products/striata-silver?variant=51921199563057"
+  "source_url": "https://laphont.com/en-us/products/striata-silver?variant=51921199563057",
+  "sku": "40025",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 57017555222833,
@@ -15777,10 +15906,10 @@ const PRODUCTS = [
   "variant": "Salmon",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10900,
-  "old_rub": null,
-  "sale": false,
-  "available": false,
+  "price_rub": 8800,
+  "old_rub": 10900,
+  "sale": true,
+  "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-30_516a31b9-bfee-4834-8956-b0ff33f50768.png?v=1792630080",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_664794d7-0c29-415f-bafc-0328c4329778.png?v=1769975053",
@@ -15789,7 +15918,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_439f705d-58e8-4902-9603-547f4c73c521.png?v=1769975059",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_e5cd56a5-3282-44fc-a3c2-c11961606530.png?v=1769975071"
   ],
-  "source_url": "https://laphont.com/en-us/products/striata-silver?variant=57017555222833"
+  "source_url": "https://laphont.com/en-us/products/striata-silver?variant=57017555222833",
+  "sku": "40027",
+  "price_rate": 111,
+  "source_price_usd": "78.40",
+  "source_regular_usd": "98.00"
  },
  {
   "id": 51810558017841,
@@ -15810,7 +15943,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_6a0efeea-7caf-4d16-bb82-297f7fecead2.png?v=1763761271",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_1d50e2a8-5dde-4fd4-8cd5-53c9cc710b13.png?v=1763761279"
   ],
-  "source_url": "https://laphont.com/en-us/products/laurent-large-silver?variant=51810558017841"
+  "source_url": "https://laphont.com/en-us/products/laurent-large-silver?variant=51810558017841",
+  "sku": "30035",
+  "price_rate": 111,
+  "source_price_usd": "147.20",
+  "source_regular_usd": "184.00"
  },
  {
   "id": 51810557952305,
@@ -15831,7 +15968,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20_9d94940f-9e16-4685-aa19-d8cc1df122be.png?v=1763761285",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_1d50e2a8-5dde-4fd4-8cd5-53c9cc710b13.png?v=1763761279"
   ],
-  "source_url": "https://laphont.com/en-us/products/laurent-large-silver?variant=51810557952305"
+  "source_url": "https://laphont.com/en-us/products/laurent-large-silver?variant=51810557952305",
+  "sku": "30037",
+  "price_rate": 111,
+  "source_price_usd": "147.20",
+  "source_regular_usd": "184.00"
  },
  {
   "id": 51810557985073,
@@ -15852,7 +15993,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20_9d94940f-9e16-4685-aa19-d8cc1df122be.png?v=1763761285",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_6a0efeea-7caf-4d16-bb82-297f7fecead2.png?v=1763761271"
   ],
-  "source_url": "https://laphont.com/en-us/products/laurent-large-silver?variant=51810557985073"
+  "source_url": "https://laphont.com/en-us/products/laurent-large-silver?variant=51810557985073",
+  "sku": "30036",
+  "price_rate": 111,
+  "source_price_usd": "147.20",
+  "source_regular_usd": "184.00"
  },
  {
   "id": 51811470967089,
@@ -15873,7 +16018,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19_d020cceb-1cdd-4da5-be5e-88fa07586faf.png?v=1763761894",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-30_211f5324-db1e-401d-9e79-076d71ec620c.png?v=1763761963"
   ],
-  "source_url": "https://laphont.com/en-us/products/laurent-small-two-tone?variant=51811470967089"
+  "source_url": "https://laphont.com/en-us/products/laurent-small-two-tone?variant=51811470967089",
+  "sku": "30055",
+  "price_rate": 111,
+  "source_price_usd": "147.20",
+  "source_regular_usd": "184.00"
  },
  {
   "id": 51811470901553,
@@ -15894,7 +16043,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19_d020cceb-1cdd-4da5-be5e-88fa07586faf.png?v=1763761894",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-30_211f5324-db1e-401d-9e79-076d71ec620c.png?v=1763761963"
   ],
-  "source_url": "https://laphont.com/en-us/products/laurent-small-two-tone?variant=51811470901553"
+  "source_url": "https://laphont.com/en-us/products/laurent-small-two-tone?variant=51811470901553",
+  "sku": "30057",
+  "price_rate": 111,
+  "source_price_usd": "147.20",
+  "source_regular_usd": "184.00"
  },
  {
   "id": 51811470934321,
@@ -15915,7 +16068,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_39f80571-b292-444c-b076-06878b9fda21.png?v=1763761894",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19_d020cceb-1cdd-4da5-be5e-88fa07586faf.png?v=1763761894"
   ],
-  "source_url": "https://laphont.com/en-us/products/laurent-small-two-tone?variant=51811470934321"
+  "source_url": "https://laphont.com/en-us/products/laurent-small-two-tone?variant=51811470934321",
+  "sku": "30056",
+  "price_rate": 111,
+  "source_price_usd": "147.20",
+  "source_regular_usd": "184.00"
  },
  {
   "id": 51811470442801,
@@ -15936,7 +16093,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-29_2fe358fc-b7f0-44c8-9450-a5968b7b1e34.png?v=1763762052",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-33_6ab12779-aa9e-48c5-a8b6-a76cdc35b50d.png?v=1763762062"
   ],
-  "source_url": "https://laphont.com/en-us/products/laurent-small-silver?variant=51811470442801"
+  "source_url": "https://laphont.com/en-us/products/laurent-small-silver?variant=51811470442801",
+  "sku": "30050",
+  "price_rate": 111,
+  "source_price_usd": "147.20",
+  "source_regular_usd": "184.00"
  },
  {
   "id": 51811470377265,
@@ -15949,7 +16110,7 @@ const PRODUCTS = [
   "price_rub": 16400,
   "old_rub": 20500,
   "sale": true,
-  "available": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-29_2fe358fc-b7f0-44c8-9450-a5968b7b1e34.png?v=1763762052",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-32_3c046970-9d54-4937-be6a-b51ae6171926.png?v=1763762087",
@@ -15957,7 +16118,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20_8f937e43-a029-4f80-9e02-62a975755795.png?v=1763762087",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-33_6ab12779-aa9e-48c5-a8b6-a76cdc35b50d.png?v=1763762062"
   ],
-  "source_url": "https://laphont.com/en-us/products/laurent-small-silver?variant=51811470377265"
+  "source_url": "https://laphont.com/en-us/products/laurent-small-silver?variant=51811470377265",
+  "sku": "30052",
+  "price_rate": 111,
+  "source_price_usd": "147.20",
+  "source_regular_usd": "184.00"
  },
  {
   "id": 51811470410033,
@@ -15978,7 +16143,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20_8f937e43-a029-4f80-9e02-62a975755795.png?v=1763762087",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-29_2fe358fc-b7f0-44c8-9450-a5968b7b1e34.png?v=1763762052"
   ],
-  "source_url": "https://laphont.com/en-us/products/laurent-small-silver?variant=51811470410033"
+  "source_url": "https://laphont.com/en-us/products/laurent-small-silver?variant=51811470410033",
+  "sku": "30051",
+  "price_rate": 111,
+  "source_price_usd": "147.20",
+  "source_regular_usd": "184.00"
  },
  {
   "id": 51811363946801,
@@ -15999,7 +16168,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19_ab3b6f5d-6c61-41e2-a421-e7b201ce6044.png?v=1763761165",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_0eec7301-d3fb-4f13-99d7-570bbdf14f68.png?v=1763761187"
   ],
-  "source_url": "https://laphont.com/en-us/products/laurent-large-two-tone?variant=51811363946801"
+  "source_url": "https://laphont.com/en-us/products/laurent-large-two-tone?variant=51811363946801",
+  "sku": "30040",
+  "price_rate": 111,
+  "source_price_usd": "147.20",
+  "source_regular_usd": "184.00"
  },
  {
   "id": 51811363979569,
@@ -16020,7 +16193,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_0eec7301-d3fb-4f13-99d7-570bbdf14f68.png?v=1763761187",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_674e874b-5256-497b-976e-b16b9bb6f339.png?v=1763761165"
   ],
-  "source_url": "https://laphont.com/en-us/products/laurent-large-two-tone?variant=51811363979569"
+  "source_url": "https://laphont.com/en-us/products/laurent-large-two-tone?variant=51811363979569",
+  "sku": "30042",
+  "price_rate": 111,
+  "source_price_usd": "147.20",
+  "source_regular_usd": "184.00"
  },
  {
   "id": 51811364012337,
@@ -16041,27 +16218,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19_ab3b6f5d-6c61-41e2-a421-e7b201ce6044.png?v=1763761165",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_674e874b-5256-497b-976e-b16b9bb6f339.png?v=1763761165"
   ],
-  "source_url": "https://laphont.com/en-us/products/laurent-large-two-tone?variant=51811364012337"
- },
- {
-  "id": 52076732776753,
-  "product_id": 10461233185073,
-  "title": "Laurent Small Gold — White",
-  "model_name": "Laurent Small Gold",
-  "variant": "White",
-  "type": "Watch",
-  "brand": "LAPHONT",
-  "price_rub": 11900,
-  "old_rub": 14900,
-  "sale": true,
-  "available": true,
-  "images": [
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_80c9e699-b0cf-4d80-95fc-7bdac78d1916.png?v=1763761322",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_f7bb0586-29fa-410a-b853-bed4566b7093.png?v=1763761322",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_9893ba3f-a595-4e83-ab8f-cdb4e9176365.png?v=1763761322",
-   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_85ae5dc2-c978-4f67-a27a-62f144871c12.png?v=1763761322"
-  ],
-  "source_url": "https://laphont.com/en-us/products/laurent-small-gold-leather?variant=52076732776753"
+  "source_url": "https://laphont.com/en-us/products/laurent-large-two-tone?variant=51811364012337",
+  "sku": "30041",
+  "price_rate": 111,
+  "source_price_usd": "147.20",
+  "source_regular_usd": "184.00"
  },
  {
   "id": 51811372728625,
@@ -16080,7 +16241,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_4de58afe-8ef7-4efd-b84f-98adb0c27660.png?v=1762297306",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_0b7db266-0b4a-48cc-a5f4-649a13179475.png?v=1762297283"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372728625"
+  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372728625",
+  "sku": "80021",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811372761393,
@@ -16099,7 +16264,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_4de58afe-8ef7-4efd-b84f-98adb0c27660.png?v=1762297306",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_0b7db266-0b4a-48cc-a5f4-649a13179475.png?v=1762297283"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372761393"
+  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372761393",
+  "sku": "80022",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811372794161,
@@ -16118,7 +16287,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_4de58afe-8ef7-4efd-b84f-98adb0c27660.png?v=1762297306",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_0b7db266-0b4a-48cc-a5f4-649a13179475.png?v=1762297283"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372794161"
+  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372794161",
+  "sku": "80023",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811372826929,
@@ -16137,7 +16310,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_4de58afe-8ef7-4efd-b84f-98adb0c27660.png?v=1762297306",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_0b7db266-0b4a-48cc-a5f4-649a13179475.png?v=1762297283"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372826929"
+  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372826929",
+  "sku": "80024",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811372859697,
@@ -16156,7 +16333,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_4de58afe-8ef7-4efd-b84f-98adb0c27660.png?v=1762297306",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_0b7db266-0b4a-48cc-a5f4-649a13179475.png?v=1762297283"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372859697"
+  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372859697",
+  "sku": "80025",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811372564785,
@@ -16175,7 +16356,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_de3dc82d-967d-4de1-af5a-2c05495203a7.png?v=1762297272",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_0b7db266-0b4a-48cc-a5f4-649a13179475.png?v=1762297283"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372564785"
+  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372564785",
+  "sku": "80026",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811372597553,
@@ -16194,7 +16379,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_de3dc82d-967d-4de1-af5a-2c05495203a7.png?v=1762297272",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_0b7db266-0b4a-48cc-a5f4-649a13179475.png?v=1762297283"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372597553"
+  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372597553",
+  "sku": "80027",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811372630321,
@@ -16213,7 +16402,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_de3dc82d-967d-4de1-af5a-2c05495203a7.png?v=1762297272",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_0b7db266-0b4a-48cc-a5f4-649a13179475.png?v=1762297283"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372630321"
+  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372630321",
+  "sku": "80028",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811372663089,
@@ -16232,7 +16425,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_de3dc82d-967d-4de1-af5a-2c05495203a7.png?v=1762297272",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_0b7db266-0b4a-48cc-a5f4-649a13179475.png?v=1762297283"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372663089"
+  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372663089",
+  "sku": "80029",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811372695857,
@@ -16251,7 +16448,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_de3dc82d-967d-4de1-af5a-2c05495203a7.png?v=1762297272",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_0b7db266-0b4a-48cc-a5f4-649a13179475.png?v=1762297283"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372695857"
+  "source_url": "https://laphont.com/en-us/products/fluted-gemstone-signet-ring?variant=51811372695857",
+  "sku": "80030",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811373482289,
@@ -16269,7 +16470,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_dd5c4b9e-0220-4cd3-b64c-ced574bd95b1.png?v=1762298042",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_2023c662-e972-4c15-a745-f03736db4ef4.png?v=1762298042"
   ],
-  "source_url": "https://laphont.com/en-us/products/morningstar-ring?variant=51811373482289"
+  "source_url": "https://laphont.com/en-us/products/morningstar-ring?variant=51811373482289",
+  "sku": "80006",
+  "price_rate": 111,
+  "source_price_usd": "14.00",
+  "source_regular_usd": "20.00"
  },
  {
   "id": 51811373515057,
@@ -16287,7 +16492,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_dd5c4b9e-0220-4cd3-b64c-ced574bd95b1.png?v=1762298042",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_2023c662-e972-4c15-a745-f03736db4ef4.png?v=1762298042"
   ],
-  "source_url": "https://laphont.com/en-us/products/morningstar-ring?variant=51811373515057"
+  "source_url": "https://laphont.com/en-us/products/morningstar-ring?variant=51811373515057",
+  "sku": "80007",
+  "price_rate": 111,
+  "source_price_usd": "14.00",
+  "source_regular_usd": "20.00"
  },
  {
   "id": 51811373547825,
@@ -16305,7 +16514,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_dd5c4b9e-0220-4cd3-b64c-ced574bd95b1.png?v=1762298042",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_2023c662-e972-4c15-a745-f03736db4ef4.png?v=1762298042"
   ],
-  "source_url": "https://laphont.com/en-us/products/morningstar-ring?variant=51811373547825"
+  "source_url": "https://laphont.com/en-us/products/morningstar-ring?variant=51811373547825",
+  "sku": "80008",
+  "price_rate": 111,
+  "source_price_usd": "14.00",
+  "source_regular_usd": "20.00"
  },
  {
   "id": 51811373580593,
@@ -16323,7 +16536,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_dd5c4b9e-0220-4cd3-b64c-ced574bd95b1.png?v=1762298042",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_2023c662-e972-4c15-a745-f03736db4ef4.png?v=1762298042"
   ],
-  "source_url": "https://laphont.com/en-us/products/morningstar-ring?variant=51811373580593"
+  "source_url": "https://laphont.com/en-us/products/morningstar-ring?variant=51811373580593",
+  "sku": "80009",
+  "price_rate": 111,
+  "source_price_usd": "14.00",
+  "source_regular_usd": "20.00"
  },
  {
   "id": 51811373613361,
@@ -16341,7 +16558,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_dd5c4b9e-0220-4cd3-b64c-ced574bd95b1.png?v=1762298042",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_2023c662-e972-4c15-a745-f03736db4ef4.png?v=1762298042"
   ],
-  "source_url": "https://laphont.com/en-us/products/morningstar-ring?variant=51811373613361"
+  "source_url": "https://laphont.com/en-us/products/morningstar-ring?variant=51811373613361",
+  "sku": "80010",
+  "price_rate": 111,
+  "source_price_usd": "14.00",
+  "source_regular_usd": "20.00"
  },
  {
   "id": 51811374235953,
@@ -16351,15 +16572,19 @@ const PRODUCTS = [
   "variant": "Stainless Steel / XS",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2300,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1600,
+  "old_rub": 2300,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_899131bb-36b8-4b0a-a448-5a0a59031eb4.png?v=1762642018",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_c01d896d-c35f-4660-8cb3-108376b41c3f.png?v=1762642018"
   ],
-  "source_url": "https://laphont.com/en-us/products/root-ring?variant=51811374235953"
+  "source_url": "https://laphont.com/en-us/products/root-ring?variant=51811374235953",
+  "sku": "80016",
+  "price_rate": 111,
+  "source_price_usd": "14.00",
+  "source_regular_usd": "20.00"
  },
  {
   "id": 51811374268721,
@@ -16369,15 +16594,19 @@ const PRODUCTS = [
   "variant": "Stainless Steel / S",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2300,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1600,
+  "old_rub": 2300,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_899131bb-36b8-4b0a-a448-5a0a59031eb4.png?v=1762642018",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_c01d896d-c35f-4660-8cb3-108376b41c3f.png?v=1762642018"
   ],
-  "source_url": "https://laphont.com/en-us/products/root-ring?variant=51811374268721"
+  "source_url": "https://laphont.com/en-us/products/root-ring?variant=51811374268721",
+  "sku": "80017",
+  "price_rate": 111,
+  "source_price_usd": "14.00",
+  "source_regular_usd": "20.00"
  },
  {
   "id": 51811374301489,
@@ -16387,15 +16616,19 @@ const PRODUCTS = [
   "variant": "Stainless Steel / M",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2300,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1600,
+  "old_rub": 2300,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_899131bb-36b8-4b0a-a448-5a0a59031eb4.png?v=1762642018",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_c01d896d-c35f-4660-8cb3-108376b41c3f.png?v=1762642018"
   ],
-  "source_url": "https://laphont.com/en-us/products/root-ring?variant=51811374301489"
+  "source_url": "https://laphont.com/en-us/products/root-ring?variant=51811374301489",
+  "sku": "80018",
+  "price_rate": 111,
+  "source_price_usd": "14.00",
+  "source_regular_usd": "20.00"
  },
  {
   "id": 51811374334257,
@@ -16405,15 +16638,19 @@ const PRODUCTS = [
   "variant": "Stainless Steel / L",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2300,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1600,
+  "old_rub": 2300,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_899131bb-36b8-4b0a-a448-5a0a59031eb4.png?v=1762642018",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_c01d896d-c35f-4660-8cb3-108376b41c3f.png?v=1762642018"
   ],
-  "source_url": "https://laphont.com/en-us/products/root-ring?variant=51811374334257"
+  "source_url": "https://laphont.com/en-us/products/root-ring?variant=51811374334257",
+  "sku": "80019",
+  "price_rate": 111,
+  "source_price_usd": "14.00",
+  "source_regular_usd": "20.00"
  },
  {
   "id": 51811374367025,
@@ -16423,15 +16660,19 @@ const PRODUCTS = [
   "variant": "Stainless Steel / XL",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2300,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
+  "price_rub": 1600,
+  "old_rub": 2300,
+  "sale": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_899131bb-36b8-4b0a-a448-5a0a59031eb4.png?v=1762642018",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_c01d896d-c35f-4660-8cb3-108376b41c3f.png?v=1762642018"
   ],
-  "source_url": "https://laphont.com/en-us/products/root-ring?variant=51811374367025"
+  "source_url": "https://laphont.com/en-us/products/root-ring?variant=51811374367025",
+  "sku": "80020",
+  "price_rate": 111,
+  "source_price_usd": "14.00",
+  "source_regular_usd": "20.00"
  },
  {
   "id": 51811370565937,
@@ -16450,7 +16691,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_5850687c-4a1d-4328-bb7c-ebcf88323c92.png?v=1762296867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_a432d543-ce63-4762-bcca-6c103cb9935f.png?v=1762296867"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370565937"
+  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370565937",
+  "sku": "80031",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811370598705,
@@ -16469,7 +16714,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_5850687c-4a1d-4328-bb7c-ebcf88323c92.png?v=1762296867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_a432d543-ce63-4762-bcca-6c103cb9935f.png?v=1762296867"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370598705"
+  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370598705",
+  "sku": "80032",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811370631473,
@@ -16488,7 +16737,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_5850687c-4a1d-4328-bb7c-ebcf88323c92.png?v=1762296867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_a432d543-ce63-4762-bcca-6c103cb9935f.png?v=1762296867"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370631473"
+  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370631473",
+  "sku": "80033",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811370664241,
@@ -16507,7 +16760,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_5850687c-4a1d-4328-bb7c-ebcf88323c92.png?v=1762296867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_a432d543-ce63-4762-bcca-6c103cb9935f.png?v=1762296867"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370664241"
+  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370664241",
+  "sku": "80034",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811370697009,
@@ -16526,7 +16783,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_5850687c-4a1d-4328-bb7c-ebcf88323c92.png?v=1762296867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_a432d543-ce63-4762-bcca-6c103cb9935f.png?v=1762296867"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370697009"
+  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370697009",
+  "sku": "80035",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811370402097,
@@ -16545,7 +16806,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_d78a9162-13e5-4e56-a0fd-477001eab8bf.png?v=1762296867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_a432d543-ce63-4762-bcca-6c103cb9935f.png?v=1762296867"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370402097"
+  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370402097",
+  "sku": "80036",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811370434865,
@@ -16564,7 +16829,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_d78a9162-13e5-4e56-a0fd-477001eab8bf.png?v=1762296867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_a432d543-ce63-4762-bcca-6c103cb9935f.png?v=1762296867"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370434865"
+  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370434865",
+  "sku": "80037",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811370467633,
@@ -16583,7 +16852,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_d78a9162-13e5-4e56-a0fd-477001eab8bf.png?v=1762296867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_a432d543-ce63-4762-bcca-6c103cb9935f.png?v=1762296867"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370467633"
+  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370467633",
+  "sku": "80038",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811370500401,
@@ -16602,7 +16875,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_d78a9162-13e5-4e56-a0fd-477001eab8bf.png?v=1762296867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_a432d543-ce63-4762-bcca-6c103cb9935f.png?v=1762296867"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370500401"
+  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370500401",
+  "sku": "80039",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811370533169,
@@ -16621,7 +16898,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_d78a9162-13e5-4e56-a0fd-477001eab8bf.png?v=1762296867",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_a432d543-ce63-4762-bcca-6c103cb9935f.png?v=1762296867"
   ],
-  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370533169"
+  "source_url": "https://laphont.com/en-us/products/fluted-signet-ring?variant=51811370533169",
+  "sku": "80040",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811376136497,
@@ -16631,9 +16912,9 @@ const PRODUCTS = [
   "variant": "Crystal and Black Diamond / Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_005fddd3-4ab1-49e9-9a9e-d9e3fe2e9256.png?v=1758575001",
@@ -16648,7 +16929,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-21_3bd7812c-f7d4-43d6-b7a0-405a54d73aab.png?v=1760131874",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20_35518aab-6cf3-40b3-8ce5-886dc7649481.png?v=1760131874"
   ],
-  "source_url": "https://laphont.com/en-us/products/4mm-tennis-bracelet?variant=51811376136497"
+  "source_url": "https://laphont.com/en-us/products/4mm-tennis-bracelet?variant=51811376136497",
+  "sku": "70009",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811376169265,
@@ -16658,9 +16943,9 @@ const PRODUCTS = [
   "variant": "Blue Tonal / Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-21_3bd7812c-f7d4-43d6-b7a0-405a54d73aab.png?v=1760131874",
@@ -16675,7 +16960,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8.png?v=1760131874",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20_35518aab-6cf3-40b3-8ce5-886dc7649481.png?v=1760131874"
   ],
-  "source_url": "https://laphont.com/en-us/products/4mm-tennis-bracelet?variant=51811376169265"
+  "source_url": "https://laphont.com/en-us/products/4mm-tennis-bracelet?variant=51811376169265",
+  "sku": "70011",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811376202033,
@@ -16685,9 +16974,9 @@ const PRODUCTS = [
   "variant": "Forest Green and Pink / Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20_35518aab-6cf3-40b3-8ce5-886dc7649481.png?v=1760131874",
@@ -16702,7 +16991,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8.png?v=1760131874",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-21_3bd7812c-f7d4-43d6-b7a0-405a54d73aab.png?v=1760131874"
   ],
-  "source_url": "https://laphont.com/en-us/products/4mm-tennis-bracelet?variant=51811376202033"
+  "source_url": "https://laphont.com/en-us/products/4mm-tennis-bracelet?variant=51811376202033",
+  "sku": "70013",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811375087921,
@@ -16712,9 +17005,9 @@ const PRODUCTS = [
   "variant": "Crystal and Black Diamond / Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_3e1efb76-d001-4966-b150-2476a1690926.png?v=1758575068",
@@ -16728,7 +17021,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_87ffce8d-41f2-436b-9d6b-985fb6a3dae9.png?v=1760131919",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_deb0feae-f480-4bb4-8331-6af86341bb4c.png?v=1760131919"
   ],
-  "source_url": "https://laphont.com/en-us/products/3mm-tennis-bracelet?variant=51811375087921"
+  "source_url": "https://laphont.com/en-us/products/3mm-tennis-bracelet?variant=51811375087921",
+  "sku": "70003",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811375120689,
@@ -16738,9 +17035,9 @@ const PRODUCTS = [
   "variant": "Blue Tonal / Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_87ffce8d-41f2-436b-9d6b-985fb6a3dae9.png?v=1760131919",
@@ -16754,7 +17051,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11.png?v=1760131919",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_deb0feae-f480-4bb4-8331-6af86341bb4c.png?v=1760131919"
   ],
-  "source_url": "https://laphont.com/en-us/products/3mm-tennis-bracelet?variant=51811375120689"
+  "source_url": "https://laphont.com/en-us/products/3mm-tennis-bracelet?variant=51811375120689",
+  "sku": "70005",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811375153457,
@@ -16764,9 +17065,9 @@ const PRODUCTS = [
   "variant": "Forest Green and Pink / Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_deb0feae-f480-4bb4-8331-6af86341bb4c.png?v=1760131919",
@@ -16780,7 +17081,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11.png?v=1760131919",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_87ffce8d-41f2-436b-9d6b-985fb6a3dae9.png?v=1760131919"
   ],
-  "source_url": "https://laphont.com/en-us/products/3mm-tennis-bracelet?variant=51811375153457"
+  "source_url": "https://laphont.com/en-us/products/3mm-tennis-bracelet?variant=51811375153457",
+  "sku": "70007",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811369058609,
@@ -16790,9 +17095,9 @@ const PRODUCTS = [
   "variant": "Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-41.png?v=1759614979",
@@ -16803,7 +17108,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-24.png?v=1760131976",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-22.png?v=1760131976"
   ],
-  "source_url": "https://laphont.com/en-us/products/3mm-rope-chain?variant=51811369058609"
+  "source_url": "https://laphont.com/en-us/products/3mm-rope-chain?variant=51811369058609",
+  "sku": "60008",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811369091377,
@@ -16813,9 +17122,9 @@ const PRODUCTS = [
   "variant": "14K Gold Plated Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-40.png?v=1760131976",
@@ -16826,7 +17135,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-24.png?v=1760131976",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-22.png?v=1760131976"
   ],
-  "source_url": "https://laphont.com/en-us/products/3mm-rope-chain?variant=51811369091377"
+  "source_url": "https://laphont.com/en-us/products/3mm-rope-chain?variant=51811369091377",
+  "sku": "60007",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811368927537,
@@ -16834,11 +17147,11 @@ const PRODUCTS = [
   "title": "6mm Cuban Chain — Stainless Steel",
   "model_name": "6mm Cuban Chain",
   "variant": "Stainless Steel",
-  "type": "Watch",
+  "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-39.png?v=1759614987",
@@ -16849,7 +17162,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-48.png?v=1760132168",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-50.png?v=1760132168"
   ],
-  "source_url": "https://laphont.com/en-us/products/6mm-cuban-chain?variant=51811368927537"
+  "source_url": "https://laphont.com/en-us/products/6mm-cuban-chain?variant=51811368927537",
+  "sku": "60006",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811368960305,
@@ -16857,11 +17174,11 @@ const PRODUCTS = [
   "title": "6mm Cuban Chain — 14K Gold Plated Stainless Steel",
   "model_name": "6mm Cuban Chain",
   "variant": "14K Gold Plated Stainless Steel",
-  "type": "Watch",
+  "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-38.png?v=1760132168",
@@ -16872,7 +17189,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-48.png?v=1760132168",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-50.png?v=1760132168"
   ],
-  "source_url": "https://laphont.com/en-us/products/6mm-cuban-chain?variant=51811368960305"
+  "source_url": "https://laphont.com/en-us/products/6mm-cuban-chain?variant=51811368960305",
+  "sku": "60005",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811368862001,
@@ -16882,10 +17203,10 @@ const PRODUCTS = [
   "variant": "14K Gold Plated Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-43.png?v=1760130999",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_54318fb8-559c-40c8-b1d8-bdb12a584fa3.png?v=1760130999",
@@ -16895,7 +17216,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-44.png?v=1760130999",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-28.png?v=1760130999"
   ],
-  "source_url": "https://laphont.com/en-us/products/4mm-cuban-chain?variant=51811368862001"
+  "source_url": "https://laphont.com/en-us/products/4mm-cuban-chain?variant=51811368862001",
+  "sku": "60003",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811368829233,
@@ -16905,9 +17230,9 @@ const PRODUCTS = [
   "variant": "Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-44.png?v=1760130999",
@@ -16918,7 +17243,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-26.png?v=1760130999",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-28.png?v=1760130999"
   ],
-  "source_url": "https://laphont.com/en-us/products/4mm-cuban-chain?variant=51811368829233"
+  "source_url": "https://laphont.com/en-us/products/4mm-cuban-chain?variant=51811368829233",
+  "sku": "60004",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811368468785,
@@ -16928,9 +17257,9 @@ const PRODUCTS = [
   "variant": "Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 4000,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2800,
+  "old_rub": 4000,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-46.png?v=1759615017",
@@ -16940,7 +17269,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-45.png?v=1760132343",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18.png?v=1760132343"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-bracelet?variant=51811368468785"
+  "source_url": "https://laphont.com/en-us/products/melting-bracelet?variant=51811368468785",
+  "sku": "70002",
+  "price_rate": 111,
+  "source_price_usd": "25.20",
+  "source_regular_usd": "36.00"
  },
  {
   "id": 51811368501553,
@@ -16950,9 +17283,9 @@ const PRODUCTS = [
   "variant": "14K Gold Plated Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 4000,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 2800,
+  "old_rub": 4000,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-45.png?v=1760132343",
@@ -16962,7 +17295,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19.png?v=1760132343",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18.png?v=1760132343"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-bracelet?variant=51811368501553"
+  "source_url": "https://laphont.com/en-us/products/melting-bracelet?variant=51811368501553",
+  "sku": "70001",
+  "price_rate": 111,
+  "source_price_usd": "25.20",
+  "source_regular_usd": "36.00"
  },
  {
   "id": 51811367485745,
@@ -16984,7 +17321,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_5c1aff81-c308-4701-95a1-cd06c726d46b.png?v=1760132327",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-35.png?v=1760132327"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-chain?variant=51811367485745"
+  "source_url": "https://laphont.com/en-us/products/melting-chain?variant=51811367485745",
+  "sku": "60002",
+  "price_rate": 111,
+  "source_price_usd": "45.50",
+  "source_regular_usd": "65.00"
  },
  {
   "id": 51811367518513,
@@ -17006,7 +17347,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-33.png?v=1760132327",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-35.png?v=1760132327"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-chain?variant=51811367518513"
+  "source_url": "https://laphont.com/en-us/products/melting-chain?variant=51811367518513",
+  "sku": "60001",
+  "price_rate": 111,
+  "source_price_usd": "45.50",
+  "source_regular_usd": "65.00"
  },
  {
   "id": 51811367354673,
@@ -17016,9 +17361,9 @@ const PRODUCTS = [
   "variant": "Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-51.png?v=1759615026",
@@ -17027,7 +17372,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-42.png?v=1760132097",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-30.png?v=1760132097"
   ],
-  "source_url": "https://laphont.com/en-us/products/figaro-chain-5mm?variant=51811367354673"
+  "source_url": "https://laphont.com/en-us/products/figaro-chain-5mm?variant=51811367354673",
+  "sku": "60010",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51811367387441,
@@ -17037,9 +17386,9 @@ const PRODUCTS = [
   "variant": "14K Gold Plated Stainless Steel",
   "type": "Jewelry",
   "brand": "LAPHONT",
-  "price_rub": 2700,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 1900,
+  "old_rub": 2700,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-42.png?v=1760132097",
@@ -17048,7 +17397,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-29.png?v=1760132097",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-30.png?v=1760132097"
   ],
-  "source_url": "https://laphont.com/en-us/products/figaro-chain-5mm?variant=51811367387441"
+  "source_url": "https://laphont.com/en-us/products/figaro-chain-5mm?variant=51811367387441",
+  "sku": "60009",
+  "price_rate": 111,
+  "source_price_usd": "16.80",
+  "source_regular_usd": "24.00"
  },
  {
   "id": 51817718317361,
@@ -17058,9 +17411,9 @@ const PRODUCTS = [
   "variant": "Black / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18.webp?v=1751384828",
@@ -17072,7 +17425,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19.jpg?v=1758171031",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_f6b9861a-eda8-4569-b211-9c7aa6d3edaf.jpg?v=1758171031"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-silver-large-new?variant=51817718317361"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-silver-large-new?variant=51817718317361",
+  "sku": "20019",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817719234865,
@@ -17082,10 +17439,10 @@ const PRODUCTS = [
   "variant": "Black / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_f6b9861a-eda8-4569-b211-9c7aa6d3edaf.jpg?v=1758171031",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18.webp?v=1751384828",
@@ -17096,7 +17453,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silversquareback.webp?v=1758171031",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19.jpg?v=1758171031"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-silver-large-new?variant=51817719234865"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-silver-large-new?variant=51817719234865",
+  "sku": "20050",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52163205529905,
@@ -17106,9 +17467,9 @@ const PRODUCTS = [
   "variant": "Black / Arabic",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-18.webp?v=1751384828",
@@ -17120,7 +17481,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19.jpg?v=1758171031",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_f6b9861a-eda8-4569-b211-9c7aa6d3edaf.jpg?v=1758171031"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-silver-large-new?variant=52163205529905"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-silver-large-new?variant=52163205529905",
+  "sku": "20083",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817718350129,
@@ -17130,9 +17495,9 @@ const PRODUCTS = [
   "variant": "Brown / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-19.jpg?v=1758171031",
@@ -17144,7 +17509,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silversquareback.webp?v=1758171031",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_f6b9861a-eda8-4569-b211-9c7aa6d3edaf.jpg?v=1758171031"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-silver-large-new?variant=51817718350129"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-silver-large-new?variant=51817718350129",
+  "sku": "20020",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817715269937,
@@ -17154,9 +17523,9 @@ const PRODUCTS = [
   "variant": "Black / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20.webp?v=1751557659",
@@ -17168,7 +17537,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-23_11b654ef-00bb-4dfa-8971-baa312c0906d.webp?v=1753121662",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_886e7e6c-fe67-45ff-9b9a-1b68e1152e2d.jpg?v=1743186815"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-silver?variant=51817715269937"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-silver?variant=51817715269937",
+  "sku": "20017",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817717858609,
@@ -17178,9 +17551,9 @@ const PRODUCTS = [
   "variant": "Black / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_886e7e6c-fe67-45ff-9b9a-1b68e1152e2d.jpg?v=1743186815",
@@ -17192,7 +17565,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_098d968d-6425-4149-9c50-11a7123fb50c.webp?v=1753121662",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-23_11b654ef-00bb-4dfa-8971-baa312c0906d.webp?v=1753121662"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-silver?variant=51817717858609"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-silver?variant=51817717858609",
+  "sku": "20049",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52163205628209,
@@ -17202,9 +17579,9 @@ const PRODUCTS = [
   "variant": "Black / Arabic",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-20.webp?v=1751557659",
@@ -17216,7 +17593,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-23_11b654ef-00bb-4dfa-8971-baa312c0906d.webp?v=1753121662",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_886e7e6c-fe67-45ff-9b9a-1b68e1152e2d.jpg?v=1743186815"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-silver?variant=52163205628209"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-silver?variant=52163205628209",
+  "sku": "20082",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817715302705,
@@ -17226,9 +17607,9 @@ const PRODUCTS = [
   "variant": "Brown / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-23_11b654ef-00bb-4dfa-8971-baa312c0906d.webp?v=1753121662",
@@ -17240,7 +17621,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_098d968d-6425-4149-9c50-11a7123fb50c.webp?v=1753121662",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_886e7e6c-fe67-45ff-9b9a-1b68e1152e2d.jpg?v=1743186815"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-silver?variant=51817715302705"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-silver?variant=51817715302705",
+  "sku": "20018",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817693511985,
@@ -17250,9 +17635,9 @@ const PRODUCTS = [
   "variant": "Black / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_1_dcb4bfcb-1031-4273-9cbc-66a838be2c2c_1.png?v=1779562528",
@@ -17267,7 +17652,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_cdc6c84b-cbba-458d-b250-dde23d67ad43.png?v=1779565104"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-small?variant=51817693511985"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-small?variant=51817693511985",
+  "sku": "20009",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817693544753,
@@ -17277,9 +17666,9 @@ const PRODUCTS = [
   "variant": "Black / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/blackslvrblackdial.webp?v=1760132474",
@@ -17294,7 +17683,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_cdc6c84b-cbba-458d-b250-dde23d67ad43.png?v=1779565104"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-small?variant=51817693544753"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-small?variant=51817693544753",
+  "sku": "21009",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817693577521,
@@ -17304,9 +17697,9 @@ const PRODUCTS = [
   "variant": "Black / Salmon",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/salmonsmall_1.webp?v=1760132474",
@@ -17321,7 +17714,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_cdc6c84b-cbba-458d-b250-dde23d67ad43.png?v=1779565104"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-small?variant=51817693577521"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-small?variant=51817693577521",
+  "sku": "20055",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52179587727665,
@@ -17331,9 +17728,9 @@ const PRODUCTS = [
   "variant": "Black / Arabic",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_cdc6c84b-cbba-458d-b250-dde23d67ad43.png?v=1779565104",
@@ -17348,7 +17745,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silvergreen.png?v=1763084496",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-small?variant=52179587727665"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-small?variant=52179587727665",
+  "sku": "20059",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817693610289,
@@ -17358,9 +17759,9 @@ const PRODUCTS = [
   "variant": "Brown / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Silver_Brown_1.png?v=1760132474",
@@ -17375,7 +17776,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_cdc6c84b-cbba-458d-b250-dde23d67ad43.png?v=1779565104"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-small?variant=51817693610289"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-small?variant=51817693610289",
+  "sku": "20010",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817693643057,
@@ -17385,9 +17790,9 @@ const PRODUCTS = [
   "variant": "Green / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silvergreen.png?v=1763084496",
@@ -17402,7 +17807,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_cdc6c84b-cbba-458d-b250-dde23d67ad43.png?v=1779565104"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-small?variant=51817693643057"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-small?variant=51817693643057",
+  "sku": "20032",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817684336945,
@@ -17412,9 +17821,9 @@ const PRODUCTS = [
   "variant": "Black / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-15.webp?v=1751384902",
@@ -17430,7 +17839,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Laphontsalmon_b8fe17c9-24c7-4905-8c2b-5acfda6ce28c.png?v=1765316197"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-large?variant=51817684336945"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-large?variant=51817684336945",
+  "sku": "20007",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817690661169,
@@ -17440,9 +17853,9 @@ const PRODUCTS = [
   "variant": "Black / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_6cdf90d9-ea2b-446a-9715-1bc1e83b7eb5.jpg?v=1751383478",
@@ -17458,7 +17871,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Laphontsalmon_b8fe17c9-24c7-4905-8c2b-5acfda6ce28c.png?v=1765316197"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-large?variant=51817690661169"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-large?variant=51817690661169",
+  "sku": "21007",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817690693937,
@@ -17468,9 +17885,9 @@ const PRODUCTS = [
   "variant": "Black / Salmon",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Laphontsalmon_b8fe17c9-24c7-4905-8c2b-5acfda6ce28c.png?v=1765316197",
@@ -17486,7 +17903,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_6cdf90d9-ea2b-446a-9715-1bc1e83b7eb5.jpg?v=1751383478",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-large?variant=51817690693937"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-large?variant=51817690693937",
+  "sku": "20048",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52163182887217,
@@ -17496,9 +17917,9 @@ const PRODUCTS = [
   "variant": "Black / Arabic",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
@@ -17514,7 +17935,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14_6cdf90d9-ea2b-446a-9715-1bc1e83b7eb5.jpg?v=1751383478",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Laphontsalmon_b8fe17c9-24c7-4905-8c2b-5acfda6ce28c.png?v=1765316197"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-large?variant=52163182887217"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-large?variant=52163182887217",
+  "sku": "20058",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817684402481,
@@ -17524,9 +17949,9 @@ const PRODUCTS = [
   "variant": "Brown / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-13_497402a4-73b5-4b07-97e6-822d5dd49600.webp?v=1751385064",
@@ -17542,7 +17967,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Laphontsalmon_b8fe17c9-24c7-4905-8c2b-5acfda6ce28c.png?v=1765316197"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-large?variant=51817684402481"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-large?variant=51817684402481",
+  "sku": "20008",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817684468017,
@@ -17552,9 +17981,9 @@ const PRODUCTS = [
   "variant": "Green / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsg-1_1_f0a69267-0ab7-4f63-9969-c6cd89018e16.webp?v=1747322943",
@@ -17570,7 +17999,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/mwslvrlrgarabic.png?v=1765315863",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Laphontsalmon_b8fe17c9-24c7-4905-8c2b-5acfda6ce28c.png?v=1765316197"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-large?variant=51817684468017"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-silver-large?variant=51817684468017",
+  "sku": "20031",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817634136369,
@@ -17580,9 +18013,9 @@ const PRODUCTS = [
   "variant": "Black / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-21_481bdf1d-4291-4c9e-8b55-e4c55d7d4a46.webp?v=1751490060",
@@ -17597,7 +18030,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsmgr-1_328389de-28b2-434e-8d5b-0793a82831c2.webp?v=1764977285",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1.png?v=1766858901"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-gold?variant=51817634136369"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-gold?variant=51817634136369",
+  "sku": "20011",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817634660657,
@@ -17607,9 +18044,9 @@ const PRODUCTS = [
   "variant": "Black / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsblf.webp?v=1732487535",
@@ -17624,7 +18061,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsmgr-1_328389de-28b2-434e-8d5b-0793a82831c2.webp?v=1764977285",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1.png?v=1766858901"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-gold?variant=51817634660657"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-gold?variant=51817634660657",
+  "sku": "20037",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52163205103921,
@@ -17634,9 +18075,9 @@ const PRODUCTS = [
   "variant": "Black / Arabic",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1.png?v=1766858901",
@@ -17651,7 +18092,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsblf.webp?v=1732487535",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsmgr-1_328389de-28b2-434e-8d5b-0793a82831c2.webp?v=1764977285"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-gold?variant=52163205103921"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-gold?variant=52163205103921",
+  "sku": "20080",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817634169137,
@@ -17661,9 +18106,9 @@ const PRODUCTS = [
   "variant": "Brown / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-22_0bf3d158-aa12-4cb4-886d-8e60f45ab9d2.jpg?v=1753121676",
@@ -17678,7 +18123,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsmgr-1_328389de-28b2-434e-8d5b-0793a82831c2.webp?v=1764977285",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1.png?v=1766858901"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-gold?variant=51817634169137"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-gold?variant=51817634169137",
+  "sku": "20012",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817634201905,
@@ -17688,9 +18137,9 @@ const PRODUCTS = [
   "variant": "Green / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsmgr-1_328389de-28b2-434e-8d5b-0793a82831c2.webp?v=1764977285",
@@ -17705,7 +18154,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsblf.webp?v=1732487535",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1.png?v=1766858901"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-gold?variant=51817634201905"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-small-gold?variant=51817634201905",
+  "sku": "20013",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817595666737,
@@ -17715,9 +18168,9 @@ const PRODUCTS = [
   "variant": "Black / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-17_2553ce89-32a8-41a9-8eed-822e20552cc2.webp?v=1751557898",
@@ -17731,7 +18184,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsbll_1.webp?v=1757709698",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_94ff3618-1dc7-4421-8022-0203193ff029.png?v=1766858914"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-large-gold?variant=51817595666737"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-large-gold?variant=51817595666737",
+  "sku": "20014",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817598419249,
@@ -17741,9 +18198,9 @@ const PRODUCTS = [
   "variant": "Black / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsbll_1.webp?v=1757709698",
@@ -17757,7 +18214,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-17_1727059c-55da-4699-851b-3b0342eef8a1.webp?v=1757709698",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_94ff3618-1dc7-4421-8022-0203193ff029.png?v=1766858914"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-large-gold?variant=51817598419249"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-large-gold?variant=51817598419249",
+  "sku": "20038",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 52163205366065,
@@ -17767,9 +18228,9 @@ const PRODUCTS = [
   "variant": "Black / Arabic",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_94ff3618-1dc7-4421-8022-0203193ff029.png?v=1766858914",
@@ -17783,7 +18244,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-17_1727059c-55da-4699-851b-3b0342eef8a1.webp?v=1757709698",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsbll_1.webp?v=1757709698"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-large-gold?variant=52163205366065"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-large-gold?variant=52163205366065",
+  "sku": "20081",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817595699505,
@@ -17793,10 +18258,10 @@ const PRODUCTS = [
   "variant": "Brown / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsbr-1.webp?v=1757709718",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-17_2553ce89-32a8-41a9-8eed-822e20552cc2.webp?v=1751557898",
@@ -17809,7 +18274,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsbll_1.webp?v=1757709698",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_94ff3618-1dc7-4421-8022-0203193ff029.png?v=1766858914"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-large-gold?variant=51817595699505"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-large-gold?variant=51817595699505",
+  "sku": "20015",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817595732273,
@@ -17819,9 +18288,9 @@ const PRODUCTS = [
   "variant": "Green / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/grngldlarge.webp?v=1757709718",
@@ -17835,7 +18304,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/gsbll_1.webp?v=1757709698",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_94ff3618-1dc7-4421-8022-0203193ff029.png?v=1766858914"
   ],
-  "source_url": "https://laphont.com/en-us/products/square-melting-watch-large-gold?variant=51817595732273"
+  "source_url": "https://laphont.com/en-us/products/square-melting-watch-large-gold?variant=51817595732273",
+  "sku": "20016",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817571483953,
@@ -17845,9 +18318,9 @@ const PRODUCTS = [
   "variant": "Black / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_bcd12f55-bc60-40f0-b2f5-155dc1cc2db1.webp?v=1753122065",
@@ -17862,7 +18335,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_bcd12f55-bc60-40f0-b2f5-155dc1cc2db1_1.jpg?v=1763506586",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_a17f96ca-b2a6-4c4c-84cf-090d6062efbe.png?v=1779563975"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-large-gold?variant=51817571483953"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-large-gold?variant=51817571483953",
+  "sku": "20001",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817585344817,
@@ -17872,10 +18349,10 @@ const PRODUCTS = [
   "variant": "Black / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/goldblacknew.webp?v=1746056586",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_bcd12f55-bc60-40f0-b2f5-155dc1cc2db1.webp?v=1753122065",
@@ -17889,7 +18366,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_bcd12f55-bc60-40f0-b2f5-155dc1cc2db1_1.jpg?v=1763506586",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_a17f96ca-b2a6-4c4c-84cf-090d6062efbe.png?v=1779563975"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-large-gold?variant=51817585344817"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-large-gold?variant=51817585344817",
+  "sku": "21001",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817585377585,
@@ -17899,9 +18380,9 @@ const PRODUCTS = [
   "variant": "Black / Cream",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_bcd12f55-bc60-40f0-b2f5-155dc1cc2db1_1.jpg?v=1763506586",
@@ -17916,7 +18397,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/goldblacknew.webp?v=1746056586",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_a17f96ca-b2a6-4c4c-84cf-090d6062efbe.png?v=1779563975"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-large-gold?variant=51817585377585"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-large-gold?variant=51817585377585",
+  "sku": "20047",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817585410353,
@@ -17926,9 +18411,9 @@ const PRODUCTS = [
   "variant": "Black / Arabic",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_a17f96ca-b2a6-4c4c-84cf-090d6062efbe.png?v=1779563975",
@@ -17943,7 +18428,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/goldblacknew.webp?v=1746056586",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_bcd12f55-bc60-40f0-b2f5-155dc1cc2db1_1.jpg?v=1763506586"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-large-gold?variant=51817585410353"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-large-gold?variant=51817585410353",
+  "sku": "20056",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817571549489,
@@ -17953,9 +18442,9 @@ const PRODUCTS = [
   "variant": "Brown / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11_f5c11654-94d7-4e26-b71b-824aa0f1b651.webp?v=1753121956",
@@ -17970,7 +18459,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_bcd12f55-bc60-40f0-b2f5-155dc1cc2db1_1.jpg?v=1763506586",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_a17f96ca-b2a6-4c4c-84cf-090d6062efbe.png?v=1779563975"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-large-gold?variant=51817571549489"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-large-gold?variant=51817571549489",
+  "sku": "20002",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817571615025,
@@ -17980,9 +18473,9 @@ const PRODUCTS = [
   "variant": "Green / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_1.webp?v=1753121956",
@@ -17997,7 +18490,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_bcd12f55-bc60-40f0-b2f5-155dc1cc2db1_1.jpg?v=1763506586",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_a17f96ca-b2a6-4c4c-84cf-090d6062efbe.png?v=1779563975"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-large-gold?variant=51817571615025"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-large-gold?variant=51817571615025",
+  "sku": "20003",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51848218542385,
@@ -18007,9 +18504,9 @@ const PRODUCTS = [
   "variant": "Black / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_1.png?v=1758169012",
@@ -18022,7 +18519,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_f89d1997-3fa0-4ac4-8c3f-52283832c512.png?v=1779564577",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Brown_d26cdb57-497a-474b-b7c9-8d6f6d5917fe.png?v=1784222070"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-small-gold?variant=51848218542385"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-small-gold?variant=51848218542385",
+  "sku": "20004",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817586491697,
@@ -18032,10 +18533,10 @@ const PRODUCTS = [
   "variant": "Black / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/blackgoldblackdial.webp?v=1760132625",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_1.png?v=1758169012",
@@ -18047,7 +18548,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_f89d1997-3fa0-4ac4-8c3f-52283832c512.png?v=1779564577",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Brown_d26cdb57-497a-474b-b7c9-8d6f6d5917fe.png?v=1784222070"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-small-gold?variant=51817586491697"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-small-gold?variant=51817586491697",
+  "sku": "21004",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817586524465,
@@ -18057,10 +18562,10 @@ const PRODUCTS = [
   "variant": "Black / Cream",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_1_1.png?v=1763506567",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_1.png?v=1758169012",
@@ -18072,7 +18577,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_f89d1997-3fa0-4ac4-8c3f-52283832c512.png?v=1779564577",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Brown_d26cdb57-497a-474b-b7c9-8d6f6d5917fe.png?v=1784222070"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-small-gold?variant=51817586524465"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-small-gold?variant=51817586524465",
+  "sku": "20054",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51817586557233,
@@ -18082,9 +18591,9 @@ const PRODUCTS = [
   "variant": "Black / Arabic",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_f89d1997-3fa0-4ac4-8c3f-52283832c512.png?v=1779564577",
@@ -18097,7 +18606,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_1_1.png?v=1763506567",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Brown_d26cdb57-497a-474b-b7c9-8d6f6d5917fe.png?v=1784222070"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-small-gold?variant=51817586557233"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-small-gold?variant=51817586557233",
+  "sku": "20057",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51848240988465,
@@ -18107,10 +18620,10 @@ const PRODUCTS = [
   "variant": "Brown / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Brown_d26cdb57-497a-474b-b7c9-8d6f6d5917fe.png?v=1784222070",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_1.png?v=1758169012",
@@ -18122,7 +18635,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_1_1.png?v=1763506567",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_f89d1997-3fa0-4ac4-8c3f-52283832c512.png?v=1779564577"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-small-gold?variant=51848240988465"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-small-gold?variant=51848240988465",
+  "sku": "20005",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51848241021233,
@@ -18132,9 +18649,9 @@ const PRODUCTS = [
   "variant": "Green / White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Green_1_5c7f8eda-497b-4afe-a8ad-482351ebfa06.png?v=1760132625",
@@ -18147,7 +18664,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Black_Numbers_1_1_f89d1997-3fa0-4ac4-8c3f-52283832c512.png?v=1779564577",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Melting_Watch_Gold_Brown_d26cdb57-497a-474b-b7c9-8d6f6d5917fe.png?v=1784222070"
   ],
-  "source_url": "https://laphont.com/en-us/products/melting-watch-small-gold?variant=51848241021233"
+  "source_url": "https://laphont.com/en-us/products/melting-watch-small-gold?variant=51848241021233",
+  "sku": "20006",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51810538783025,
@@ -18157,7 +18678,7 @@ const PRODUCTS = [
   "variant": "Starburst",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 7700,
   "old_rub": 12800,
   "sale": true,
   "available": false,
@@ -18169,7 +18690,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silverstarburstsidetwo.webp?v=1760132154",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silverMOP.webp?v=1760132154"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-large-silver?variant=51810538783025"
+  "source_url": "https://laphont.com/en-us/products/situ-large-silver?variant=51810538783025",
+  "sku": "20066",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51810538750257,
@@ -18179,7 +18704,7 @@ const PRODUCTS = [
   "variant": "Mother of Pearl",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 7700,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -18191,7 +18716,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silverstarburstsideone.webp?v=1760132154",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silverstarburstsidetwo.webp?v=1760132154"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-large-silver?variant=51810538750257"
+  "source_url": "https://laphont.com/en-us/products/situ-large-silver?variant=51810538750257",
+  "sku": "20065",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51810547663153,
@@ -18201,7 +18730,7 @@ const PRODUCTS = [
   "variant": "Starburst",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 9800,
+  "price_rub": 8400,
   "old_rub": 13900,
   "sale": true,
   "available": true,
@@ -18212,7 +18741,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/novagoldstarburstsideone.webp?v=1757799273",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/novagoldstarburstsideotwo.webp?v=1757799273"
   ],
-  "source_url": "https://laphont.com/en-us/products/nova-gold?variant=51810547663153"
+  "source_url": "https://laphont.com/en-us/products/nova-gold?variant=51810547663153",
+  "sku": "40010",
+  "price_rate": 111,
+  "source_price_usd": "75.00",
+  "source_regular_usd": "125.00"
  },
  {
   "id": 51810539602225,
@@ -18222,7 +18755,7 @@ const PRODUCTS = [
   "variant": "Starburst",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 7700,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -18233,7 +18766,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silverstarburstsidetwo_1de1405f-19b2-4871-a7e2-bd7c415b2d93.webp?v=1757797557",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/smallsilverMOP_f8e7c4e0-74d1-4fcb-8015-f87f35ae9ca3.webp?v=1757799917"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-small-silver?variant=51810539602225"
+  "source_url": "https://laphont.com/en-us/products/situ-small-silver?variant=51810539602225",
+  "sku": "20076",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51810539569457,
@@ -18243,7 +18780,7 @@ const PRODUCTS = [
   "variant": "Mother of Pearl",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 7700,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -18254,7 +18791,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silverstarburstsideone_043f1b14-0772-4797-9d4c-3c6aeb145fdb.webp?v=1757797557",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silverstarburstsidetwo_1de1405f-19b2-4871-a7e2-bd7c415b2d93.webp?v=1757797557"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-small-silver?variant=51810539569457"
+  "source_url": "https://laphont.com/en-us/products/situ-small-silver?variant=51810539569457",
+  "sku": "20075",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51810537767217,
@@ -18264,7 +18805,7 @@ const PRODUCTS = [
   "variant": "Starburst",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 7700,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -18276,7 +18817,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/smallgoldMOP_16c9143a-6f06-4865-b196-9717f0cc770a.webp?v=1757795889",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/smallgoldlapis_322d429d-7cbb-41e2-b570-d8f457db806f.webp?v=1757795889"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-small-gold?variant=51810537767217"
+  "source_url": "https://laphont.com/en-us/products/situ-small-gold?variant=51810537767217",
+  "sku": "20071",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51810537734449,
@@ -18286,7 +18831,7 @@ const PRODUCTS = [
   "variant": "Mother of Pearl",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 7700,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -18298,7 +18843,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/goldstarburstsidetwo_5ab0c5dc-f96e-4fb3-a83a-10a4cfcc2e5b.webp?v=1757795889",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/smallgoldlapis_322d429d-7cbb-41e2-b570-d8f457db806f.webp?v=1757795889"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-small-gold?variant=51810537734449"
+  "source_url": "https://laphont.com/en-us/products/situ-small-gold?variant=51810537734449",
+  "sku": "20070",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51810537799985,
@@ -18308,7 +18857,7 @@ const PRODUCTS = [
   "variant": "Lapis",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 7700,
   "old_rub": 12800,
   "sale": true,
   "available": false,
@@ -18320,7 +18869,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/goldstarburstsidetwo_5ab0c5dc-f96e-4fb3-a83a-10a4cfcc2e5b.webp?v=1757795889",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/smallgoldMOP_16c9143a-6f06-4865-b196-9717f0cc770a.webp?v=1757795889"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-small-gold?variant=51810537799985"
+  "source_url": "https://laphont.com/en-us/products/situ-small-gold?variant=51810537799985",
+  "sku": "20072",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51810536882481,
@@ -18330,7 +18883,7 @@ const PRODUCTS = [
   "variant": "Starburst",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 7700,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -18342,7 +18895,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/goldMOP.webp?v=1757794560",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/goldlapis.webp?v=1757794566"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-large-gold?variant=51810536882481"
+  "source_url": "https://laphont.com/en-us/products/situ-large-gold?variant=51810536882481",
+  "sku": "20061",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51810536849713,
@@ -18352,7 +18909,7 @@ const PRODUCTS = [
   "variant": "Mother of Pearl",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 7700,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -18364,7 +18921,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/goldstarburstsidetwo.webp?v=1757794544",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/goldlapis.webp?v=1757794566"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-large-gold?variant=51810536849713"
+  "source_url": "https://laphont.com/en-us/products/situ-large-gold?variant=51810536849713",
+  "sku": "20060",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51810536915249,
@@ -18374,7 +18935,7 @@ const PRODUCTS = [
   "variant": "Lapis",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 7700,
   "old_rub": 12800,
   "sale": true,
   "available": false,
@@ -18386,7 +18947,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/goldstarburstsidetwo.webp?v=1757794544",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/goldMOP.webp?v=1757794560"
   ],
-  "source_url": "https://laphont.com/en-us/products/situ-large-gold?variant=51810536915249"
+  "source_url": "https://laphont.com/en-us/products/situ-large-gold?variant=51810536915249",
+  "sku": "20062",
+  "price_rate": 111,
+  "source_price_usd": "69.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51634554274097,
@@ -18396,7 +18961,7 @@ const PRODUCTS = [
   "variant": "silver",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10500,
+  "price_rub": 9000,
   "old_rub": 15000,
   "sale": true,
   "available": true,
@@ -18410,7 +18975,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_37c520c1-4c52-4477-8c90-a0d800dd5751.webp?v=1753460992",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_3b4d8570-f36c-4e90-97df-8801149fca46.webp?v=1753460992"
   ],
-  "source_url": "https://laphont.com/en-us/products/sidewinder-silver?variant=51634554274097"
+  "source_url": "https://laphont.com/en-us/products/sidewinder-silver?variant=51634554274097",
+  "sku": "30013",
+  "price_rate": 111,
+  "source_price_usd": "81.00",
+  "source_regular_usd": "135.00"
  },
  {
   "id": 51634554306865,
@@ -18420,7 +18989,7 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10500,
+  "price_rub": 9000,
   "old_rub": 15000,
   "sale": true,
   "available": true,
@@ -18434,7 +19003,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_108cbe0e-e32b-4d7c-ab7c-b4c42516154f.webp?v=1753460992",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_3b4d8570-f36c-4e90-97df-8801149fca46.webp?v=1753460992"
   ],
-  "source_url": "https://laphont.com/en-us/products/sidewinder-silver?variant=51634554306865"
+  "source_url": "https://laphont.com/en-us/products/sidewinder-silver?variant=51634554306865",
+  "sku": "30011",
+  "price_rate": 111,
+  "source_price_usd": "81.00",
+  "source_regular_usd": "135.00"
  },
  {
   "id": 51634554339633,
@@ -18444,7 +19017,7 @@ const PRODUCTS = [
   "variant": "Red",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10500,
+  "price_rub": 9000,
   "old_rub": 15000,
   "sale": true,
   "available": true,
@@ -18458,7 +19031,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_108cbe0e-e32b-4d7c-ab7c-b4c42516154f.webp?v=1753460992",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_37c520c1-4c52-4477-8c90-a0d800dd5751.webp?v=1753460992"
   ],
-  "source_url": "https://laphont.com/en-us/products/sidewinder-silver?variant=51634554339633"
+  "source_url": "https://laphont.com/en-us/products/sidewinder-silver?variant=51634554339633",
+  "sku": "30012",
+  "price_rate": 111,
+  "source_price_usd": "81.00",
+  "source_regular_usd": "135.00"
  },
  {
   "id": 51450061488433,
@@ -18468,9 +19045,9 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 18900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 15100,
+  "old_rub": 18900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-14.webp?v=1749232873",
@@ -18481,7 +19058,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_526e8649-0640-424a-90b5-63f71259afa1.webp?v=1753461118",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-13.webp?v=1753461118"
   ],
-  "source_url": "https://laphont.com/en-us/products/argonaut-silver?variant=51450061488433"
+  "source_url": "https://laphont.com/en-us/products/argonaut-silver?variant=51450061488433",
+  "sku": "30020",
+  "price_rate": 111,
+  "source_price_usd": "136.00",
+  "source_regular_usd": "170.00"
  },
  {
   "id": 51450061521201,
@@ -18491,9 +19072,9 @@ const PRODUCTS = [
   "variant": "White",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 18900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 15100,
+  "old_rub": 18900,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_526e8649-0640-424a-90b5-63f71259afa1.webp?v=1753461118",
@@ -18504,7 +19085,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/IMG_9492.jpg?v=1753461118",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-13.webp?v=1753461118"
   ],
-  "source_url": "https://laphont.com/en-us/products/argonaut-silver?variant=51450061521201"
+  "source_url": "https://laphont.com/en-us/products/argonaut-silver?variant=51450061521201",
+  "sku": "30021",
+  "price_rate": 111,
+  "source_price_usd": "136.00",
+  "source_regular_usd": "170.00"
  },
  {
   "id": 51450061553969,
@@ -18514,9 +19099,9 @@ const PRODUCTS = [
   "variant": "Navy",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 18900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 15100,
+  "old_rub": 18900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-13.webp?v=1753461118",
@@ -18527,7 +19112,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/IMG_9492.jpg?v=1753461118",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_526e8649-0640-424a-90b5-63f71259afa1.webp?v=1753461118"
   ],
-  "source_url": "https://laphont.com/en-us/products/argonaut-silver?variant=51450061553969"
+  "source_url": "https://laphont.com/en-us/products/argonaut-silver?variant=51450061553969",
+  "sku": "30022",
+  "price_rate": 111,
+  "source_price_usd": "136.00",
+  "source_regular_usd": "170.00"
  },
  {
   "id": 51450065125681,
@@ -18537,9 +19126,9 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 18900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 13300,
+  "old_rub": 18900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-11.webp?v=1749233209",
@@ -18548,7 +19137,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/IMG_9492.jpg?v=1753461118",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12.webp?v=1749308520"
   ],
-  "source_url": "https://laphont.com/en-us/products/argonaut-gold?variant=51450065125681"
+  "source_url": "https://laphont.com/en-us/products/argonaut-gold?variant=51450065125681",
+  "sku": "30023",
+  "price_rate": 111,
+  "source_price_usd": "119.00",
+  "source_regular_usd": "170.00"
  },
  {
   "id": 51450065158449,
@@ -18558,9 +19151,9 @@ const PRODUCTS = [
   "variant": "Champagne",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 18900,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 13300,
+  "old_rub": 18900,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12.webp?v=1749308520",
@@ -18569,7 +19162,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_1a54a1bf-6827-429d-8355-27389a6666d2.webp?v=1749233209",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/IMG_9492.jpg?v=1753461118"
   ],
-  "source_url": "https://laphont.com/en-us/products/argonaut-gold?variant=51450065158449"
+  "source_url": "https://laphont.com/en-us/products/argonaut-gold?variant=51450065158449",
+  "sku": "30024",
+  "price_rate": 111,
+  "source_price_usd": "119.00",
+  "source_regular_usd": "170.00"
  },
  {
   "id": 51322804076849,
@@ -18579,10 +19176,10 @@ const PRODUCTS = [
   "variant": "White / Multi",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
-  "available": true,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
+  "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7.webp?v=1747675583",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/LOGF44.09.jpg?v=1753121137",
@@ -18594,7 +19191,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5.webp?v=1753121128",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8.webp?v=1753121128"
   ],
-  "source_url": "https://laphont.com/en-us/products/gem-silver?variant=51322804076849"
+  "source_url": "https://laphont.com/en-us/products/gem-silver?variant=51322804076849",
+  "sku": "40005",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51322804109617,
@@ -18604,9 +19205,9 @@ const PRODUCTS = [
   "variant": "White / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6.webp?v=1753121128",
@@ -18619,7 +19220,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5.webp?v=1753121128",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8.webp?v=1753121128"
   ],
-  "source_url": "https://laphont.com/en-us/products/gem-silver?variant=51322804109617"
+  "source_url": "https://laphont.com/en-us/products/gem-silver?variant=51322804109617",
+  "sku": "40006",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51322804142385,
@@ -18629,9 +19234,9 @@ const PRODUCTS = [
   "variant": "Mother of Pearl / Multi",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5.webp?v=1753121128",
@@ -18644,7 +19249,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6.webp?v=1753121128",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8.webp?v=1753121128"
   ],
-  "source_url": "https://laphont.com/en-us/products/gem-silver?variant=51322804142385"
+  "source_url": "https://laphont.com/en-us/products/gem-silver?variant=51322804142385",
+  "sku": "40007",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51322804175153,
@@ -18654,9 +19263,9 @@ const PRODUCTS = [
   "variant": "Mother of Pearl / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8.webp?v=1753121128",
@@ -18669,7 +19278,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6.webp?v=1753121128",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5.webp?v=1753121128"
   ],
-  "source_url": "https://laphont.com/en-us/products/gem-silver?variant=51322804175153"
+  "source_url": "https://laphont.com/en-us/products/gem-silver?variant=51322804175153",
+  "sku": "40008",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 50592832979249,
@@ -18679,9 +19292,9 @@ const PRODUCTS = [
   "variant": "Black / Extra Small",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9_ae5928d2-9d6b-4acc-be5d-3f2ca9881158.webp?v=1751383019",
@@ -18694,7 +19307,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_0a84c686-3866-41ab-8a4f-ee8bdd18ad61.webp?v=1753122263",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_ad091f66-53b1-49ac-b90f-1dac3e43d9cb.webp?v=1753122263"
   ],
-  "source_url": "https://laphont.com/en-us/products/mirage-gold?variant=50592832979249"
+  "source_url": "https://laphont.com/en-us/products/mirage-gold?variant=50592832979249",
+  "sku": "20043",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 50650512884017,
@@ -18704,9 +19321,9 @@ const PRODUCTS = [
   "variant": "Brown / Extra Small",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": false,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_0a84c686-3866-41ab-8a4f-ee8bdd18ad61.webp?v=1753122263",
@@ -18719,7 +19336,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-38.webp?v=1753122263",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_ad091f66-53b1-49ac-b90f-1dac3e43d9cb.webp?v=1753122263"
   ],
-  "source_url": "https://laphont.com/en-us/products/mirage-gold?variant=50650512884017"
+  "source_url": "https://laphont.com/en-us/products/mirage-gold?variant=50650512884017",
+  "sku": "20045",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 50650512916785,
@@ -18729,9 +19350,9 @@ const PRODUCTS = [
   "variant": "Green / Extra Small",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_ad091f66-53b1-49ac-b90f-1dac3e43d9cb.webp?v=1753122263",
@@ -18744,7 +19365,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-38.webp?v=1753122263",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-7_0a84c686-3866-41ab-8a4f-ee8bdd18ad61.webp?v=1753122263"
   ],
-  "source_url": "https://laphont.com/en-us/products/mirage-gold?variant=50650512916785"
+  "source_url": "https://laphont.com/en-us/products/mirage-gold?variant=50650512916785",
+  "sku": "20044",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 50592830783793,
@@ -18754,9 +19379,9 @@ const PRODUCTS = [
   "variant": "Extra Small",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_26e0a50d-62ef-4194-a31a-da1064293dc6.webp?v=1751383395",
@@ -18765,7 +19390,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-39.webp?v=1751383395",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4.webp?v=1751383395"
   ],
-  "source_url": "https://laphont.com/en-us/products/mirage-gold-copy?variant=50592830783793"
+  "source_url": "https://laphont.com/en-us/products/mirage-gold-copy?variant=50592830783793",
+  "sku": "20046",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 50452550156593,
@@ -18775,9 +19404,9 @@ const PRODUCTS = [
   "variant": "Natural / Multi",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/GEMSTONESLA.jpg?v=1736268314",
@@ -18791,7 +19420,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9.webp?v=1753121069",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10.webp?v=1753121069"
   ],
-  "source_url": "https://laphont.com/en-us/products/gem-gold-1?variant=50452550156593"
+  "source_url": "https://laphont.com/en-us/products/gem-gold-1?variant=50452550156593",
+  "sku": "40001",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 50452550123825,
@@ -18801,9 +19434,9 @@ const PRODUCTS = [
   "variant": "Natural / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/GEMSTONESLA-1.jpg?v=1753121069",
@@ -18817,7 +19450,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9.webp?v=1753121069",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10.webp?v=1753121069"
   ],
-  "source_url": "https://laphont.com/en-us/products/gem-gold-1?variant=50452550123825"
+  "source_url": "https://laphont.com/en-us/products/gem-gold-1?variant=50452550123825",
+  "sku": "40002",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51322832290097,
@@ -18827,9 +19464,9 @@ const PRODUCTS = [
   "variant": "Mother of Pearl / Multi",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9.webp?v=1753121069",
@@ -18843,7 +19480,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/GEMSTONESLA-1.jpg?v=1753121069",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10.webp?v=1753121069"
   ],
-  "source_url": "https://laphont.com/en-us/products/gem-gold-1?variant=51322832290097"
+  "source_url": "https://laphont.com/en-us/products/gem-gold-1?variant=51322832290097",
+  "sku": "40003",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 51322832322865,
@@ -18853,9 +19494,9 @@ const PRODUCTS = [
   "variant": "Mother of Pearl / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 12800,
-  "old_rub": null,
-  "sale": false,
+  "price_rub": 10300,
+  "old_rub": 12800,
+  "sale": true,
   "available": true,
   "images": [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10.webp?v=1753121069",
@@ -18869,7 +19510,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/GEMSTONESLA-1.jpg?v=1753121069",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-9.webp?v=1753121069"
   ],
-  "source_url": "https://laphont.com/en-us/products/gem-gold-1?variant=51322832322865"
+  "source_url": "https://laphont.com/en-us/products/gem-gold-1?variant=51322832322865",
+  "sku": "40004",
+  "price_rate": 111,
+  "source_price_usd": "92.00",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 50359234855217,
@@ -18879,7 +19524,7 @@ const PRODUCTS = [
   "variant": "Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 9000,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -18893,7 +19538,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_ed29f061-73b6-4e97-9cba-7442ce37e897.webp?v=1753121902",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_432a3230-135a-484d-bdb1-6a74fe3c1cc3.webp?v=1753121902"
   ],
-  "source_url": "https://laphont.com/en-us/products/ooblong-silver?variant=50359234855217"
+  "source_url": "https://laphont.com/en-us/products/ooblong-silver?variant=50359234855217",
+  "sku": "20051",
+  "price_rate": 111,
+  "source_price_usd": "80.50",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 50359234887985,
@@ -18903,7 +19552,7 @@ const PRODUCTS = [
   "variant": "Brown",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 9000,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -18917,7 +19566,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_89ce311f-3ada-48d7-824f-0ddadf997c85.webp?v=1753121902",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3_432a3230-135a-484d-bdb1-6a74fe3c1cc3.webp?v=1753121902"
   ],
-  "source_url": "https://laphont.com/en-us/products/ooblong-silver?variant=50359234887985"
+  "source_url": "https://laphont.com/en-us/products/ooblong-silver?variant=50359234887985",
+  "sku": "20052",
+  "price_rate": 111,
+  "source_price_usd": "80.50",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 50359234920753,
@@ -18927,7 +19580,7 @@ const PRODUCTS = [
   "variant": "Green",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 9000,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -18941,7 +19594,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-2_89ce311f-3ada-48d7-824f-0ddadf997c85.webp?v=1753121902",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_ed29f061-73b6-4e97-9cba-7442ce37e897.webp?v=1753121902"
   ],
-  "source_url": "https://laphont.com/en-us/products/ooblong-silver?variant=50359234920753"
+  "source_url": "https://laphont.com/en-us/products/ooblong-silver?variant=50359234920753",
+  "sku": "20053",
+  "price_rate": 111,
+  "source_price_usd": "80.50",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 50168940691761,
@@ -18951,7 +19608,7 @@ const PRODUCTS = [
   "variant": "White / Black",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 9000,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -18964,7 +19621,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_a28d72f4-4261-4b5d-8afd-fbb80cad116d.webp?v=1751385395",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_3e583f11-23f4-4dd3-bd18-4577e0b1a496.webp?v=1751385409"
   ],
-  "source_url": "https://laphont.com/en-us/products/ooblong-watch?variant=50168940691761"
+  "source_url": "https://laphont.com/en-us/products/ooblong-watch?variant=50168940691761",
+  "sku": "20024",
+  "price_rate": 111,
+  "source_price_usd": "80.50",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 50168940724529,
@@ -18974,7 +19635,7 @@ const PRODUCTS = [
   "variant": "White / Brown",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 9000,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -18987,7 +19648,11 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/ooblongback.webp?v=1751385372",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_3e583f11-23f4-4dd3-bd18-4577e0b1a496.webp?v=1751385409"
   ],
-  "source_url": "https://laphont.com/en-us/products/ooblong-watch?variant=50168940724529"
+  "source_url": "https://laphont.com/en-us/products/ooblong-watch?variant=50168940724529",
+  "sku": "20025",
+  "price_rate": 111,
+  "source_price_usd": "80.50",
+  "source_regular_usd": "115.00"
  },
  {
   "id": 50168940757297,
@@ -18997,7 +19662,7 @@ const PRODUCTS = [
   "variant": "White / Green",
   "type": "Watch",
   "brand": "LAPHONT",
-  "price_rub": 10300,
+  "price_rub": 9000,
   "old_rub": 12800,
   "sale": true,
   "available": true,
@@ -19010,6 +19675,702 @@ const PRODUCTS = [
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/ooblongback.webp?v=1751385372",
    "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_a28d72f4-4261-4b5d-8afd-fbb80cad116d.webp?v=1751385395"
   ],
-  "source_url": "https://laphont.com/en-us/products/ooblong-watch?variant=50168940757297"
+  "source_url": "https://laphont.com/en-us/products/ooblong-watch?variant=50168940757297",
+  "sku": "20026",
+  "price_rate": 111,
+  "source_price_usd": "80.50",
+  "source_regular_usd": "115.00"
+ },
+ {
+  "id": 54113027621191,
+  "product_id": 10844971139399,
+  "title": "Ava Silver Pink Bracelet",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 5500,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Ava_silver_pink_1.png?v=1780999989",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Isabell_Silver_Pink2.jpg?v=1781000920",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC08983.jpg?v=1781000783"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 53129557934407,
+  "product_id": 10602378363207,
+  "title": "Love Bracelet Gold",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Valentines_gift_1_1e8ed914-549f-4577-b3a0-cf387b7d13f8.png?v=1769133832",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Love_Bracelet_Gold.jpg?v=1777544459",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Love_Bracelet_Gold2.jpg?v=1777544459"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 53012741194055,
+  "product_id": 10564332945735,
+  "title": "Norela Earrings Gold",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_earrings_gold.png?v=1767360354",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_earrings_silver.png?v=1767360354",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_Ear_1.jpg?v=1772230638",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_Ear_2.jpg?v=1772230637",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_Ear_3.jpg?v=1772230637"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 53012741226823,
+  "product_id": 10564332945735,
+  "title": "Norela Earrings Silver",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_earrings_silver.png?v=1767360354",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_earrings_gold.png?v=1767360354",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_Ear_1.jpg?v=1772230638",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_Ear_2.jpg?v=1772230637",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Norela_Ear_3.jpg?v=1772230637"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 53012730904903,
+  "product_id": 10564330160455,
+  "title": "Nova Earrings Gold",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_earrings_gold.png?v=1767086681",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_earrings_silver.png?v=1767086682",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_Ear_1.jpg?v=1772230724",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_Ear_2.jpg?v=1772230724"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 53012730937671,
+  "product_id": 10564330160455,
+  "title": "Nova Earrings Silver",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_earrings_silver.png?v=1767086682",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_earrings_gold.png?v=1767086681",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_Ear_1.jpg?v=1772230724",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Nova_Ear_2.jpg?v=1772230724"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 52587395776839,
+  "product_id": 10434201256263,
+  "title": "Jade Gold Burgundy Bracelet",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Jade_gold_burgundy_1.png?v=1763640224",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Jade_gold_burgundy_2.png?v=1763640229"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 52145177723207,
+  "product_id": 10305406206279,
+  "title": "Cassie Earrings Gold",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cassi_gold_earrings_1_f433ec40-779b-47fb-a229-a30256e9f0d2.png?v=1784285080",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JECASG.jpg?v=1756471935",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JECASG_1.jpg?v=1756471935",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cassi_silver_earrings_1_ecbd16f3-cbfc-4829-935e-686b5974468c.png?v=1784285086"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 52145177755975,
+  "product_id": 10305406206279,
+  "title": "Cassie Earrings Silver",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cassi_silver_earrings_1_ecbd16f3-cbfc-4829-935e-686b5974468c.png?v=1784285086",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Cassi_gold_earrings_1_f433ec40-779b-47fb-a229-a30256e9f0d2.png?v=1784285080",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JECASG.jpg?v=1756471935",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JECASG_1.jpg?v=1756471935"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 52150305128775,
+  "product_id": 10306240381255,
+  "title": "Flora Gold White Set",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 11100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Flora_gold_white_set_1.png?v=1755512378",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JSFGW-1.jpg?v=1756466773",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JSFGW-2.jpg?v=1756466773",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JSFGW.jpg?v=1756466773"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 51627545723207,
+  "product_id": 10180320297287,
+  "title": "Fiona Chic Earrings Gold",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 5500,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_chic_earrings_gold.png?v=1749711350",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFIONACG.jpg?v=1750908849",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFIONACG_1.jpg?v=1750908849",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFIONACG_2.jpg?v=1750908849"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 51627545755975,
+  "product_id": 10180320297287,
+  "title": "Fiona Chic Earrings Silver",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 5500,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Fiona_chic_earrings_gold.png?v=1749711350",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFIONACG.jpg?v=1750908849",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFIONACG_1.jpg?v=1750908849",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFIONACG_2.jpg?v=1750908849"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 51627526455623,
+  "product_id": 10180309254471,
+  "title": "Trinity Necklace Gold",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 6900,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Trinity_gold.png?v=1749711605",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07568.jpg?v=1749711605",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07594.jpg?v=1749711605"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 51627526488391,
+  "product_id": 10180309254471,
+  "title": "Trinity Necklace Silver",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 6900,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Trinity_gold.png?v=1749711605",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07568.jpg?v=1749711605",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/DSC07594.jpg?v=1749711605"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50484660994375,
+  "product_id": 9750741287239,
+  "title": "Flora Gold White Earrings",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_4e0c34ed-6965-430c-89ce-c39869e743e1.png?v=1732713076",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-40.jpg?v=1735040585",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-44.jpg?v=1735040595"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50484619641159,
+  "product_id": 9750711796039,
+  "title": "Flora Gold White Ring",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_ce76796c-0ea2-4de1-ba72-d620934167a3.png?v=1732713109",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-38.jpg?v=1735040650",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-39.jpg?v=1735040649"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50484607713607,
+  "product_id": 9750699966791,
+  "title": "Flora Gold Black Earrings",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_dd2450e8-2830-4a4a-a2b5-2f8c9e2d6829.png?v=1732712032",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-fw24-261.jpg?v=1735040310",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-fw24-254.jpg?v=1735040310",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/Burker-fw24-255.jpg?v=1735040310"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50484606665031,
+  "product_id": 9750698656071,
+  "title": "Flora Silver White Earrings",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_4aaa4295-ad8c-41a7-ad4e-b3f5a27a7980.png?v=1732714022",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFLORASW.jpg?v=1739803016",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JEFLORASW1.jpg?v=1739803016"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50484522451271,
+  "product_id": 9750640165191,
+  "title": "Flora Gold Black Necklace",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 5500,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_68fdc5f2-7e51-4cb3-aa48-51a59ead76be.png?v=1732712304",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_8feb7f45-9747-4252-8d2f-be5b1bdb791e.png?v=1732712304",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-16.jpg?v=1735040331"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50484510163271,
+  "product_id": 9750634168647,
+  "title": "Flora Silver White Bracelet",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_bbec645d-0cbc-434b-845e-c0c7aa5c08d7.png?v=1732198233",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_59503c98-fad9-443f-9ccb-7c7dcd82aad8.png?v=1732198234",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFLORASW.jpg?v=1739802263",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFLORASW1.jpg?v=1739802263",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JBFLORASW2.jpg?v=1739802282"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50719795151175,
+  "product_id": 9874934563143,
+  "title": "Flora Silver Ring",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_13c273ca-0fcf-4c3d-b5e7-e2b48ea0ecf9.png?v=1733896206",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-53.jpg?v=1733898982"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50484616462663,
+  "product_id": 9750707831111,
+  "title": "Flora Gold Ring",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/JRFG.png?v=1732712899",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-68.jpg?v=1733898803",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-77.jpg?v=1733898803"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50484604109127,
+  "product_id": 9750697836871,
+  "title": "Flora Gold Earrings",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_e181ba7f-93ae-45fb-95c2-c93dccd0f07a.png?v=1732712346",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-75.jpg?v=1733898862",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-66_c9d89d97-995c-47b4-bb84-3f6f058d106c.jpg?v=1733898862"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50484602503495,
+  "product_id": 9750696395079,
+  "title": "Flora Silver Earrings",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_158b085e-0da7-41a2-997c-7d8b85c4d3eb.png?v=1732713118",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-61.jpg?v=1733899231",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-57.jpg?v=1733899231"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50484519502151,
+  "product_id": 9750638494023,
+  "title": "Flora Gold Necklace",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 5500,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_4b792c27-1432-4c9b-805d-ac5a5a66a23f.png?v=1732712583",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-76.jpg?v=1733898709",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_92acab11-b7e8-497c-a55e-c8fd9bc223f9.png?v=1733898709",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-66.jpg?v=1733898709"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50484505772359,
+  "product_id": 9750632694087,
+  "title": "Flora Silver Bracelet",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_9068295f-ab74-4187-929d-37bd63fc660f.png?v=1731928930",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_cb3c0e84-1847-437c-b875-717fdfbd998b.png?v=1731928931",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-58.jpg?v=1731926726",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter-jewelry-24-50.jpg?v=1731926746"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50324445823303,
+  "product_id": 9674422649159,
+  "title": "Jade Gold Black Bracelet",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_bb6d45ea-266d-4767-a5c0-34ed726b71ec.png?v=1728956251",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_4a326eae-bb9f-4ea7-9742-f5c86f098191.png?v=1728956251",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-143.jpg?v=1728959880",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-144.jpg?v=1728959887"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 50324442874183,
+  "product_id": 9674422059335,
+  "title": "Jade Gold Brown Bracelet",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_7da90aea-e690-4770-9a23-47595477219e.png?v=1729499581",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_b04e9fd2-c264-48a5-bd7c-0cf8a2fface8.png?v=1729499580",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-137.jpg?v=1728959686",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-fallwinter24-136.jpg?v=1728959686"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 49166856094023,
+  "product_id": 9080136859975,
+  "title": "Jade Silver Bracelet",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_b225eef1-34ce-468e-b8c6-c68ca98209ef.png?v=1728956331",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_d492bc30-db92-4850-8ee7-0a64d4cfa38c.png?v=1728956330",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-97.jpg?v=1710254246",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-104.jpg?v=1710254246"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 49166836203847,
+  "product_id": 9080128340295,
+  "title": "Jade Gold Bracelet",
+  "type": "Jewelry",
+  "brand": "BURKER WATCHES",
+  "price_rub": 4100,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/1_fae3e9a4-cde6-42c6-b1a1-4ec332fa4fa1.png?v=1728956227",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/2_d412bf77-1c98-4146-af85-8944fa895f77.png?v=1728956376",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-48.jpg?v=1710254242",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-98.jpg?v=1710254242",
+   "https://cdn.shopify.com/s/files/1/0367/8457/0412/files/burker-jewelry-square-102.jpg?v=1710254242"
+  ],
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 55712055492913,
+  "product_id": 10760699445553,
+  "title": "Bloc Large Silver Drawn Edition",
+  "model_name": "Bloc Large Silver Drawn Edition",
+  "variant": "Default Title",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 10900,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_d810433e-0766-4a7a-bbc0-fb3c0094c755.png?v=1787854433",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/silverdrawncrop.jpg?v=1787863246",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_3a8effcf-7334-401d-a019-1fa7b6212292.jpg?v=1774313817",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/sideslvr_1_f36e2767-e15a-4ff2-a2b9-b0f5ca7bcbf3.jpg?v=1774313817",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3.png?v=1774313817"
+  ],
+  "source_url": "https://laphont.com/en-us/products/bloc-large-silver-drawn-edition?variant=55712055492913",
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 55712055099697,
+  "product_id": 10760699248945,
+  "title": "Bloc Large Silver Blurry Edition",
+  "model_name": "Bloc Large Silver Blurry Edition",
+  "variant": "Default Title",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 10900,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_d527a7bd-4b37-437b-bb0b-500981560c60.png?v=1787857556",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-8_7ff6d55e-4eaf-45d2-8249-6935866c8f07.png?v=1787854176",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-1_3a8effcf-7334-401d-a019-1fa7b6212292.jpg?v=1774313817",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/sideslvr_1_f36e2767-e15a-4ff2-a2b9-b0f5ca7bcbf3.jpg?v=1774313817",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-3.png?v=1774313817"
+  ],
+  "source_url": "https://laphont.com/en-us/products/bloc-large-silver-blurry-edition?variant=55712055099697",
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 55712045269297,
+  "product_id": 10760695546161,
+  "title": "Bloc Small Gold — Black",
+  "model_name": "Bloc Small Gold",
+  "variant": "Black",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 10900,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-5_f36c5cc3-bb94-4ea9-87b5-d65a2c7beb45.png?v=1787862740",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/smallsquaregoldcrop.jpg?v=1787863311",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_dd2ef23a-0daa-4a4d-b3a9-40ca1185adc2.png?v=1787862740",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-12_036a42d7-2cab-40f8-8e18-eb11835b768e.png?v=1787862740",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_5d2918f0-93e1-42e4-bfd8-6f774279d93a.png?v=1787862740"
+  ],
+  "source_url": "https://laphont.com/en-us/products/bloc-small-gold?variant=55712045269297",
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 52454782075185,
+  "product_id": 10554172506417,
+  "title": "3mm Rope Bracelet — Stainless Steel",
+  "model_name": "3mm Rope Bracelet",
+  "variant": "Stainless Steel",
+  "type": "Jewelry",
+  "brand": "LAPHONT",
+  "price_rub": 2300,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-45_b021a9c0-8a8e-4d1f-a513-1226b6d053a3.png?v=1770832846",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-35_db4a8915-408b-4117-a9c5-35ae2e9ecd71.png?v=1770832853",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-46_14583666-80d6-4462-957a-f15f84a18c85.png?v=1770832853"
+  ],
+  "source_url": "https://laphont.com/en-us/products/3mm-rope-bracelet?variant=52454782075185",
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 52454782107953,
+  "product_id": 10554172506417,
+  "title": "3mm Rope Bracelet — 14k Gold Plated Stainless Steel",
+  "model_name": "3mm Rope Bracelet",
+  "variant": "14k Gold Plated Stainless Steel",
+  "type": "Jewelry",
+  "brand": "LAPHONT",
+  "price_rub": 2300,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-46_14583666-80d6-4462-957a-f15f84a18c85.png?v=1770832853",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-45_b021a9c0-8a8e-4d1f-a513-1226b6d053a3.png?v=1770832846",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-35_db4a8915-408b-4117-a9c5-35ae2e9ecd71.png?v=1770832853"
+  ],
+  "source_url": "https://laphont.com/en-us/products/3mm-rope-bracelet?variant=52454782107953",
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
+ },
+ {
+  "id": 52076732776753,
+  "product_id": 10461233185073,
+  "title": "Laurent Small Gold — White",
+  "model_name": "Laurent Small Gold",
+  "variant": "White",
+  "type": "Watch",
+  "brand": "LAPHONT",
+  "price_rub": 11900,
+  "old_rub": null,
+  "sale": false,
+  "available": false,
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image_80c9e699-b0cf-4d80-95fc-7bdac78d1916.png?v=1763761322",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-4_f7bb0586-29fa-410a-b853-bed4566b7093.png?v=1763761322",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-6_9893ba3f-a595-4e83-ab8f-cdb4e9176365.png?v=1763761322",
+   "https://cdn.shopify.com/s/files/1/0741/4235/1665/files/Image-10_85ae5dc2-c978-4f67-a27a-62f144871c12.png?v=1763761322"
+  ],
+  "source_url": "https://laphont.com/en-us/products/laurent-small-gold-leather?variant=52076732776753",
+  "availability_label": "СНЯТО С ВИТРИНЫ",
+  "source_status": "not_in_current_public_export"
  }
 ];

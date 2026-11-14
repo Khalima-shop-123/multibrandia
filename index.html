@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MULTIBRANDIA — часы и украшения со всего мира</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
-<script src="products.js?v=20261108-no-promo"></script>
+<script src="products.js?v=83dd291d39f8"></script>
 <script src="mathey.js?v=20261015-17"></script>
 <script src="advents.js?v=20261015-17"></script>
 <style>
@@ -393,7 +393,7 @@ function renderShowcase(){
  const hero=items.find(p=>p.type==='Watch'&&p.images.length);
  sc.replaceChildren();
  const laphont=PRODUCTS.filter(p=>brandOf(p)==='LAPHONT');
- const covers=[{key:'LAPHONT',title:'LAPHONT',src:laphont.find(p=>p.type==='Watch'&&p.available)?.images[0]||laphont[0]?.images[0],count:laphont.filter(p=>p.available).length},{key:'BURKER',title:'BURKER',src:hero?.images[0]||'banner-burker.jpg',count:items.length},
+ const covers=[{key:'LAPHONT',title:'LAPHONT',src:laphont.find(p=>p.type==='Watch'&&p.available)?.images[0]||laphont[0]?.images[0],count:laphont.filter(p=>p.available).length},{key:'BURKER',title:'BURKER',src:hero?.images[0]||'banner-burker.jpg',count:items.filter(p=>p.available).length},
  {key:'Advent',title:'Адвент календари',src:'banner-advents.png',count:PRODUCTS.filter(p=>p.type==='Advent'&&p.available).length}];
  for(const cover of covers){const d=document.createElement('div');d.className='bcard'+(cover.key==='Advent'?' advent-cover':'');d.tabIndex=0;d.setAttribute('role','button');d.setAttribute('aria-label',cover.title);d.onclick=()=>pickBrand(cover.key);d.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();pickBrand(cover.key);}};
  d.innerHTML=`<img src="${esc(cover.src)}" alt="${esc(cover.title)}">`+(cover.key==='Advent'?'':`<div class="bover"></div><div class="bname">${esc(cover.title)}</div><div class="bcount">${cover.count} товаров в наличии</div>`);
